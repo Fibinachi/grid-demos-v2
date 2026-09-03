@@ -1,0 +1,27 @@
+Subject: American Religious Infrastructure — A Missing Dataset for Faith-Based Nutrition Outreach
+
+Dear [Name],
+
+Thank you for your thoughtful reply regarding the Eleanor Crook Foundation's strategic priorities around scaling solutions to child malnutrition through research, policy analysis, and advocacy.
+
+I'm not writing to request individual funding. I'm writing because I believe your team is working without a critical piece of data — and I've built it.
+
+The American Religious Infrastructure dataset maps 393,416 congregations across the United States, with denomination classification, geographic coordinates, and county-level ACS demographic context. There are 58,934 congregations in America's 403 highest-poverty counties (≥20% poverty rate). These churches, mosques, temples, and synagogues are pre-positioned distribution points — they have roofs, refrigerators, parking lots, volunteers, and multigenerational trust in their communities. But no one has systematically mapped them for nutrition program targeting.
+
+I've attached a brief report identifying the top 50 congregations in America's highest-poverty counties, plus aggregate analysis by denomination and geography. A few highlights:
+
+• 403 counties with ≥20% poverty rate contain 58,934 mapped congregations
+• Average poverty rate in these counties: 23.2%
+• The hardest-hit counties (Greene, Perry, and Sumter in Alabama's Black Belt) have poverty rates above 30%
+• Southern Baptist, United Methodist, AME, and Catholic networks alone account for tens of thousands of potential distribution points
+
+This dataset could help ECF answer questions like:
+— Where are the trusted community institutions in USDA food deserts?
+— Which denominations have the deepest presence in the highest-need counties?
+— Where could a 50-congregation nutrition pilot have the greatest impact?
+
+I'd welcome a brief conversation about whether this data could support your work. No funding requested — I just think you should know it exists.
+
+Best regards,
+Charles Prescott
+GrantWizard / American Religious Infrastructure

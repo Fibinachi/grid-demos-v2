@@ -1,0 +1,551 @@
+========================================================================
+  EPISCOPAL CHURCH (TEC): CONGREGATIONS IN FOOD-INSECURE COMMUNITIES
+========================================================================
+  Generated: June 16, 2026
+  Source: American Religious Infrastructure Dataset (BigQuery)
+  Total TEC congregations: 1,147
+  Showing: 362 in counties with >=15% poverty (31.6% of total)
+
+  EXCLUDED: foundations, endowments, trusts, schools, diocese offices,
+  bishops, conventions, retirement homes. Filtered by denomination = 'Episcopal Church'.
+  Diocese-prefixed legal names cleaned.
+========================================================================
+
+------------------------------------------------------------------------
+  TOP 50 BY COUNTY POVERTY RATE
+------------------------------------------------------------------------
+    # Congregation                                          Location                  Pov Diocese                 
+  --- ----------------------------------------------------- ---------------------- ------ ------------------------
+    1 GRACE PROTESTANT EPISCOPAL CHURCH OF RADFORD VA       RADFORD, VA             39.3% Virginia                
+    2 ST MARYS EPISCOPAL CHURCH                             MIDDLESBORO, KY         31.3% Lexington               
+    3 SAINT JAMES EPISCOPAL CHURCH                          HEBBRONVILLE, TX        31.3% West Texas              
+    4 ST BARNABAS EPISCOPAL CHURCH                          DILLON, SC              30.2% South Carolina          
+    5 ST PAULS EPISCOPAL CHURCH                             BENNETTSVILLE, SC       29.4% South Carolina          
+    6 ST MARYS EPISCOPAL CHURCH                             MONTEZUMA, GA           28.6% Atlanta                 
+    7 ST JAMES EPISCOPAL CHURCH                             EUFAULA, AL             28.6% Alabama                 
+    8 ST MATTHEWS EPISCOPAL CHURCH                          EDINBURG, TX            28.4% West Texas              
+    9 ST JOHNS EPISCOPAL CHURCH                             MCALLEN, TX             28.4% West Texas              
+   10 ST ALBANS EPISCOPAL CHURCH                            BLACKVILLE, SC          27.8% South Carolina          
+   11 ST DAVIDS EPISCOPAL CHURCH                            LAURINBURG, NC          27.3% North Carolina          
+   12 CHURCH OF THE EPIPHANY EPISCOPAL CHURCH               KINGSVILLE, TX          27.2% West Texas              
+   13 SAINT SIMEONS EPISCOPAL CHURCH                        BRONX, NY               27.0% New York                
+   14 ST LUKES EPISCOPAL CHURCH                             BRONX, NY               27.0% New York                
+   15 CHURCH OF THE ADVENT EPISCOPAL                        BROWNSVILLE, TX         26.7% West Texas              
+   16 ST ANDREWS BY THE SEA EPISCOPAL CHURCH                PORT ISABEL, TX         26.7% West Texas              
+   17 ST GREGORYS EPISCOPAL CHURCH INC                      ATHENS, GA              26.5% Atlanta                 
+   18 ST GREGORY THE GREAT EPISCOPAL CHURCH                 ATHENS, GA              26.5% Atlanta                 
+   19 EMMANUEL EPISCOPAL CHURCH                             ATHENS, GA              26.5% Atlanta                 
+   20 GRACE CHURCH                                          WELDON, NC              25.6% North Carolina          
+   21 ALL SAINTS EPISCOPAL CHURCH                           ROANOKE RAPID, NC       25.6% North Carolina          
+   22 ALL SAINTS EPISCOPAL CHURCH                           ROANOKE RAPID, NC       25.6% North Carolina          
+   23 TRINITY EPISCOPAL CHURCH                              SCOTLAND NECK, NC       25.6% North Carolina          
+   24 ST ANNAS EPISCOPAL CHURCH                             LITTLETON, NC           25.6% North Carolina          
+   25 ST ALBANS EPISCOPAL CHURCH                            LITTLETON, NC           25.6% North Carolina          
+   26 ST MARKS EPISCOPAL CHURCH                             HALIFAX, NC             25.6% North Carolina          
+   27 TRINITY EPISCOPAL CHURCH                              SCOTLAND NECK, NC       25.6% North Carolina          
+   28 SAINT FRANCIS EPISCOPAL CHURCH                        MACON, GA               25.0% Atlanta                 
+   29 SAINT PAULS EPISCOPAL CHURCH                          MACON, GA               25.0% Atlanta                 
+   30 SAINT JAMES EPISCOPAL CHURCH                          MACON, GA               25.0% Atlanta                 
+   31 CHRIST CHURCH EPISCOPAL                               LAREDO, TX              24.6% Texas                   
+   32 ST JOHNS EPISCOPAL CHURCH                             MT PLEASANT, MI         24.6% Michigan                
+   33 ST ALBANS EPISCOPAL CHURCH                            ELBERTON, GA            24.5% Atlanta                 
+   34 ST THOMAS EPISCOPAL CHURCH                            COLLEGE STA, TX         23.9% Texas                   
+   35 ST DAVIDS EPISCOPAL CHURCH                            PHILADELPHIA, PA        23.1% Pennsylvania            
+   36 ST GABRIELS EPISCOPAL CHURCH                          PHILADELPHIA, PA        23.1% Pennsylvania            
+   37 ADVOCATE EPISCOPAL CHURCH                             PHILADELPHIA, PA        23.1% Pennsylvania            
+   38 CALVARY ST AUGUSTINE EPISCOPAL CHURCH                 PHILADELPHIA, PA        23.1% Pennsylvania            
+   39 MOUNT OLIVET EPISCOPAL CHURCH                         NEW ORLEANS, LA         23.0% Louisiana               
+   40 ST THOMAS AMERICAN EPISCOPAL CHURCH OF LOUISIANA INC  NEW ORLEANS, LA         23.0% Louisiana               
+   41 ST PHILIPS EPISCOPAL CHURCH                           NEW ORLEANS, LA         23.0% Louisiana               
+   42 GRACE EPISCOPAL CHURCH                                NEW ORLEANS, LA         23.0% Louisiana               
+   43 ST ANNAS EPISCOPAL CHURCH                             NEW ORLEANS, LA         23.0% Louisiana               
+   44 ST GEORGES EPISCOPAL CHURCH                           NEW ORLEANS, LA         23.0% Louisiana               
+   45 ST ANDREWS EPISCOPAL CHURCH                           NEW ORLEANS, LA         23.0% Louisiana               
+   46 ALL SOULS EPISCOPAL CHURCH AND COMMUNITY CENTER [Comm NEW ORLEANS, LA         23.0% Louisiana               
+   47 ST PAULS EPISCOPAL CHURCH                             NEW ORLEANS, LA         23.0% Louisiana               
+   48 TRINITY EPISCOPAL CHURCH                              NEW ORLEANS, LA         23.0% Louisiana               
+   49 MESSSIAH EPISCOPAL CHURCH                             ROCKINGHAM, NC          22.4% North Carolina          
+   50 ALL SAINTS EPISCOPAL CHURCH                           HAMLET, NC              22.4% North Carolina          
+
+------------------------------------------------------------------------
+  SUMMARY
+------------------------------------------------------------------------
+  >=15% poverty: 362 (31.6%)  |  >=20%: 97 (8.5%)
+  Avg poverty rate: 18.4%  |  Avg median income: $61,661
+  Dioceses represented: 48
+  Highest poverty county: 39.3%
+
+========================================================================
+  BY DIOCESE
+========================================================================
+
+  Diocese of North Carolina
+  66 congregations | avg 18.8% poverty | max 27.3%
+  ------------------------------------------------------------
+    ST DAVIDS EPISCOPAL CHURCH                            LAURINBURG, NC          27.3%
+    GRACE CHURCH                                          WELDON, NC              25.6%
+    ALL SAINTS EPISCOPAL CHURCH                           ROANOKE RAPID, NC       25.6%
+    ALL SAINTS EPISCOPAL CHURCH                           ROANOKE RAPID, NC       25.6%
+    TRINITY EPISCOPAL CHURCH                              SCOTLAND NECK, NC       25.6%
+    ST ANNAS EPISCOPAL CHURCH                             LITTLETON, NC           25.6%
+    ST ALBANS EPISCOPAL CHURCH                            LITTLETON, NC           25.6%
+    ST MARKS EPISCOPAL CHURCH                             HALIFAX, NC             25.6%
+    TRINITY EPISCOPAL CHURCH                              SCOTLAND NECK, NC       25.6%
+    MESSSIAH EPISCOPAL CHURCH                             ROCKINGHAM, NC          22.4%
+    ALL SAINTS EPISCOPAL CHURCH                           HAMLET, NC              22.4%
+    EPIPHANY EPISCOPAL CHURCH                             ROCKY MOUNT, NC         22.3%
+    ... +54 more
+
+  Diocese of Texas
+  47 congregations | avg 16.7% poverty | max 24.6%
+  ------------------------------------------------------------
+    CHRIST CHURCH EPISCOPAL                               LAREDO, TX              24.6%
+    ST THOMAS EPISCOPAL CHURCH                            COLLEGE STA, TX         23.9%
+    ST STEPHENS EPISCOPAL CHURCH                          HUNTSVILLE, TX          20.7%
+    TRINITY EPISCOPAL CHURCH                              JASPER, TX              20.3%
+    CHRIST EPISCOPAL CHURCH MEXIA                         MEXIA, TX               19.3%
+    ST PAULS EPISCOPAL CHURCH THRIFT SHOP                 WOODVILLE, TX           18.5%
+    ST PAULS EPISCOPAL CHURCH                             WACO, TX                18.5%
+    ST ALBANS EPISCOPAL CHURCH                            WACO, TX                18.5%
+    HOLY SPIRIT EPISCOPAL CHURCH                          WACO, TX                18.5%
+    ST MARKS EPISCOPAL CHURCH                             BEAUMONT, TX            18.0%
+    ST GEORGES EPISCOPAL CHURCH                           PORT ARTHUR, TX         18.0%
+    ST MARKS EPISCOPAL CHURCH                             BAY CITY, TX            17.9%
+    ... +35 more
+
+  Diocese of West Texas
+  33 congregations | avg 19.0% poverty | max 31.3%
+  ------------------------------------------------------------
+    SAINT JAMES EPISCOPAL CHURCH                          HEBBRONVILLE, TX        31.3%
+    ST MATTHEWS EPISCOPAL CHURCH                          EDINBURG, TX            28.4%
+    ST JOHNS EPISCOPAL CHURCH                             MCALLEN, TX             28.4%
+    CHURCH OF THE EPIPHANY EPISCOPAL CHURCH               KINGSVILLE, TX          27.2%
+    CHURCH OF THE ADVENT EPISCOPAL                        BROWNSVILLE, TX         26.7%
+    ST ANDREWS BY THE SEA EPISCOPAL CHURCH                PORT ISABEL, TX         26.7%
+    ST MICHAELS EPISCOPAL CHURCH MISSION                  SANDIA, TX              21.6%
+    ALICE EPISCOPAL CHURCH OF THE ADVENT                  ALICE, TX               21.6%
+    EPISCOPAL CHURCH OF THE ASCENSION MISSION             UVALDE, TX              21.0%
+    ST ALBANS EPISCOPAL CHURCH OF EL PASO TEXAS           EL PASO, TX             19.5%
+    ALL SAINTS EPISCOPAL CHURCH OF EL PASO                EL PASO, TX             19.5%
+    ST CHRISTOPHERS BY THE SEA EPISCOPAL CHURCH           PORTLAND, TX            19.1%
+    ... +21 more
+
+  Diocese of Louisiana
+  22 congregations | avg 19.7% poverty | max 23.0%
+  ------------------------------------------------------------
+    MOUNT OLIVET EPISCOPAL CHURCH                         NEW ORLEANS, LA         23.0%
+    ST THOMAS AMERICAN EPISCOPAL CHURCH OF LOUISIANA INC  NEW ORLEANS, LA         23.0%
+    ST PHILIPS EPISCOPAL CHURCH                           NEW ORLEANS, LA         23.0%
+    GRACE EPISCOPAL CHURCH                                NEW ORLEANS, LA         23.0%
+    ST ANNAS EPISCOPAL CHURCH                             NEW ORLEANS, LA         23.0%
+    ST GEORGES EPISCOPAL CHURCH                           NEW ORLEANS, LA         23.0%
+    ST ANDREWS EPISCOPAL CHURCH                           NEW ORLEANS, LA         23.0%
+    ALL SOULS EPISCOPAL CHURCH AND COMMUNITY CENTER [Comm NEW ORLEANS, LA         23.0%
+    ST PAULS EPISCOPAL CHURCH                             NEW ORLEANS, LA         23.0%
+    TRINITY EPISCOPAL CHURCH                              NEW ORLEANS, LA         23.0%
+    GRACE MEMORIAL EPISCOPAL CHURCH                       HAMMOND, LA             20.2%
+    ST PATRICKS EPISCOPAL CHURCH                          ZACHARY, LA             17.4%
+    ... +10 more
+
+  Diocese of Atlanta
+  21 congregations | avg 21.3% poverty | max 28.6%
+  ------------------------------------------------------------
+    ST MARYS EPISCOPAL CHURCH                             MONTEZUMA, GA           28.6%
+    ST GREGORYS EPISCOPAL CHURCH INC                      ATHENS, GA              26.5%
+    ST GREGORY THE GREAT EPISCOPAL CHURCH                 ATHENS, GA              26.5%
+    EMMANUEL EPISCOPAL CHURCH                             ATHENS, GA              26.5%
+    SAINT FRANCIS EPISCOPAL CHURCH                        MACON, GA               25.0%
+    SAINT PAULS EPISCOPAL CHURCH                          MACON, GA               25.0%
+    SAINT JAMES EPISCOPAL CHURCH                          MACON, GA               25.0%
+    ST ALBANS EPISCOPAL CHURCH                            ELBERTON, GA            24.5%
+    SAINT ANDREWS EPISCOPAL CHURCH                        FORT VALLEY, GA         20.9%
+    ST THOMAS OF CANTERBURY EPISCOPAL CHURCH              THOMASTON, GA           20.4%
+    ST MARY MAGDALENE EPISCOPAL CHURCH                    COLUMBUS, GA            20.0%
+    TRINITY EPISCOPAL CHURCH                              COLUMBUS, GA            20.0%
+    ... +9 more
+
+  Diocese of Upper South Carolina
+  16 congregations | avg 17.2% poverty | max 21.2%
+  ------------------------------------------------------------
+    ST DAVIDS EPISCOPAL CHURCH                            CHERAW, SC              21.2%
+    ST STEPHENS EPISCOPAL CHURCH                          RIDGEWAY, SC            18.5%
+    ST MARK EPISCOPAL CHURCH                              CHESTER, SC             18.5%
+    ST PETERS EPISCOPAL CHURCH                            GREAT FALLS, SC         18.5%
+    TRINITY EPISCOPAL CHURCH                              ABBEVILLE, SC           17.7%
+    ST LUKES EPISCOPAL CHURCH                             NEWBERRY, SC            17.5%
+    ST MICHAEL AND ALL ANGELS EPISCOPAL CHURCH            COLUMBIA, SC            16.5%
+    EPISCOPAL CHURCH OF ST SIMON OF ST JUDE               IRMO, SC                16.5%
+    ST JOHNS EPISCOPAL CHURCH                             COLUMBIA, SC            16.5%
+    PARISH CHURCH OF ST MARTINS IN THE FIELDS             COLUMBIA, SC            16.5%
+    EPISCOPAL CHURCH OF THE CROSS                         COLUMBIA, SC            16.5%
+    ST MARYS EPISCOPAL CHURCH                             IRMO, SC                16.5%
+    ... +4 more
+
+  Diocese of West Missouri
+  15 congregations | avg 17.4% poverty | max 22.1%
+  ------------------------------------------------------------
+    ST PAULS EPISCOPAL CHURCH                             IRONTON, MO             22.1%
+    ST OSWALDS IN THE FIELDS EPISCOPAL CHURCH SKIDMORE    SKIDMORE, MO            20.7%
+    CHRIST CHURCH EPISCOPAL                               ROLLA, MO               19.6%
+    ST NICHOLAS EPISCOPAL CHURCH NOEL                     NOEL, MO                19.3%
+    ST STEPHENS EPISCOPAL CHURCH MONETT                   MONETT, MO              18.2%
+    ST PHILIPS EPISCOPAL CHURCH                           JOPLIN, MO              17.7%
+    GRACE EPISCOPAL CHURCH CARTHAGE                       CARTHAGE, MO            17.7%
+    ST PAULS EPISCOPAL CHURCH CLINTON                     CLINTON, MO             17.6%
+    CHRIST EPISCOPAL CHURCH                               CPE GIRARDEAU, MO       15.8%
+    SHEPHERD OF THE HILLS EPISCOPAL CHURCH BRANSON        BRANSON, MO             15.7%
+    CHRIST EPISCOPAL CHURCH ST JOSEPH                     SAINT JOSEPH, MO        15.7%
+    CALVARY EPISCOPAL CHURCH SEDALIA                      SEDALIA, MO             15.3%
+    ... +3 more
+
+  Diocese of Southeast Florida
+  12 congregations | avg 16.0% poverty | max 16.0%
+  ------------------------------------------------------------
+    TRINITY EPISCOPAL CATHEDRAL                           MIAMI, FL               16.0%
+    ALL SOULS EPISCOPAL CHURCH                            MIAMI BEACH, FL         16.0%
+    ST AGNES EPISCOPAL CHURCH                             MIAMI, FL               16.0%
+    ST BERNARD DE CLAIRVAUX EPISCOPAL CHURCH              N MIAMI BEACH, FL       16.0%
+    ST STEPHENS EPISCOPAL CHURCH                          MIAMI, FL               16.0%
+    ST ANDREWS EPISCOPAL CHURCH                           PALMETTO BAY, FL        16.0%
+    ST PHILIPS EPISCOPAL CHURCH                           CORAL GABLES, FL        16.0%
+    CHURCH OF THE HOLY FAMIL                              MIAMI GARDENS, FL       16.0%
+    ALL ANGELS EPISCOPAL CHURCH                           MIAMI SPRINGS, FL       16.0%
+    ST JOHNS EPISCOPAL CHURCH                             HOMESTEAD, FL           16.0%
+    ST JOHNS EPISCOPAL CHURCH                             MIAMI, FL               16.0%
+    HOLY COMFORTER EPISCOPAL CHURCH                       MIAMI, FL               16.0%
+
+  Diocese of Washington
+  12 congregations | avg 15.5% poverty | max 15.5%
+  ------------------------------------------------------------
+    SAINT ANDREWS PROTESTANT EPISCOPAL CHURCH             WASHINGTON, DC          15.5%
+    SAINT LUKES PROTESTANT EPISCOPAL CHURCH               WASHINGTON, DC          15.5%
+    ST GEORGE EPISCOPAL CHURCH                            WASHINGTON, DC          15.5%
+    ST PATRICKS EPISCOPAL CHURCH                          WASHINGTON, DC          15.5%
+    ST JOHNS EPISCOPAL CHURCH                             WASHINGTON, DC          15.5%
+    EPISCOPAL CHURCH OF OUR SAVIOUR                       WASHINGTON, DC          15.5%
+    ALL SOULS MEMORIAL EPISCOPAL CHURCH                   WASHINGTON, DC          15.5%
+    ST MARYS EPISCOPAL CHURCH                             WASHINGTON, DC          15.5%
+    CALVARY EPISCOPAL CHURCH                              WASHINGTON, DC          15.5%
+    ST AUGUSTINES EPISCOPAL CHURCH                        WASHINGTON, DC          15.5%
+    GRACE EPISCOPAL CHURCH                                WASHINGTON, DC          15.5%
+    STMARKS EPISCOPAL CHURCH                              WASHINGTON, DC          15.5%
+
+  Diocese of Alabama
+  11 congregations | avg 18.4% poverty | max 28.6%
+  ------------------------------------------------------------
+    ST JAMES EPISCOPAL CHURCH                             EUFAULA, AL             28.6%
+    BLACK BELT MINISTRIES EPISCOPAL TRINITY EPISCOPAL CHU DEMOPOLIS, AL           21.6%
+    ST JOHNS EPISCOPAL CHURCH                             MONTGOMERY, AL          18.8%
+    GRACE EPISCOPAL CHURCH MT MEIGS AL                    PIKE ROAD, AL           18.8%
+    ST JOHNS EPISCOPAL CHURCH                             MOBILE, AL              17.9%
+    ALL SAINTS EPISCOPAL CHURCH                           MOBILE, AL              17.9%
+    EPISCOPAL CHURCH OF THE HOLY COMFORTER                GADSDEN, AL             16.0%
+    PROTESTANT EPISCOPAL CHURCH IN DIOCESE OF ALABAMA     BIRMINGHAM, AL          15.7%
+    CHRIST THE KING EPISCOPAL CHURCH GEC                  BIRMINGHAM, AL          15.7%
+    THE EPISCOPAL CHURCH OF JESUS                         BIRMINGHAM, AL          15.7%
+    ST THOMAS EPISCOPAL CHURCH                            VESTAVIA, AL            15.7%
+
+  Diocese of South Carolina
+  9 congregations | avg 22.0% poverty | max 30.2%
+  ------------------------------------------------------------
+    ST BARNABAS EPISCOPAL CHURCH                          DILLON, SC              30.2%
+    ST PAULS EPISCOPAL CHURCH                             BENNETTSVILLE, SC       29.4%
+    ST ALBANS EPISCOPAL CHURCH                            BLACKVILLE, SC          27.8%
+    ST MATTHIAS EPISCOPAL CHURCH                          SUMMERTON, SC           21.7%
+    CHRIST EPISCOPAL CHURCH SOUTH PALMETTO ST             DENMARK, SC             21.0%
+    ST AUGUSTINES EPISCOPAL CHURCH                        WEDGEFIELD, SC          18.1%
+    SAINT CATHERINES EPISCOPAL CHURCH                     FLORENCE, SC            17.4%
+    HOLY CROSS FAITH MEMORIAL EPISCOPAL CHURCH            PAWLEYS ISL, SC         16.1%
+    ALL SAINTS PARISH WACCAMAW EPISCOPAL CHURCH           PAWLEYS ISL, SC         16.1%
+
+  Diocese of Michigan
+  7 congregations | avg 18.0% poverty | max 24.6%
+  ------------------------------------------------------------
+    ST JOHNS EPISCOPAL CHURCH                             MT PLEASANT, MI         24.6%
+    ST ANDREWS EPISCOPAL CHURCH                           BIG RAPIDS, MI          19.5%
+    EPISCOPAL CHURCH OF THE RESURRECTION                  BATTLE CREEK, MI        16.7%
+    ST JAMES EPISCOPAL CHURCH                             ALBION, MI              16.7%
+    ST THOMAS EPISCOPAL CHURCH                            BATTLE CREEK, MI        16.7%
+    ST AUGUSTINE OF CANTERBURY EPISCOPAL CHURCH           BENTON HARBOR, MI       16.3%
+    SAINT MARKS EPISCOPAL CHURCH                          NEWAYGO, MI             15.9%
+
+  Diocese of Missouri
+  7 congregations | avg 18.9% poverty | max 21.9%
+  ------------------------------------------------------------
+    HOLY CROSS EPISCOPAL CHURCH                           POPLAR BLUFF, MO        21.9%
+    ST JOHN EPISCOPAL CHURCH                              SAINT LOUIS, MO         20.4%
+    ST MARKS EPISCOPAL CHURCH                             SAINT LOUIS, MO         20.4%
+    TRINITY EPISCOPAL CHURCH                              SAINT LOUIS, MO         20.4%
+    CALVARY EPISCOPAL CHURCH                              COLUMBIA, MO            16.9%
+    ST JOHNS EPISCOPAL CHURCH                             LOUISIANA, MO           16.4%
+    ALL SAINTS EPISCOPAL CHURCH                           FARMINGTON, MO          16.1%
+
+  Diocese of Maryland
+  7 congregations | avg 18.8% poverty | max 20.0%
+  ------------------------------------------------------------
+    MEMORIAL EPISCOPAL CHURCH                             BALTIMORE, MD           20.0%
+    ALL SAINTS EPISCOPAL CHURCH                           BALTIMORE, MD           20.0%
+    SAINT ANDREWS EPISCOPAL CHURCH                        BALTIMORE, MD           20.0%
+    SAINT JOHNS PROTESTANT EPISCOPAL CHURCH               BALTIMORE, MD           20.0%
+    ST BARTHOLOMEWS EPISCOPAL CHURCH                      BALTIMORE, MD           20.0%
+    EMMANUEL EPISCOPAL CHURCH                             CUMBERLAND, MD          15.6%
+    SAINT GEORGES EPISCOPAL CHURCH                        MOUNT SAVAGE, MD        15.6%
+
+  Diocese of Southwest Florida
+  6 congregations | avg 15.1% poverty | max 15.1%
+  ------------------------------------------------------------
+    CHRIST CHURCH EPISCOPAL                               FT MEADE, FL            15.1%
+    CHRIST THE KING EPISCOPAL CHURCH                      LAKELAND, FL            15.1%
+    ST DAVIDS EPISCOPAL CHURCH OF LAKELAND INC            LAKELAND, FL            15.1%
+    ALL SAINTS EPISCOPAL CHURCH                           LAKELAND, FL            15.1%
+    ST LUKE EPISCOPAL CHURCH                              MULBERRY, FL            15.1%
+    ST STEPHENS EPISCOPAL CHURCH HWY 540 A                LAKELAND, FL            15.1%
+
+  Diocese of New York
+  5 congregations | avg 20.1% poverty | max 27.0%
+  ------------------------------------------------------------
+    SAINT SIMEONS EPISCOPAL CHURCH                        BRONX, NY               27.0%
+    ST LUKES EPISCOPAL CHURCH                             BRONX, NY               27.0%
+    ST MICHAELS PROTESTANT EPISCOPAL CHURCH               NEW YORK, NY            15.6%
+    TRAVELERS REST BAPTIST CHURCH                         NEW YORK, NY            15.6%
+    CHURCH OF ST IGNATIUS LOYOLA                          NEW YORK, NY            15.6%
+
+  Diocese of Western Louisiana
+  5 congregations | avg 19.6% poverty | max 20.6%
+  ------------------------------------------------------------
+    ST STEPHENS EPISCOPAL CHURCH                          INNIS, LA               20.6%
+    ST MARYS EPISCOPAL CHURCH                             MORGANZA, LA            20.6%
+    ST PAULS HOLY TRINITY EPISCOPAL CHURCH                NEW ROADS, LA           20.6%
+    ST MATTHEWS EPISCOPAL CHURCH                          HOUMA, LA               18.8%
+    ST JOHNS EPISCOPAL CHURCH                             THIBODAUX, LA           17.4%
+
+  Diocese of Florida
+  5 congregations | avg 15.6% poverty | max 16.0%
+  ------------------------------------------------------------
+    ST FRANCES OF ASSISSI EPISCOPAL CHURCH                LAKE PLACID, FL         16.0%
+    ST PATRICK EPISCOPAL CHURCH                           OCALA, FL               15.5%
+    HOLY FAITH EPISCOPAL CHURCH                           DUNNELLON, FL           15.5%
+    EPISCOPAL CHURCH OF ST MARY                           BELLEVIEW, FL           15.5%
+    GRACE EPISCOPAL CHURCH                                OCALA, FL               15.5%
+
+  Diocese of Pennsylvania
+  4 congregations | avg 23.1% poverty | max 23.1%
+  ------------------------------------------------------------
+    ST DAVIDS EPISCOPAL CHURCH                            PHILADELPHIA, PA        23.1%
+    ST GABRIELS EPISCOPAL CHURCH                          PHILADELPHIA, PA        23.1%
+    ADVOCATE EPISCOPAL CHURCH                             PHILADELPHIA, PA        23.1%
+    CALVARY ST AUGUSTINE EPISCOPAL CHURCH                 PHILADELPHIA, PA        23.1%
+
+  Diocese of Montana
+  4 congregations | avg 16.6% poverty | max 17.0%
+  ------------------------------------------------------------
+    ST MICHAEL AND ALL ANGELS EPISCOPAL CHURCH            EUREKA, MT              17.0%
+    HOLY TRINITY EPISCOPAL CHURCH                         TROY, MT                17.0%
+    ST JOHNS EPISCOPAL CHURCH                             BUTTE, MT               16.3%
+    ST JAMES EPISCOPAL CHURCH                             DILLON, MT              16.1%
+
+  Diocese of Arizona
+  4 congregations | avg 15.6% poverty | max 15.9%
+  ------------------------------------------------------------
+    EPISCOPAL CHURCH OF ST MATTHEW                        TUCSON, AZ              15.9%
+    GRACE EPISCOPAL CHURCH                                LK HAVASU CTY, AZ       15.9%
+    ST PAULS EPISCOPAL CHURCH OF TOMBSTONE                TOMBSTONE, AZ           15.5%
+    EPISCOPAL CHURCH OF THE EPIPHANY                      FLAGSTAFF, AZ           15.2%
+
+  Diocese of West Virginia
+  3 congregations | avg 19.4% poverty | max 22.3%
+  ------------------------------------------------------------
+    ST JOHNS EPISCOPAL CHURCH                             HUNTINGTON, WV          22.3%
+    CHRIST EPISCOPAL CHURCH                               BLUEFIELD, WV           18.3%
+    ST JAMES EPISCOPAL CHURCH                             LEWISBURG, WV           17.5%
+
+  Diocese of Long Island
+  3 congregations | avg 19.2% poverty | max 19.2%
+  ------------------------------------------------------------
+    CALVARY ST CYPRIANS EPISCOPAL CHURCH                  BROOKLYN, NY            19.2%
+    CHURCH OF HOLY APOSTLES                               BROOKLYN, NY            19.2%
+    BAPTIST CHURCH OF JESUS CHRIST THE MEDIATOR           BROOKLYN, NY            19.2%
+
+  Diocese of Northern California
+  3 congregations | avg 17.4% poverty | max 18.8%
+  ------------------------------------------------------------
+    ST PETERS EPISCOPAL CHURCH OF RED BLUFF               RED BLUFF, CA           18.8%
+    ST AUGUSTINE OF CANTERBURY EPISCOPAL CHURCH           CHICO, CA               18.2%
+    HOLY TRINITY PROTESTANT EPISCOPAL CHURCH              WILLOWS, CA             15.2%
+
+  Diocese of Wisconsin
+  3 congregations | avg 18.3% poverty | max 18.3%
+  ------------------------------------------------------------
+    ST JAMES EPISCOPAL CHURCH                             MILWAUKEE, WI           18.3%
+    CHRIST PROTESTANT EPISCOPAL CHURCH                    MILWAUKEE, WI           18.3%
+    ST MARKS EPISCOPAL CHURCH                             MILWAUKEE, WI           18.3%
+
+  Diocese of Minnesota
+  3 congregations | avg 18.3% poverty | max 18.3%
+  ------------------------------------------------------------
+    ST ANTIPAS EPISCOPAL CHURCH                           REDBY, MN               18.3%
+    ST JOHNS EPISCOPAL CHURCH                             RED LAKE, MN            18.3%
+    ST BARTHOLOMEWS EPISCOPAL CHURCH                      BEMIDJI, MN             18.3%
+
+  Diocese of Ohio
+  3 congregations | avg 17.3% poverty | max 17.6%
+  ------------------------------------------------------------
+    ST JOHNS EPISCOPAL CHURCH                             YOUNGSTOWN, OH          17.6%
+    ST THOMAS EPISCOPAL CHURCH OF BEREA                   BEREA, OH               17.1%
+    ALL SAINTS EPISCOPAL CHURCH                           CLEVELAND, OH           17.1%
+
+  Diocese of Oregon
+  3 congregations | avg 16.8% poverty | max 17.2%
+  ------------------------------------------------------------
+    ST THOMAS EPISCOPAL CHURCH                            EUGENE, OR              17.2%
+    ST MARYS EPISCOPAL CHURCH                             EUGENE, OR              17.2%
+    ST LUKES EPISCOPAL CHURCH                             GRANTS PASS, OR         16.0%
+
+  Diocese of Maine
+  2 congregations | avg 17.7% poverty | max 18.1%
+  ------------------------------------------------------------
+    ST ANNES EPISCOPAL CHURCH                             CALAIS, ME              18.1%
+    ST AUGUSTINES EPISCOPAL CHURCH                        DOVERFOXCROFT, ME       17.3%
+
+  Diocese of Massachusetts
+  2 congregations | avg 17.4% poverty | max 17.4%
+  ------------------------------------------------------------
+    ST JOHNS CHURCH EPISCOPAL                             BOSTON, MA              17.4%
+    SOUTH END NEIGHBORHOOD CHURCH OF EMMANUEL             BOSTON, MA              17.4%
+
+  Diocese of Indianapolis
+  2 congregations | avg 16.4% poverty | max 16.4%
+  ------------------------------------------------------------
+    ST PAULS EPISCOPAL CHURCH                             INDIANAPOLIS, IN        16.4%
+    ST PHILIPS EPISCOPAL CHURCH                           INDIANAPOLIS, IN        16.4%
+
+  Diocese of Virginia
+  1 congregations | avg 39.3% poverty | max 39.3%
+  ------------------------------------------------------------
+    GRACE PROTESTANT EPISCOPAL CHURCH OF RADFORD VA       RADFORD, VA             39.3%
+
+  Diocese of Lexington
+  1 congregations | avg 31.3% poverty | max 31.3%
+  ------------------------------------------------------------
+    ST MARYS EPISCOPAL CHURCH                             MIDDLESBORO, KY         31.3%
+
+  Diocese of Southern Virginia
+  1 congregations | avg 20.9% poverty | max 20.9%
+  ------------------------------------------------------------
+    ST CLARES EPISCOPAL CHURCH                            RICHMOND, VA            20.9%
+
+  Diocese of San Joaquin
+  1 congregations | avg 20.4% poverty | max 20.4%
+  ------------------------------------------------------------
+    ST PAULS EPISCOPAL PARISH OF BAKERSFIELD CALIFORNIA   BAKERSFIELD, CA         20.4%
+
+  Diocese of Mississippi
+  1 congregations | avg 20.4% poverty | max 20.4%
+  ------------------------------------------------------------
+    SAINT PHILLIPS EPISCOPAL CHURCH JACKSON MISSISSIPPI   JACKSON, MS             20.4%
+
+  Diocese of Oklahoma
+  1 congregations | avg 20.3% poverty | max 20.3%
+  ------------------------------------------------------------
+    ST LAWRENCE EPISCOPAL CHURCH OF MUSKOGEE OKLA         MUSKOGEE, OK            20.3%
+
+  Diocese of Tennessee
+  1 congregations | avg 19.0% poverty | max 19.0%
+  ------------------------------------------------------------
+    EVANGELICAL EPISCOPAL CHURCH INC                      MEMPHIS, TN             19.0%
+
+  Diocese of Colorado
+  1 congregations | avg 18.1% poverty | max 18.1%
+  ------------------------------------------------------------
+    ST LUKES EPISCOPAL CHURCH OF DELTA                    DELTA, CO               18.1%
+
+  Diocese of Kansas
+  1 congregations | avg 18.0% poverty | max 18.0%
+  ------------------------------------------------------------
+    ST PAULS EPISCOPAL CHURCH                             KANSAS CITY, KS         18.0%
+
+  Diocese of Central Florida
+  1 congregations | avg 17.8% poverty | max 17.8%
+  ------------------------------------------------------------
+    THE CHURCH OF OUR SAVIOUR EPISCOPAL INC               OKEECHOBEE, FL          17.8%
+
+  Diocese of Iowa
+  1 congregations | avg 17.2% poverty | max 17.2%
+  ------------------------------------------------------------
+    TRINITY EPISCOPAL CHURCH                              IOWA CITY, IA           17.2%
+
+  Diocese of Georgia
+  1 congregations | avg 17.1% poverty | max 17.1%
+  ------------------------------------------------------------
+    CHRIST EPISCOPAL CHURCH OF FREDERICA                  ST SIMONS IS, GA        17.1%
+
+  Diocese of Spokane
+  1 congregations | avg 16.5% poverty | max 16.5%
+  ------------------------------------------------------------
+    HOLY TRINITY EPISCOPAL CHURCH                         SUNNYSIDE, WA           16.5%
+
+  Diocese of Rio Grande
+  1 congregations | avg 15.9% poverty | max 15.9%
+  ------------------------------------------------------------
+    ST MARKS ON THE MESA EPISCOPAL CHURCH                 ALBUQUERQUE, NM         15.9%
+
+  Diocese of Northern Indiana
+  1 congregations | avg 15.4% poverty | max 15.4%
+  ------------------------------------------------------------
+    ST TIMOTHYS EPISCOPAL CHURCH                          GRIFFITH, IN            15.4%
+
+  Diocese of Springfield
+  1 congregations | avg 15.2% poverty | max 15.2%
+  ------------------------------------------------------------
+    TRINITY EPISCOPAL CHURCH                              MT VERNON, IL           15.2%
+
+  Diocese of Southern Ohio
+  1 congregations | avg 15.1% poverty | max 15.1%
+  ------------------------------------------------------------
+    ST NICHOLAS OF MYRA EPISCOPAL CHURCH                  HILLIARD, OH            15.1%
+
+------------------------------------------------------------------------
+  BY STATE
+------------------------------------------------------------------------
+  State  Churches  Avg Pov
+  ------ -------- --------
+  TX           80    17.6%
+  NC           66    18.8%
+  LA           27    19.7%
+  SC           25    18.9%
+  FL           24    15.8%
+  GA           22    21.1%
+  MO           22    17.9%
+  DC           12    15.5%
+  AL           11    18.4%
+  NY            8    19.8%
+  MI            7    18.0%
+  MD            7    18.8%
+  PA            4    23.1%
+  CA            4    18.2%
+  OH            4    16.7%
+  MT            4    16.6%
+  AZ            4    15.6%
+  WV            3    19.4%
+  WI            3    18.3%
+  MN            3    18.3%
+  OR            3    16.8%
+  IN            3    16.1%
+  VA            2    30.1%
+  ME            2    17.7%
+  MA            2    17.4%
+  KY            1    31.3%
+  MS            1    20.4%
+  OK            1    20.3%
+  TN            1    19.0%
+  CO            1    18.1%
+  KS            1    18.0%
+  IA            1    17.2%
+  WA            1    16.5%
+  NM            1    15.9%
+  IL            1    15.2%
+
+========================================================================
+  97 TEC congregations in persistent-poverty counties (>=20% USDA threshold).
+  These represent immediate opportunities for targeted nutrition partnerships.
+========================================================================

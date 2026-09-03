@@ -1,0 +1,12 @@
+﻿.venv\Scripts\python.exe :   File "<string>", line 18
+At line:1 char:13
++ cd E:\grid; .venv\Scripts\python.exe -c "
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (  File "<string>", line 18:String 
+   ) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    c.execute(" SELECT id name denomination city state country FROM churches 
+WHERE name LIKE %Saint
+              ^
+SyntaxError: unterminated string literal (detected at line 18)

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SCBC Immigrant Congregation Opportunities</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  html,body{margin:0;padding:0;height:100%;font-family:'Segoe UI',sans-serif;}
+  #map{width:100%;height:100%;}
+  .legend{background:white;padding:10px 14px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.2);font-size:13px;line-height:1.7;}
+  .legend i{width:16px;height:16px;display:inline-block;margin-right:6px;border-radius:50%;vertical-align:middle;}
+  .legend b{display:block;margin-bottom:4px;}
+  .panel{position:absolute;top:10px;right:10px;background:white;padding:12px 16px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.2);max-width:300px;font-size:12px;z-index:1000;}
+  .panel h2{margin:0 0 6px;font-size:15px;}
+  .panel p{margin:3px 0;}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="panel">
+  <h2>SCBC Rural Immigrant<br>Congregation Opportunities</h2>
+  <p><b>25 rural SC SBC churches</b> ranked</p>
+  <p>Avg SBC decline: <b>19.5%</b></p>
+  <p>Avg immigrant pop (15km): <b>2,884</b></p>
+  <p style="margin-top:8px;font-size:10px;color:#666;">Generated July 17, 2026 at 11:07 PM<br>GRID</p>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+fetch('scbc_immigrant_rural_data.json')
+  .then(r=>r.json())
+  .then(data=>{
+    const map=L.map('map').setView([33.8361,-81.1637],8);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{
+      attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+      subdomains:'abcd',maxZoom:19
+    }).addTo(map);
+    L.geoJSON(data,{
+      pointToLayer:(f,ll)=>{
+        const s=Math.max(12,Math.min(26,f.properties.score*0.28));
+        return L.circleMarker(ll,{radius:s,fillColor:f.properties.color,color:'#333',weight:1.5,opacity:1,fillOpacity:0.8});
+      },
+      onEachFeature:(f,l)=>{
+        l.bindPopup(f.properties.popup);
+        l.bindTooltip('#'+f.properties.rank+' '+f.properties.name,{direction:'top',offset:[0,-8]});
+      }
+    }).addTo(map);
+    const leg=L.control({position:'bottomleft'});
+    leg.onAdd=()=>{
+      const d=L.DomUtil.create('div','legend');
+      d.innerHTML='<b>Opportunity Score</b><i style="background:#e53e3e"></i> High (>=70)<br><i style="background:#dd6b20"></i> Medium (50-69)<br><i style="background:#3182ce"></i> Monitor (<50)<br><small>Marker size = score</small>';
+      return d;
+    };
+    leg.addTo(map);
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 547,
+    "name": "FIRST BAPTIST CHURCH OF WASHINGTON MICHIGAN",
+    "reason": "addr_state_conflict",
+    "name_hint": "MI",
+    "addr_state": "WA",
+    "addr_street": "109 North Mill Street",
+    "addr_city": "Colfax",
+    "addr_zip": "99111",
+    "current_lat": 46.8810481,
+    "current_lon": -117.363623
+  }
+]

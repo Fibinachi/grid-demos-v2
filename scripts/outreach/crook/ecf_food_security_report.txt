@@ -1,0 +1,114 @@
+==========================================================================
+  FAITH-BASED NUTRITION INFRASTRUCTURE
+  America's Congregations in Highest-Need Communities
+==========================================================================
+  Prepared for: Eleanor Crook Foundation
+  Date: June 16, 2026
+  Source: American Religious Infrastructure (393,416 US congregations)
+  Data: ACS 2020 5-Year via BigQuery county join
+==========================================================================
+
+--------------------------------------------------------------------------
+  1. TOP 50 CONGREGATIONS IN HIGHEST-POVERTY COUNTIES (>=20%)
+--------------------------------------------------------------------------
+    1  BAHAIS OF GREENE COUNTY                      EUTAW, AL                36.4%  $   26,303
+    2  MACEDONIA                                    BOLIGEE, AL              36.4%  $   26,303
+    3  PINE GROVE                                   BOLIGEE, AL              36.4%  $   26,303
+    4  NEW PEACE MISSIONARY BAPTIST CHURCH          EUTAW, AL                36.4%  $   26,303
+    5  EUTAW BAPTIST CHURCH                         Eutaw, AL                36.4%  $   26,303
+    6  Beulah                                       Knoxville, AL            36.4%  $   26,303
+    7  Siloam                                       Marion, AL               36.1%  $   25,886
+    8  Hopewell                                     Marion, AL               36.1%  $   25,886
+    9  UNIONTOWN BAPTIST CHURCH                     Uniontown, AL            36.1%  $   25,886
+   10  Faith Chapel                                 Marion, AL               36.1%  $   25,886
+   11  EPHESUS                                      Marion, AL               36.1%  $   25,886
+   12  ELAM-MILLEN BAPTIST CHURCH, INC.             Millen, GA               34.5%  $   26,736
+   13  MILLEN BAPTIST CHURCH, INC.                  Millen, GA               34.5%  $   26,736
+   14  OAK HILL BAPTIST CHURCH OF MILLEN, GEORGIA,  Millen, GA               34.5%  $   26,736
+   15  DRY BRANCH BAPTIST CHURCH, INC.              Perkins, GA              34.5%  $   26,736
+   16  GREEN FORK BAPTIST CHURCH, INC.              Millen, GA               34.5%  $   26,736
+   17  WEST MILLEN BAPTIST CHURCH, INC.             Millen, GA               34.5%  $   26,736
+   18  SCARBORO BAPTIST CHURCH                      Millen, GA               34.5%  $   26,736
+   19  Big Horse Creek Baptist Church               Millen, GA               34.5%  $   26,736
+   20  MORRIS BAPTIST CHURCH                        Morris, GA               32.7%  $   32,434
+   21  FORT GAINES PRESBYTERIAN CHURCH              FORT GAINES, GA          32.7%  $   32,434
+   22  MOUNT VERNON BAPTIST CHURCH OF CLAY COUNTY,  Fort Gaines, GA          32.7%  $   32,434
+   23  FORT GAINES BAPTIST CHURCH, INC.             Fort Gaines, GA          32.7%  $   32,434
+   24  SHILOH BAPTIST CHURCH OF COTTONHILL INC.     Fort Gaines, GA          32.7%  $   32,434
+   25  Fort Gaines Presbyterian Church, Fort Gaine  Fort Gaines, GA          32.7%  $   32,434
+   26  BLUFFTON BAPTIST CHURCH, INC.                Bluffton, GA             32.7%  $   32,434
+   27  FIRST BAPTIST CHURCH OF SOPERTON, INC.       Soperton, GA             31.3%  $   34,140
+   28  RED BLUFF BAPTIST CHURCH                     Soperton, GA             31.3%  $   34,140
+   29  HOLY TEMPLE CHURCH OF GOD IN CHRIST          SOPERTON, GA             31.3%  $   34,140
+   30  Boiling Springs Baptist Church               Soperton, GA             31.3%  $   34,140
+   31  HOLTON CHAPEL ADVENT CHRISTIAN CHURCH        SOPERTON, GA             31.3%  $   34,140
+   32  Faith Baptist Church                         Soperton, GA             31.3%  $   34,140
+   33  MORNINGSIDE BAPTIST CHURCH                   SOPERTON, GA             31.3%  $   34,140
+   34  NORTHBOUND BETHLEHEM CONSOLIDATED MISSIONAR  PANOLA, AL               30.8%  $   28,119
+   35  CUBA BAPTIST CHURCH                          Cuba, AL                 30.8%  $   28,119
+   36  SUMTERVILLE                                  Epes, AL                 30.8%  $   28,119
+   37  UNION CHAPEL                                 CUBA, AL                 30.8%  $   28,119
+   38  Cuba Presbyterian Church, Cuba, AL           Cuba, AL                 30.8%  $   28,119
+   39  LIVINGSTON FIRST BAPTIST CHURCH              Livingston, AL           30.8%  $   28,119
+   40  YORK                                         York, AL                 30.8%  $   28,119
+   41  SILOAM                                       Cuba, AL                 30.8%  $   28,119
+   42  SOUTHERN STAR MENNONITE SCHOOL               EMELLE, AL               30.8%  $   28,119
+   43  OLD BELMONT                                  Livingston, AL           30.8%  $   28,119
+   44  CUBA PRESBYTERIAN CHURCH                     CUBA, AL                 30.8%  $   28,119
+   45  First Presbyterian Church, Livingston, AL    Livingston, AL           30.8%  $   28,119
+   46  CHRISTIAN VALLEY BAPTIST CHURCH              Livingston, AL           30.8%  $   28,119
+   47  SOUTHERN STAR MENNONITE CHURCH               GEIGER, AL               30.8%  $   28,119
+   48  FRIENDSHIP BAPTIST CHURCH OF GLENWOOD, INC.  Glenwood, GA             30.0%  $   28,782
+   49  FIRST BAPTIST CHURCH OF GLENWOOD, INC        Glenwood, GA             30.0%  $   28,782
+   50  STUCKEY BAPTIST CHURCH                       Glenwood, GA             30.0%  $   28,782
+
+--------------------------------------------------------------------------
+  2. AGGREGATE ANALYSIS
+--------------------------------------------------------------------------
+  Congregations in high-poverty counties (>=20%):  2,339
+  Unique counties:                                  98
+  Average poverty rate:                             23.2%
+  Average median household income:                  $44,715
+  People living in poverty, these counties:         93,378,722.0
+
+  These 98 counties are home to 2,339 mapped congregations —
+  a pre-existing distribution network for nutrition outreach.
+
+--------------------------------------------------------------------------
+  3. HARDEST-HIT COUNTIES
+--------------------------------------------------------------------------
+  GREENE                       AL     15 churches   36.4% poverty  $   26,303 income       8,221 pop
+  PERRY                        AL     11 churches   36.1% poverty  $   25,886 income       9,104 pop
+  JENKINS                      GA     15 churches   34.5% poverty  $   26,737 income       8,787 pop
+  CLAY                         GA     10 churches   32.7% poverty  $   32,434 income       2,931 pop
+  TREUTLEN                     GA     12 churches   31.3% poverty  $   34,140 income       6,787 pop
+  SUMTER                       AL     19 churches   30.8% poverty  $   28,119 income      12,595 pop
+  WHEELER                      GA     15 churches   30.0% poverty  $   28,782 income       7,897 pop
+  MADISON                      FL     24 churches   29.8% poverty  $   34,820 income      18,557 pop
+  CLINCH                       GA     11 churches   29.8% poverty  $   40,328 income       6,648 pop
+  BULLOCK                      AL     17 churches   29.5% poverty  $   34,818 income      10,173 pop
+  TURNER                       GA     24 churches   29.5% poverty  $   39,973 income       7,920 pop
+  DALLAS                       AL     63 churches   29.2% poverty  $   36,804 income      38,184 pop
+  TEXAS                        OK     26 churches   29.0% poverty  $   64,374 income      33,819 pop
+  BARBOUR                      AL     33 churches   28.6% poverty  $   36,523 income      25,026 pop
+  LANIER                       GA      6 churches   28.6% poverty  $   33,071 income      10,534 pop
+
+--------------------------------------------------------------------------
+  4. DENOMINATIONS WITH STRONGEST HIGH-POVERTY PRESENCE
+--------------------------------------------------------------------------
+  Southern Baptist Convention                    1,426   23.6%  $   42,470
+  Presbyterian Church (U.S.A.)                     148   23.3%  $   45,853
+  Missionary Baptist                               112   22.5%  $   45,176
+
+==========================================================================
+  5. RECOMMENDED ECF PARTNERSHIP APPROACH
+==========================================================================
+  1. TARGET: 98 high-poverty counties with 2,339 existing congregations
+  2. LEVERAGE: SBC, UMC, AME, Catholic networks already doing feeding programs
+  3. OVERLAY: Cross-reference with USDA Food Access Atlas for food desert gaps
+  4. PILOT: 50-congregation nutrition education + food distribution pilot
+  5. SCALE: Through denominational partnerships to all 98 counties
+  6. DATA: Complete dataset with coordinates, demography, denomination tags
+
+==========================================================================
+  END OF REPORT

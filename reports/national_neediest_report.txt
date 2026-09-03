@@ -1,0 +1,943 @@
+# America's 25 Neediest Churches — Cross-Denominational Report
+
+**Generated:** June 14, 2026 at 10:52 AM
+
+**Scope:** 365,124 churches in database (233,517 with tract-level ACS data), 
+ranked by composite need score regardless of denomination.
+
+---
+
+## Executive Summary
+
+The top 25 neediest churches in America serve communities with:
+- **Average poverty rate:** 36.8%
+- **Average median income:** $35,611
+- **Average unemployment:** 11.4%
+
+**Denominational breakdown:**
+- Church of God (Cleveland, TN): 8
+- Christian Church (Disciples of Christ): 7
+- Assemblies of God: 2
+- Missionary Baptist: 2
+- Church of God in Christ: 2
+- Calvary Chapel: 1
+- Evangelical Lutheran Church in America: 1
+- Mennonite (unspecified): 1
+- Free Methodist Church: 1
+
+---
+
+## Top 25 Churches Nationwide — Ranked by Need
+
+| # | Church | City | ST | Denomination | Poverty | Income | Unempl. | Score |
+|---|--------|------|----|-------------|---------|--------|---------|-------|
+| 1 | EMANUEL CHRISTIAN CHURCH | JAYUYA | PR | Christian Church (Di | 54.9% | $18,413 | 15.1% | 205.8 |
+| 2 | PENTECOSTAL CHURCH ASSEMBLIES OF GOD | YABUCOA | PR | Assemblies of God | 49.7% | $21,279 | 8.8% | 177.9 |
+| 3 | CALVARY CHAPEL FELLOWSHIP | DUPREE | SD | Calvary Chapel | 38.2% | $47,333 | 19.5% | 160.1 |
+| 4 | GRACE ENGLISH EVANGELICAL LUTHERAN CONGR | SAN JUAN | PR | Evangelical Lutheran | 39.5% | $26,981 | 12.6% | 154.0 |
+| 5 | TORRENT CHURCH OF GOD | CAMPTON | KY | Church of God (Cleve | 38.1% | $29,052 | 13.7% | 150.9 |
+| 6 | IMMANUEL CHURCH OF GOD | DURKNT | MS | Church of God (Cleve | 38.0% | $29,434 | 8.1% | 138.2 |
+| 7 | ISLANDERS CHRISTIAN CHURCH INC | CANOVANAS | PR | Christian Church (Di | 33.9% | $27,278 | 13.3% | 137.8 |
+| 8 | DELTA MENNONITE CHURCH | TRANSYLVANIA | LA | Mennonite (unspecifi | 35.7% | $28,321 | 11.2% | 137.7 |
+| 9 | REAL FAITH CHRISTIAN CHURCH | CLARKSDALE | MS | Christian Church (Di | 36.3% | $36,259 | 9.2% | 134.6 |
+| 10 | FRIENDSHIP MISSIONARY BAPTIST CHURCH | FRAIRS POINT | MS | Missionary Baptist | 36.3% | $36,259 | 9.2% | 134.6 |
+| 11 | CLARKSDALE CHURCH OF GOD IN CHRIST MENNO | CLARKSDALE | MS | Church of God in Chr | 36.3% | $36,259 | 9.2% | 134.6 |
+| 12 | UNION GROVE MISSIONARY BAPTIST CHURCH | CLARKSDALE | MS | Missionary Baptist | 36.3% | $36,259 | 9.2% | 134.6 |
+| 13 | WEST TALLAHATCHIE CHURCH OF GOD | CLARKSDALE | MS | Church of God (Cleve | 36.3% | $36,259 | 9.2% | 134.6 |
+| 14 | APOSTOLIC CHRISTIAN CHURCH AT ZAPATA TX | ZAPATA | TX | Christian Church (Di | 37.4% | $36,527 | 7.4% | 133.7 |
+| 15 | APOSTOLIC CHRISTIAN CHURCH OF AMERICA AT | ZAPATA | TX | Christian Church (Di | 37.4% | $36,527 | 7.4% | 133.7 |
+| 16 | HOLINESS CHURCH OF GOD INCORPORTED | ARTEMUS | KY | Church of God (Cleve | 36.7% | $33,153 | 7.3% | 133.3 |
+| 17 | NEW HARVEST AG | MONTEREY | LA | Assemblies of God | 34.8% | $37,349 | 10.5% | 133.0 |
+| 18 | LEONARD STREET CHURCH OF GOD | MONTEREY | LA | Church of God (Cleve | 34.8% | $37,349 | 10.5% | 133.0 |
+| 19 | EVA CHURCH OF GOD | MONTEREY | LA | Church of God (Cleve | 34.8% | $37,349 | 10.5% | 133.0 |
+| 20 | DOTY ROAD CHURCH OF GOD | FERRIDAY | LA | Church of God (Cleve | 34.8% | $37,349 | 10.5% | 133.0 |
+| 21 | MONTEREY CHRISTIAN CHURCH | VIDALIA | LA | Christian Church (Di | 34.8% | $37,349 | 10.5% | 133.0 |
+| 22 | ACME FREE METHODIST CHURCH | MONTEREY | LA | Free Methodist Churc | 34.8% | $37,349 | 10.5% | 133.0 |
+| 23 | HOUSE OF PRAYER PENTACOSTAL CHURCH OF GO | GREENSBURG | LA | Church of God (Cleve | 30.0% | $50,193 | 17.6% | 132.5 |
+| 24 | DARLINGTON CHURCH OF GOD IN CHRIST INC | GREENSBURG | LA | Church of God in Chr | 30.0% | $50,193 | 17.6% | 132.5 |
+| 25 | LIVING WORD CHURCH | PINE GROVE | LA | Christian Church (Di | 30.0% | $50,193 | 17.6% | 132.5 |
+
+---
+
+## Detailed Church Profiles
+
+### 1. EMANUEL CHRISTIAN CHURCH
+
+**Location:** HC 1 BOX 3967, JAYUYA, PR 00664-8643
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | Christian and Restorationist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 932422062 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 18.21342, -66.58961 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 54.9% (8,025 / 14,613) |
+| **Median Household Income** | $18,413 |
+| **Median Age** | 43.0 |
+| **Unemployment** | 15.1% |
+| **Median Home Value** | $105,000 |
+| **Total Population** | 14,653 |
+
+**Racial Composition:**
+- White: 8,333 (36.1%)
+- Black: 312 (1.4%)
+- Hispanic: 14,410 (62.5%)
+
+---
+
+### 2. PENTECOSTAL CHURCH ASSEMBLIES OF GOD
+
+**Location:** PO BOX 207, YABUCOA, PR 00767-0207
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Assemblies of God |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 660578562 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 18.06941, -65.89649 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 49.7% (14,826 / 29,821) |
+| **Median Household Income** | $21,279 |
+| **Median Age** | 46.0 |
+| **Unemployment** | 8.8% |
+| **Median Home Value** | $95,600 |
+| **Total Population** | 29,868 |
+
+**Racial Composition:**
+- White: 2,001 (5.3%)
+- Black: 5,900 (15.7%)
+- Hispanic: 29,732 (79.0%)
+- Asian: 11 (0.0%)
+
+---
+
+### 3. CALVARY CHAPEL FELLOWSHIP
+
+**Location:** PO BOX 188, DUPREE, SD 57623-0188
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Calvary Chapel |
+| **Family** | Other Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 460462382 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 45.02981, -101.68586 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 38.2% (921 / 2,410) |
+| **Median Household Income** | $47,333 |
+| **Median Age** | 36.0 |
+| **Unemployment** | 19.5% |
+| **Median Home Value** | $101,700 |
+| **Total Population** | 2,410 |
+
+**Racial Composition:**
+- White: 657 (95.6%)
+- Hispanic: 30 (4.4%)
+
+---
+
+### 4. GRACE ENGLISH EVANGELICAL LUTHERAN CONGREGATION INC
+
+**Location:** 9 CALLE RODRIGUEZ SERRA APT 3A, SAN JUAN, PR 00907-1408
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Evangelical Lutheran Church in America |
+| **Family** | Lutheran Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 660527275 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 18.45268, -66.07811 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 39.5% (132,143 / 334,672) |
+| **Median Household Income** | $26,981 |
+| **Median Age** | 45.0 |
+| **Unemployment** | 12.6% |
+| **Median Home Value** | $171,400 |
+| **Total Population** | 338,661 |
+
+**Racial Composition:**
+- White: 109,176 (22.8%)
+- Black: 36,212 (7.6%)
+- Hispanic: 331,642 (69.4%)
+- Asian: 927 (0.2%)
+
+---
+
+### 5. TORRENT CHURCH OF GOD
+
+**Location:** PO BOX 1299, CAMPTON, KY 41301-1299
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 900345248 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 37.72871, -83.49232 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 38.1% (2,404 / 6,311) |
+| **Median Household Income** | $29,052 |
+| **Median Age** | 41.0 |
+| **Unemployment** | 13.7% |
+| **Median Home Value** | $66,400 |
+| **Total Population** | 6,484 |
+
+**Racial Composition:**
+- White: 6,231 (98.2%)
+- Black: 14 (0.2%)
+- Hispanic: 102 (1.6%)
+
+---
+
+### 6. IMMANUEL CHURCH OF GOD
+
+**Location:** PO BOX 36, DURKNT, MS 39063-0036
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 810660413 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 33.11667, -89.89749 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 38.0% (5,904 / 15,551) |
+| **Median Household Income** | $29,434 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 8.1% |
+| **Median Home Value** | $76,500 |
+| **Total Population** | 16,491 |
+
+**Racial Composition:**
+- White: 2,349 (14.6%)
+- Black: 13,591 (84.7%)
+- Hispanic: 71 (0.4%)
+- Asian: 38 (0.2%)
+
+---
+
+### 7. ISLANDERS CHRISTIAN CHURCH INC
+
+**Location:** VILLAS DE LOIZA CALLE 39 BLOQUE MM1, CANOVANAS, PR 00729-0000
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | Christian and Restorationist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 660808718 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 18.32983, -65.88514 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 33.9% (14,219 / 41,976) |
+| **Median Household Income** | $27,278 |
+| **Median Age** | 42.0 |
+| **Unemployment** | 13.3% |
+| **Median Home Value** | $116,200 |
+| **Total Population** | 42,037 |
+
+**Racial Composition:**
+- White: 9,035 (15.8%)
+- Black: 5,964 (10.4%)
+- Hispanic: 42,001 (73.3%)
+- Asian: 280 (0.5%)
+
+---
+
+### 8. DELTA MENNONITE CHURCH
+
+**Location:** RT 1 BOX 7R, TRANSYLVANIA, LA 71286-9801
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Mennonite (unspecified) |
+| **Family** | Mennonite Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 721164151 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 32.66162, -91.19985 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 35.7% (1,941 / 5,438) |
+| **Median Household Income** | $28,321 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 11.2% |
+| **Median Home Value** | $87,400 |
+| **Total Population** | 7,195 |
+
+**Racial Composition:**
+- White: 2,115 (30.5%)
+- Black: 4,671 (67.4%)
+- Hispanic: 144 (2.1%)
+
+---
+
+### 9. REAL FAITH CHRISTIAN CHURCH
+
+**Location:** 600 YAZOO AVE, CLARKSDALE, MS 38614-5618
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | Christian and Restorationist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 134285238 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 34.19614, -90.57055 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 36.3% (7,331 / 20,206) |
+| **Median Household Income** | $36,259 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 9.2% |
+| **Median Home Value** | $86,400 |
+| **Total Population** | 20,808 |
+
+**Racial Composition:**
+- White: 4,048 (19.9%)
+- Black: 15,784 (77.6%)
+- Hispanic: 444 (2.2%)
+- Asian: 53 (0.3%)
+
+---
+
+### 10. FRIENDSHIP MISSIONARY BAPTIST CHURCH
+
+**Location:** PO BOX 1793, FRAIRS POINT, MS 38631-0218
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Missionary Baptist |
+| **Family** | Baptist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 640787130 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 34.36087, -90.61831 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 36.3% (7,331 / 20,206) |
+| **Median Household Income** | $36,259 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 9.2% |
+| **Median Home Value** | $86,400 |
+| **Total Population** | 20,808 |
+
+**Racial Composition:**
+- White: 4,048 (19.9%)
+- Black: 15,784 (77.6%)
+- Hispanic: 444 (2.2%)
+- Asian: 53 (0.3%)
+
+---
+
+### 11. CLARKSDALE CHURCH OF GOD IN CHRIST MENNONITE INC
+
+**Location:** 20 JONES RD, CLARKSDALE, MS 38614-9244
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God in Christ |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 472895450 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 34.13238, -90.52649 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 36.3% (7,331 / 20,206) |
+| **Median Household Income** | $36,259 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 9.2% |
+| **Median Home Value** | $86,400 |
+| **Total Population** | 20,808 |
+
+**Racial Composition:**
+- White: 4,048 (19.9%)
+- Black: 15,784 (77.6%)
+- Hispanic: 444 (2.2%)
+- Asian: 53 (0.3%)
+
+---
+
+### 12. UNION GROVE MISSIONARY BAPTIST CHURCH
+
+**Location:** 707 FLORIDA AVE, CLARKSDALE, MS 38614-6535
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Missionary Baptist |
+| **Family** | Baptist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 640806756 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 34.19726, -90.55888 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 36.3% (7,331 / 20,206) |
+| **Median Household Income** | $36,259 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 9.2% |
+| **Median Home Value** | $86,400 |
+| **Total Population** | 20,808 |
+
+**Racial Composition:**
+- White: 4,048 (19.9%)
+- Black: 15,784 (77.6%)
+- Hispanic: 444 (2.2%)
+- Asian: 53 (0.3%)
+
+---
+
+### 13. WEST TALLAHATCHIE CHURCH OF GOD
+
+**Location:** 641 W TALLAHATCHIE ST, CLARKSDALE, MS 38614-5616
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 640871937 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 34.19614, -90.56880 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 36.3% (7,331 / 20,206) |
+| **Median Household Income** | $36,259 |
+| **Median Age** | 35.0 |
+| **Unemployment** | 9.2% |
+| **Median Home Value** | $86,400 |
+| **Total Population** | 20,808 |
+
+**Racial Composition:**
+- White: 4,048 (19.9%)
+- Black: 15,784 (77.6%)
+- Hispanic: 444 (2.2%)
+- Asian: 53 (0.3%)
+
+---
+
+### 14. APOSTOLIC CHRISTIAN CHURCH AT ZAPATA TX
+
+**Location:** 341 CERRITO DR, ZAPATA, TX 78076-0000
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | Christian and Restorationist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 742517712 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 26.86787, -99.26182 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 37.4% (5,092 / 13,602) |
+| **Median Household Income** | $36,527 |
+| **Median Age** | 31.0 |
+| **Unemployment** | 7.4% |
+| **Median Home Value** | $88,800 |
+| **Total Population** | 13,855 |
+
+**Racial Composition:**
+- White: 5,478 (29.4%)
+- Black: 37 (0.2%)
+- Hispanic: 13,014 (69.8%)
+- Asian: 109 (0.6%)
+
+---
+
+### 15. APOSTOLIC CHRISTIAN CHURCH OF AMERICA AT AUSTIN TEXAS
+
+**Location:** 341 CERRITO DR, ZAPATA, TX 78076-4427
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | Christian and Restorationist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 742965332 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 26.86787, -99.26182 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 37.4% (5,092 / 13,602) |
+| **Median Household Income** | $36,527 |
+| **Median Age** | 31.0 |
+| **Unemployment** | 7.4% |
+| **Median Home Value** | $88,800 |
+| **Total Population** | 13,855 |
+
+**Racial Composition:**
+- White: 5,478 (29.4%)
+- Black: 37 (0.2%)
+- Hispanic: 13,014 (69.8%)
+- Asian: 109 (0.6%)
+
+---
+
+### 16. HOLINESS CHURCH OF GOD INCORPORTED
+
+**Location:** HC 66 BOX 1280, ARTEMUS, KY 40903-9602
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 611263925 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 36.79844, -83.81481 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 36.7% (10,761 / 29,295) |
+| **Median Household Income** | $33,153 |
+| **Median Age** | 39.0 |
+| **Unemployment** | 7.3% |
+| **Median Home Value** | $109,200 |
+| **Total Population** | 30,034 |
+
+**Racial Composition:**
+- White: 28,754 (97.8%)
+- Black: 252 (0.9%)
+- Hispanic: 365 (1.2%)
+- Asian: 30 (0.1%)
+
+---
+
+### 17. NEW HARVEST AG
+
+**Location:** PO BOX 355, MONTEREY, LA 71354-0355
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Assemblies of God |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 462433245 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 31.40445, -91.75006 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 34.8% (5,926 / 17,040) |
+| **Median Household Income** | $37,349 |
+| **Median Age** | 37.0 |
+| **Unemployment** | 10.5% |
+| **Median Home Value** | $102,400 |
+| **Total Population** | 18,325 |
+
+**Racial Composition:**
+- White: 10,443 (57.7%)
+- Black: 7,135 (39.4%)
+- Hispanic: 465 (2.6%)
+- Asian: 65 (0.4%)
+
+---
+
+### 18. LEONARD STREET CHURCH OF GOD
+
+**Location:** 835 LEONARD ST, MONTEREY, LA 71354-0000
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 593706836 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 31.40445, -91.75006 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 34.8% (5,926 / 17,040) |
+| **Median Household Income** | $37,349 |
+| **Median Age** | 37.0 |
+| **Unemployment** | 10.5% |
+| **Median Home Value** | $102,400 |
+| **Total Population** | 18,325 |
+
+**Racial Composition:**
+- White: 10,443 (57.7%)
+- Black: 7,135 (39.4%)
+- Hispanic: 465 (2.6%)
+- Asian: 65 (0.4%)
+
+---
+
+### 19. EVA CHURCH OF GOD
+
+**Location:** PO BOX 534, MONTEREY, LA 71354-0534
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 720968097 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 31.40445, -91.75006 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 34.8% (5,926 / 17,040) |
+| **Median Household Income** | $37,349 |
+| **Median Age** | 37.0 |
+| **Unemployment** | 10.5% |
+| **Median Home Value** | $102,400 |
+| **Total Population** | 18,325 |
+
+**Racial Composition:**
+- White: 10,443 (57.7%)
+- Black: 7,135 (39.4%)
+- Hispanic: 465 (2.6%)
+- Asian: 65 (0.4%)
+
+---
+
+### 20. DOTY ROAD CHURCH OF GOD
+
+**Location:** PO BOX 1854, FERRIDAY, LA 71334-1854
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 720988304 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 31.65927, -91.56478 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 34.8% (5,926 / 17,040) |
+| **Median Household Income** | $37,349 |
+| **Median Age** | 37.0 |
+| **Unemployment** | 10.5% |
+| **Median Home Value** | $102,400 |
+| **Total Population** | 18,325 |
+
+**Racial Composition:**
+- White: 10,443 (57.7%)
+- Black: 7,135 (39.4%)
+- Hispanic: 465 (2.6%)
+- Asian: 65 (0.4%)
+
+---
+
+### 21. MONTEREY CHRISTIAN CHURCH
+
+**Location:** 202 COUNTRY MEADOWS RD, VIDALIA, LA 71373-6307
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | Christian and Restorationist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 721075693 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 31.54902, -91.45701 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 34.8% (5,926 / 17,040) |
+| **Median Household Income** | $37,349 |
+| **Median Age** | 37.0 |
+| **Unemployment** | 10.5% |
+| **Median Home Value** | $102,400 |
+| **Total Population** | 18,325 |
+
+**Racial Composition:**
+- White: 10,443 (57.7%)
+- Black: 7,135 (39.4%)
+- Hispanic: 465 (2.6%)
+- Asian: 65 (0.4%)
+
+---
+
+### 22. ACME FREE METHODIST CHURCH
+
+**Location:** 2818 HIGHWAY 909, MONTEREY, LA 71354-4718
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Free Methodist Church |
+| **Family** | Methodist Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 731654320 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 31.31288, -91.83437 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 34.8% (5,926 / 17,040) |
+| **Median Household Income** | $37,349 |
+| **Median Age** | 37.0 |
+| **Unemployment** | 10.5% |
+| **Median Home Value** | $102,400 |
+| **Total Population** | 18,325 |
+
+**Racial Composition:**
+- White: 10,443 (57.7%)
+- Black: 7,135 (39.4%)
+- Hispanic: 465 (2.6%)
+- Asian: 65 (0.4%)
+
+---
+
+### 23. HOUSE OF PRAYER PENTACOSTAL CHURCH OF GOD INC
+
+**Location:** PO BOX 223, GREENSBURG, LA 70441-0223
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God (Cleveland, TN) |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 720811645 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 30.85997, -90.74907 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 30.0% (3,218 / 10,725) |
+| **Median Household Income** | $50,193 |
+| **Median Age** | 42.0 |
+| **Unemployment** | 17.6% |
+| **Median Home Value** | $106,400 |
+| **Total Population** | 10,849 |
+
+**Racial Composition:**
+- White: 5,047 (46.8%)
+- Black: 5,442 (50.5%)
+- Hispanic: 245 (2.3%)
+- Asian: 43 (0.4%)
+
+---
+
+### 24. DARLINGTON CHURCH OF GOD IN CHRIST INC
+
+**Location:** PO BOX 405, GREENSBURG, LA 70441-0405
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Church of God in Christ |
+| **Family** | Pentecostal Churches |
+| **District** | — |
+| **Website** | — |
+| **Phone** | — |
+| **EIN** | 721238645 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 30.85997, -90.74907 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 30.0% (3,218 / 10,725) |
+| **Median Household Income** | $50,193 |
+| **Median Age** | 42.0 |
+| **Unemployment** | 17.6% |
+| **Median Home Value** | $106,400 |
+| **Total Population** | 10,849 |
+
+**Racial Composition:**
+- White: 5,047 (46.8%)
+- Black: 5,442 (50.5%)
+- Hispanic: 245 (2.3%)
+- Asian: 43 (0.4%)
+
+---
+
+### 25. LIVING WORD CHURCH
+
+**Location:** 2496 HIGHWAY 63, PINE GROVE, LA 70453-7519
+
+| Field | Value |
+|-------|-------|
+| **Denomination** | Christian Church (Disciples of Christ) |
+| **Family** | — |
+| **District** | — |
+| **Website** | https://living-word-church.com |
+| **Phone** | — |
+| **EIN** | 721475864 |
+| **Pastor** | — |
+| **Source** | irs |
+| **Coordinates** | 30.70069, -90.76489 |
+
+#### Demographics
+
+| Measure | Value |
+|---------|-------|
+| **Poverty Rate** | 30.0% (3,218 / 10,725) |
+| **Median Household Income** | $50,193 |
+| **Median Age** | 42.0 |
+| **Unemployment** | 17.6% |
+| **Median Home Value** | $106,400 |
+| **Total Population** | 10,849 |
+
+**Racial Composition:**
+- White: 5,047 (46.8%)
+- Black: 5,442 (50.5%)
+- Hispanic: 245 (2.3%)
+- Asian: 43 (0.4%)
+
+**Website:** [https://living-word-church.com](https://living-word-church.com)
+
+---
+
+## Methodology
+
+Composite need score: Poverty Rate (×3) + Unemployment Rate (×2) + Low Income + Elderly Population + Food Access
+
+### Data Sources
+- IRS EO BMF, SBC Directory, ACS 5-Year tract-level estimates, USDA Food Access Research Atlas
+
+*Report generated by GrantWizard — June 14, 2026 at 10:52 AM*

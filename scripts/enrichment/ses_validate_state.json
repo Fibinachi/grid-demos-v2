@@ -1,0 +1,106 @@
+{
+  "processed": {
+    "521951681": true,
+    "061547852": true,
+    "263753801": true,
+    "372090276": true,
+    "943100217": true,
+    "650464177": true,
+    "237093598": true,
+    "205602483": true,
+    "526037034": true,
+    "131879954": true
+  },
+  "results": {
+    "521951681": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "MEDIUM",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "061547852": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "MEDIUM",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "263753801": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "HIGH",
+      "MailboxExists": "LOW",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "372090276": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "HIGH",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "943100217": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "MEDIUM",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "650464177": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "HIGH",
+      "MailboxExists": "LOW",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "237093598": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "MEDIUM",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "205602483": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "HIGH",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "526037034": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "HIGH",
+      "MailboxExists": "LOW",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    },
+    "131879954": {
+      "IsValid": "MEDIUM",
+      "HasValidSyntax": "HIGH",
+      "HasValidDnsRecords": "MEDIUM",
+      "MailboxExists": "MEDIUM",
+      "IsRoleAddress": "HIGH",
+      "IsDisposable": "LOW",
+      "IsRandomInput": "LOW"
+    }
+  }
+}

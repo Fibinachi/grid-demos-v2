@@ -1,0 +1,63 @@
+# GRID Project .gitignore
+
+# === DATABASE ===
+# churches.db is ~14.8 GB — far too large for GitHub (100 MB limit)
+# Store separately; documented in README.md
+churches.db
+churches.db-*
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# === BACKUPS ===
+backups/
+
+# === PYTHON ===
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# === STAGING DATA ===
+data/staging/
+data/wikidata_staging/
+
+# === LARGE DATA FILES ===
+# GIS files tend to be large — review before committing
+*.gpkg
+*.gdb/
+*.pbf
+*.osm
+
+# === OS FILES ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+
+# === TEMP & LOGS ===
+*.log
+*.tmp
+temp/
+tmp/
+
+# === SENSITIVE ===
+*.env
+*.secret
+*credentials*
+GMAIL_APP_PASSWORD
+
+# === OUTPUTS THAT CAN BE REGENERATED ===
+outputs/*.html
+outputs/*.jsonl
+outputs/outreach/
+
+# === NOMINATIM ===
+data/nominatim/

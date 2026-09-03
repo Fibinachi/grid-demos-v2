@@ -1,0 +1,385 @@
+﻿LDS entries with GPS: 14927
+Type breakdown:
+  other: 13842
+  temple: 371
+  stake_center: 186
+  meetinghouse: 181
+  ward: 105
+  stake: 63
+  institute: 55
+  branch: 51
+  mission: 51
+  seminary: 22
+
+Temples with GPS: 371
+  Bahφa Blanca Argentina Temple | AR | -38.6912, -62.2359
+  Buenos Aires Argentina Temple | AR | -34.7293, -58.5182
+  Buenos Aires City Center Argentina Temple | AR | -34.5992, -58.3731
+  C≤rdoba Argentina Temple | AR | -31.3589, -64.2458
+  Mendoza Argentina Temple | AR | -32.8638, -68.8816
+  Rosario Argentina Temple | AR | -32.9324, -60.6527
+  Salta Argentina Temple | AR | -24.8372, -65.4700
+  Pago Pago American Samoa Temple | AS | -14.3340, -170.7320
+  Vienna Austria Temple | AT | 48.2431, 16.3494
+  Adelaide Australia Temple | AU | -34.8925, 138.6350
+  Brisbane Australia Temple | AU | -27.4809, 153.0338
+  Melbourne Australia Temple | AU | -37.8688, 145.2126
+  Perth Australia Temple | AU | -31.9069, 115.8698
+  Sydney Australia Temple | AU | -33.7756, 151.0506
+  Carlingford Lds Temple | AU | -33.8759, 151.2057
+  Brussels Belgium Temple | BE | 50.8417, 4.3671
+  Cochabamba Bolivia Temple | BO | -17.3636, -66.1476
+  La Paz Bolivia Temple | BO | -16.5437, -68.0892
+  Santa Cruz Bolivia Temple | BO | -17.7386, -63.1747
+  BelΘm Brazil Temple | BR | -1.3872, -48.4599
+  Belo Horizonte Brazil Temple | BR | -19.8792, -43.9786
+  Brasφlia Brazil Temple | BR | -15.7478, -47.8809
+  Campinas Brazil Temple | BR | -22.8965, -47.0011
+  Curitiba Brazil Temple | BR | -25.4413, -49.3421
+  Florian≤polis Brazil Temple | BR | -27.5922, -48.6172
+  Fortaleza Brazil Temple | BR | -3.7478, -38.4610
+  Joπo Pessoa Brazil Temple | BR | -7.1242, -34.8291
+  Londrina Brazil Temple | BR | -23.3446, -51.1602
+  Macei≤ Brazil Temple | BR | -9.6033, -35.7440
+  Manaus Brazil Temple | BR | -3.0739, -60.0893
+  Natal Brazil Temple | BR | -5.8779, -35.2227
+  Porto Alegre Brazil Temple | BR | -30.0340, -51.1579
+  Recife Brazil Temple | BR | -8.0364, -34.9111
+  Ribeirπo Preto Brazil Temple | BR | -21.2161, -47.8093
+  Rio de Janeiro Brazil Temple | BR | -23.0009, -43.3999
+  Salvador Brazil Temple | BR | -12.9293, -38.3864
+  Santos Brazil Temple | BR | -23.9429, -46.3342
+  Sπo Paulo Brazil Temple | BR | -23.5852, -46.7228
+  Sπo Paulo East Brazil Temple | BR | -23.5552, -46.5444
+  Teresina Brazil Temple | BR | -5.0884, -42.7799
+  Vit≤ria Brazil Temple | BR | -20.2964, -40.3048
+  VANCOUVER TEMPLE- CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | CA | 49.1515, -122.6573
+  Calgary Alberta Temple | CA | 51.1409, -114.2333
+  Cardston Alberta Temple | CA | 49.1983, -113.3094
+  Edmonton Alberta Temple | CA | 53.4896, -113.5705
+  Halifax Nova Scotia Temple | CA | 44.6700, -63.4890
+  Lethbridge Alberta Temple | CA | 49.6704, -112.9109
+  Montreal Quebec Temple | CA | 45.5633, -73.4906
+  Regina Saskatchewan Temple | CA | 50.4210, -104.5417
+  Toronto Ontario Temple | CA | 43.7443, -79.7461
+  Vancouver British Columbia Temple | CA | 49.1512, -122.6580
+  Victoria British Columbia Temple | CA | 48.4510, -123.5220
+  Winnipeg Manitoba Temple | CA | 49.8005, -97.1952
+  Kananga Democratic Republic of the Congo Temple | CD | -5.8951, 22.4297
+  Kinshasa Democratic Republic of the Congo Temple | CD | -4.3275, 15.2737
+  Lubumbashi Democratic Republic of the Congo Temple | CD | -11.6489, 27.4685
+  Brazzaville Republic of the Congo Temple | CG | -4.2828, 15.2585
+  Bern Switzerland Temple | CH | 47.0022, 7.4582
+  Abidjan Ivory Coast Temple | CI | 5.3623, -3.9769
+  Antofagasta Chile Temple | CL | -23.5719, -70.3945
+  Concepci≤n Chile Temple | CL | -36.8515, -73.0500
+  Puerto Montt Chile Temple | CL | -41.4894, -72.8885
+  Santiago Chile Temple | CL | -33.4362, -70.6095
+  Santiago West Chile Temple | CL | -33.4928, -70.7377
+  Vi±a del Mar Chile Temple | CL | -33.0209, -71.5457
+  Barranquilla Colombia Temple | CO | 11.0168, -74.8626
+  Bogotß Colombia Temple | CO | 4.7078, -74.0562
+  Cali Colombia Temple | CO | 3.4870, -76.5215
+  San JosΘ Costa Rica Temple | CR | 9.9864, -84.1848
+  Praia Cape Verde Temple | CV | 14.9188, -23.5112
+  Frankfurt Germany Temple | DE | 50.2582, 8.6413
+  Freiberg Germany Temple | DE | 50.9223, 13.3225
+  Hamburg Germany Temple | DE | 53.5664, 10.0328
+  Copenhagen Denmark Temple | DK | 55.6927, 12.5339
+  Santo Domingo Dominican Republic Temple | DO | 18.4666, -69.9171
+  Guayaquil Ecuador Temple | EC | -2.1562, -79.9049
+  Quito Ecuador Temple | EC | -0.2137, -78.4410
+  Barcelona Spain Temple | ES | 41.4875, 2.0693
+  Madrid Spain Temple | ES | 40.4001, -3.6316
+  Helsinki Finland Temple | FI | 60.2252, 24.7818
+  Suva Fiji Temple | FJ | -18.1197, 178.4386
+  Paris France Temple | FR | 48.8179, 2.1232
+  Birmingham England Temple | GB | 52.5355, -1.8124
+  London England Temple | GB | 51.1626, -0.0522
+  Preston England Temple | GB | 53.6725, -2.6313
+  Lds London Temple | GB | 51.4968, -0.1086
+  Accra Ghana Temple | GH | 5.5675, -0.1937
+  Kumasi Ghana Temple | GH | 6.7024, -1.6411
+  Cobßn Guatemala Temple | GT | 15.4591, -90.3652
+  Guatemala City Guatemala Temple | GT | 14.5833, -90.4856
+  Huehuetenango Guatemala Temple | GT | 15.3262, -91.4899
+  Miraflores Guatemala City Guatemala Temple | GT | 14.6072, -90.5450
+  Quetzaltenango Guatemala Temple | GT | 14.8465, -91.5425
+  Retalhuleu Guatemala Temple | GT | 14.5539, -91.6552
+  Yigo Guam Temple | GU | 13.5417, 144.8901
+  Hong Kong China Temple | HK | 22.3405, 114.1773
+  San Pedro Sula Honduras Temple | HN | 15.5225, -88.0369
+  Tegucigalpa Honduras Temple | HN | 14.0522, -87.2380
+  Port-au-Prince Haiti Temple | HT | 18.5290, -72.2681
+  Ha∩ti LDS Temple & News. | HT | 18.5160, -72.2878
+  Budapest Hungary Temple | HU | 47.5702, 19.0063
+  Jakarta Indonesia Temple | ID | -6.2411, 106.8378
+  Bengaluru India Temple | IN | 12.9921, 77.7047
+  Rome Italy Temple | IT | 41.9704, 12.5448
+  Fukuoka Japan Temple | JP | 33.5726, 130.3917
+  Okinawa Japan Temple | JP | 26.3583, 127.8017
+  Osaka Japan Temple | JP | 34.8168, 135.7151
+  Sapporo Japan Temple | JP | 43.0249, 141.4457
+  Tokyo Japan Temple | JP | 35.6528, 139.7245
+  Nairobi Kenya Temple | KE | -1.2653, 36.7398
+  Phnom Penh Cambodia Temple | KH | 11.5699, 104.8957
+  Tarawa Kiribati Temple | KI | 1.3495, 173.0401
+  Seoul Korea Temple | KR | 37.5589, 126.9313
+  Antananarivo Madagascar Temple | MG | -18.8545, 47.4784
+  Ulaanbaatar Mongolia Temple | MN | 47.8646, 106.8147
+  Chihuahua Mexico Temple | MX | 28.6437, -106.1499
+  Ciudad Jußrez Mexico Temple | MX | 31.7363, -106.4632
+  Colonia Jußrez Chihuahua Mexico Temple | MX | 30.3053, -108.0820
+  Cuernavaca Mexico Temple | MX | 18.9347, -99.2265
+  Culiacßn Mexico Temple | MX | 24.7918, -107.4419
+  Guadalajara Mexico Temple | MX | 20.6615, -103.4231
+  Hermosillo Sonora Mexico Temple | MX | 29.1025, -110.9469
+  MΘrida Mexico Temple | MX | 20.9658, -89.6311
+  Mexico City BenemΘrito Mexico Temple | MX | 19.5348, -99.1509
+  Mexico City Mexico Temple | MX | 19.4659, -99.0868
+  Monterrey Mexico Temple | MX | 25.5894, -100.2600
+  Oaxaca Mexico Temple | MX | 17.0416, -96.7135
+  Pachuca Mexico Temple | MX | 20.1023, -98.7626
+  Puebla Mexico Temple | MX | 19.0854, -98.2355
+  QuerΘtaro Mexico Temple | MX | 20.6134, -100.4106
+  San Luis Potosφ Mexico Temple | MX | 22.1532, -101.0152
+  Tampico Mexico Temple | MX | 22.2543, -97.8559
+  Tijuana Mexico Temple | MX | 32.4887, -116.9294
+  Toluca Mexico Temple | MX | 19.2523, -99.6269
+  Torre≤n Mexico Temple | MX | 25.5533, -103.4992
+  Tuxtla GutiΘrrez Mexico Temple | MX | 16.7642, -93.1592
+  Veracruz Mexico Temple | MX | 19.1344, -96.1063
+  Villahermosa Mexico Temple | MX | 17.9813, -92.9374
+  Beira Mozambique Temple | MZ | -19.8459, 34.8552
+  Aba Nigeria Temple | NG | 5.1476, 7.3567
+  Benin City Nigeria Temple | NG | 6.3146, 5.6252
+  Calabar Nigeria Temple | NG | 4.9799, 8.3397
+  Eket Nigeria Temple | NG | 4.6581, 7.9682
+  Lagos Nigeria Temple | NG | 6.4449, 3.4314
+  Managua Nicaragua Temple | NI | 12.0909, -86.2343
+  The Hague Netherlands Temple | NL | 52.0545, 4.5030
+  Oslo Norway Temple | NO | 59.8580, 10.4803
+  Auckland New Zealand Temple | NZ | -36.9932, 174.8902
+  Hamilton New Zealand Temple | NZ | -37.8264, 175.2249
+  Wellington New Zealand Temple | NZ | -41.1233, 174.8546
+  Panama City Panama Temple | PA | 8.9915, -79.5705
+  Arequipa Peru Temple | PE | -16.3752, -71.5385
+  Cusco Peru Temple | PE | -13.5159, -71.9849
+  Iquitos Peru Temple | PE | -3.7608, -73.2676
+  Lima Peru Los Olivos Temple | PE | -12.0200, -77.0542
+  Lima Peru Temple | PE | -12.0697, -76.9489
+  Piura Peru Temple | PE | -5.1681, -80.6269
+  Trujillo Peru Temple | PE | -8.1001, -79.0585
+  Papeete Tahiti Temple | PF | -17.5366, -149.5560
+  Port Moresby Papua New Guinea Temple | PG | -9.4775, 147.1765
+  Alabang Philippines Temple | PH | 14.4129, 121.0378
+  Bacolod Philippines Temple | PH | 10.6966, 122.9895
+  Cagayan de Oro Philippines Temple | PH | 8.4791, 124.6599
+  Cebu City Philippines Temple | PH | 10.3277, 123.8983
+  Davao Philippines Temple | PH | 7.0886, 125.5798
+  Iloilo Philippines Temple | PH | 10.7531, 122.5484
+  Manila Philippines Temple | PH | 14.6014, 121.0698
+  Naga Philippines Temple | PH | 13.6123, 123.2133
+  Santiago Philippines Temple | PH | 16.6857, 121.5613
+  Tacloban City Philippines Temple | PH | 11.2238, 124.9845
+  Tuguegarao City Philippines Temple | PH | 17.6501, 121.7516
+  Urdaneta Philippines Temple | PH | 15.9386, 120.5818
+  LDS Cebu Temple | PH | 10.2925, 123.9084
+  Mormon Temple,white Plains | PH | 14.6007, 121.0644
+  San Juan Puerto Rico Temple | PR | 18.3856, -66.0299
+  Lisbon Portugal Temple | PT | 38.7792, -9.0988
+  Asunci≤n Paraguay Temple | PY | -25.2879, -57.6029
+  Stockholm Sweden Temple | SE | 59.1247, 18.1092
+  Singapore Temple | SG | 1.2800, 103.7848
+  Freetown Sierra Leone Temple | SL | 8.3876, -13.1388
+  San Salvador El Salvador Temple | SV | 13.6833, -89.2468
+  Bangkok Thailand Temple | TH | 13.7495, 100.5625
+  Neiafu Tonga Temple | TO | -18.6442, -173.9776
+  Mailetaha LDS Temple | TO | -21.1437, -175.2072
+  Kaohsiung Taiwan Temple | TW | 22.6507, 120.3455
+  Taipei Taiwan Temple | TW | 25.0314, 121.5278
+  Kyiv Ukraine Temple | UA | 50.4045, 30.3956
+  TEMPLE PENTECOST CHURCH OF JESUS CHRIST | US | 33.4016, -112.0182
+  LATTER DAY SAINTS TEMPLE | US | 33.4139, -111.8196
+  CHURCH OF JESUS CHRIST TEMPLE BETHANY | US | 36.9044, -121.7493
+  CHURCH OF JESUS CHRIST TEMPLE PHILADELPHIA | US | 36.6765, -121.6534
+  TEMPLE OF THE LATTER DAY STEVE | US | 40.3952, -91.3858
+  TEMPLE OF PRAISE, THE SANCTIFIED CHURCH OF JESUS CHRIST, INC | US | 34.8149, -78.9688
+  MANHATTAN TEMPLE - CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | US | 40.7732, -73.9820
+  REFUGE TEMPLE CHURCH OF JESUS CHRIST APOSTOLIC | US | 41.1110, -74.0450
+  DELIVERANCE TEMPLE CHURCH OF JESUS CHRIST | US | 40.6744, -73.8041
+  PENTECOSTAL HOLY TEMPLE CHURCH OF JESUS CHRIST | US | 42.1072, -76.8086
+  GREATER HOLY TEMPLE CHURCH OF JESUS CHRIST #2 | US | 43.0380, -76.1605
+  EVANGEL TEMPLE HOLINESS CHURCH OF JESUS CHRIST | US | 41.5433, -81.6154
+  PHILADELPHIA TEMPLE OF THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | US | 39.9592, -75.1682
+  PITTSBURGH PA TEMPLE - THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | US | 40.6942, -80.1409
+  DELIVERANCE TEMPLE APOSTOLIC CHURCH OF JESUS CHRIST | US | 29.4237, -98.4634
+  CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS THE TEMPLE MOUNT TIMPANOGOS | US | 40.3931, -111.7711
+  CHURCH OF JESUS CHRIST TEMPLES | US | 40.2318, -111.6601
+  PORTLAND OREGON TEMPLE | US | 45.4254, -122.7422
+  CHR-JESUS CHRIST OF LDS TEMPLE | US | 35.1670, -106.5256
+  LDS TEMPLE - BRIGHAM CITY, UT | US | 40.7594, -87.1509
+  LDS TEMPLE SQUARE | US | 40.7704, -111.8932
+  MONTICELLO TEMPLE - LDS CHURCH | US | 37.8779, -109.3470
+  SAN DIEGO LDS TEMPLE | US | 32.8663, -117.2287
+  CHILDS MEMORIAL TEMPLE | US | 40.8267, -73.9463
+  REYNOLDS TEMPLE CME CHURCH | US | 36.1281, -80.2405
+  REDLANDS LDS TEMPLE | US | 34.0491, -117.1406
+  Provo Temple Church LDS | US | 40.2618, -111.6405
+  Albuquerque New Mexico Temple | US | 35.1677, -106.5253
+  Anchorage Alaska Temple | US | 61.1016, -149.8405
+  Atlanta Georgia Temple | US | 33.9319, -84.3624
+  Austin Texas Temple | US | 30.5168, -97.7969
+  Bakersfield California Temple | US | 35.3550, -119.1386
+  Baton Rouge Louisiana Temple | US | 30.3627, -91.1084
+  Bentonville Arkansas Temple | US | 36.3850, -94.1833
+  Billings Montana Temple | US | 45.8005, -108.6394
+  Birmingham Alabama Temple | US | 33.6746, -86.8212
+  Bismarck North Dakota Temple | US | 46.8389, -100.8140
+  Boise Idaho Temple | US | 43.5935, -116.2750
+  Boston Massachusetts Temple | US | 42.4120, -71.1881
+  Bountiful Utah Temple | US | 40.8829, -111.8468
+  Brigham City Utah Temple | US | 41.5054, -112.0166
+  Burley Idaho Temple | US | 42.5266, -113.7648
+  Caldwell Idaho Temple | US | 43.5888, -116.6653
+  Casper Wyoming Temple | US | 42.8091, -106.3618
+  Cedar City Utah Temple | US | 37.6717, -113.0963
+  Charlotte North Carolina Temple | US | 35.1632, -80.6672
+  Chicago Illinois Temple | US | 42.0868, -87.8595
+  Cincinnati Ohio Temple | US | 39.3273, -84.3169
+  Cleveland Ohio Temple | US | 41.3999, -81.6368
+  Cody Wyoming Temple | US | 44.5115, -109.0818
+  Colorado Springs Colorado Temple | US | 39.0183, -104.7845
+  Columbia River Washington Temple | US | 46.2267, -119.2749
+  Columbia South Carolina Temple | US | 33.9596, -80.8940
+  Columbus Ohio Temple | US | 39.9941, -83.1132
+  Dallas Texas Temple | US | 32.9143, -96.7965
+  Denver Colorado Temple | US | 39.5687, -104.9658
+  Des Moines Iowa Temple | US | 41.6712, -93.7425
+  Deseret Peak Utah Temple | US | 40.5727, -112.3140
+  Detroit Michigan Temple | US | 42.5663, -83.2300
+  Draper Utah Temple | US | 40.4959, -111.8407
+  Elko Nevada Temple | US | 40.8525, -115.7501
+  Ephraim Utah Temple | US | 39.3635, -111.5760
+  Fairbanks Alaska Temple | US | 64.8484, -147.8529
+  Fairview Texas Temple | US | 33.1303, -96.6311
+  Farmington New Mexico Temple | US | 36.7691, -108.1655
+  Feather River California Temple | US | 39.1463, -121.6400
+  Flagstaff Arizona Temple | US | 35.1941, -111.6083
+  Fort Bend Texas Temple | US | 29.5289, -95.5403
+  Fort Collins Colorado Temple | US | 40.4943, -105.0387
+  Fort Lauderdale Florida Temple | US | 26.0709, -80.3557
+  Fort Worth Texas Temple | US | 32.5168, -97.3575
+  Fresno California Temple | US | 36.8283, -119.8529
+  Gila Valley Arizona Temple, The | US | 32.8630, -109.7900
+  Gilbert Arizona Temple | US | 33.2914, -111.7374
+  Grand Junction Colorado Temple | US | 39.1014, -108.5511
+  Grand Rapids Michigan Temple | US | 42.9196, -85.5582
+  Greenville South Carolina Temple | US | 34.8386, -82.2912
+  Harrisburg Pennsylvania Temple | US | 40.2840, -76.8029
+  Hartford Connecticut Temple | US | 41.7378, -72.8445
+  Heber Valley Utah Temple | US | 40.5066, -111.3895
+  Helena Montana Temple | US | 46.6337, -112.0192
+  Houston Texas Temple | US | 29.9997, -95.5330
+  Huntsville Alabama Temple | US | 34.7276, -86.7825
+  Idaho Falls Idaho Temple | US | 43.4998, -112.0415
+  Indianapolis Indiana Temple | US | 39.9556, -86.1657
+  Jacksonville Florida Temple | US | 30.1618, -81.6235
+  Jordan River Utah Temple | US | 40.5664, -111.9314
+  Kahului Hawaii Temple | US | 20.8674, -156.4934
+  Kansas City Missouri Temple | US | 39.2205, -94.5013
+  Kirtland Temple | US | 41.6253, -81.3622
+  Knoxville Tennessee Temple | US | 35.8646, -84.2182
+  Kona Hawaii Temple | US | 19.6416, -155.9855
+  Laie Hawaii Temple | US | 21.6472, -157.9307
+  Las Vegas Nevada Temple | US | 36.1746, -115.0201
+  Layton Utah Temple | US | 41.0617, -111.9384
+  Lehi Utah Temple | US | 40.4394, -111.8511
+  Lindon Utah Temple | US | 40.3373, -111.6954
+  Logan Utah Temple | US | 41.7342, -111.8279
+  Lone Mountain Nevada Temple | US | 36.2362, -115.3042
+  Los Angeles California Temple | US | 34.0528, -118.4339
+  Louisville Kentucky Temple | US | 38.3211, -85.4888
+  Lubbock Texas Temple | US | 33.5290, -101.9414
+  Manhattan New York Temple | US | 40.7731, -73.9816
+  Manti Utah Temple | US | 39.2729, -111.6338
+  McAllen Texas Temple | US | 26.2681, -98.2111
+  Medford Oregon Temple | US | 42.3733, -122.9327
+  Memphis Tennessee Temple | US | 35.2408, -89.8393
+  Meridian Idaho Temple | US | 43.6710, -116.4151
+  Mesa Arizona Temple | US | 33.4129, -111.8196
+  Missoula Montana Temple | US | 46.8190, -114.0675
+  Modesto California Temple | US | 37.7028, -121.0468
+  Monticello Utah Temple | US | 37.8779, -109.3471
+  Montpelier Idaho Temple | US | 42.3182, -111.3016
+  Moses Lake Washington Temple | US | 47.1034, -119.2724
+  Mount Timpanogos Utah Temple | US | 40.3932, -111.7705
+  Nashville Tennessee Temple | US | 35.9488, -86.8603
+  Nauvoo Illinois Temple | US | 40.5505, -91.3844
+  Nauvoo Temple | US | 40.5505, -91.3843
+  Newport Beach California Temple | US | 33.6296, -117.8488
+  Norfolk Virginia Temple | US | 36.8642, -76.4452
+  Oakland California Temple | US | 37.8080, -122.1991
+  Ogden Utah Temple | US | 41.2278, -111.9715
+  Oklahoma City Oklahoma Temple | US | 35.5918, -97.7267
+  Oquirrh Mountain Utah Temple | US | 40.5511, -111.9875
+  Orem Utah Temple | US | 40.2708, -111.7209
+  Orlando Florida Temple | US | 28.5073, -81.5096
+  Palmyra New York Temple | US | 43.0391, -77.2371
+  Payson Utah Temple | US | 40.0193, -111.7492
+  Philadelphia Pennsylvania Temple | US | 39.9592, -75.1681
+  Phoenix Arizona Temple | US | 33.6986, -112.1723
+  Pittsburgh Pennsylvania Temple | US | 40.6940, -80.1409
+  Pocatello Idaho Temple | US | 42.9153, -112.4064
+  Portland Oregon Temple | US | 45.4253, -122.7422
+  Provo City Center Temple | US | 40.2327, -111.6593
+  Provo Utah Rock Canyon Temple | US | 40.2635, -111.6405
+  Raleigh North Carolina Temple | US | 35.7321, -78.8615
+  Rapid City South Dakota Temple | US | 44.0052, -103.2511
+  Red Cliffs Utah Temple | US | 37.0822, -113.5197
+  Redlands California Temple | US | 34.0490, -117.1406
+  Reno Nevada Temple | US | 39.5346, -119.8989
+  Rexburg Idaho Temple | US | 43.8109, -111.7790
+  Richmond Virginia Temple | US | 37.6729, -77.5354
+  Sacramento California Temple | US | 38.6351, -121.1939
+  Salt Lake Temple | US | 40.7705, -111.8920
+  San Antonio Texas Temple | US | 29.6415, -98.4888
+  San Diego California Temple | US | 32.8664, -117.2288
+  Saratoga Springs Utah Temple | US | 40.3442, -111.9326
+  Seattle Washington Temple | US | 47.5841, -122.1409
+  Smithfield Utah Temple | US | 41.8401, -111.8527
+  Snowflake Arizona Temple | US | 34.5025, -110.1116
+  Spanish Fork Utah Temple | US | 40.1070, -111.6141
+  Spokane Washington Temple | US | 47.6202, -117.2207
+  Springfield Missouri Temple | US | 37.1024, -93.2433
+  Star Valley Wyoming Temple | US | 42.7121, -110.9325
+  Sunnyvale California Temple | US | 37.3530, -122.0443
+  Syracuse Utah Temple | US | 41.0991, -112.0763
+  Tacoma Washington Temple | US | 47.2742, -122.3164
+  Tallahassee Florida Temple | US | 30.5201, -84.2382
+  Tampa Florida Temple | US | 27.9090, -82.3499
+  Taylorsville Utah Temple | US | 40.6667, -111.9541
+  Teton River Idaho Temple | US | 43.8607, -111.7814
+  Tucson Arizona Temple | US | 32.3385, -110.9492
+  Tulsa Oklahoma Temple | US | 36.0919, -95.8262
+  Twin Falls Idaho Temple | US | 42.5868, -114.4415
+  Vancouver Washington Temple | US | 45.6077, -122.4693
+  Vernal Utah Temple | US | 40.4532, -109.5374
+  West Jordan Utah Temple | US | 40.6204, -112.0684
+  Wichita Kansas Temple | US | 37.7751, -97.3734
+  Willamette Valley Oregon Temple | US | 44.0889, -123.0328
+  Winchester Virginia Temple | US | 39.1883, -78.1913
+  Winter Quarters Nebraska Temple | US | 41.3341, -95.9662
+  Yorba Linda California Temple | US | 33.8984, -117.8347
+  Yuma Arizona Temple | US | 32.6621, -114.4944
+  LDS Indianapolis Temple | US | 39.9543, -86.1660
+  REFUGE TEMPLE CHURCH OF JESUS CHRIST APOSTOLIC | US | 41.1110, -74.0450
+  Montevideo Uruguay Temple | UY | -34.8884, -56.0741
+  Caracas Venezuela Temple | VE | 10.4708, -66.8373
+  Maracaibo Venezuela Temple | VE | 10.6694, -71.6043
+  Port Vila Vanuatu Temple | VU | -17.7038, 168.3042
+  Apia Samoa Temple | WS | -13.8381, -171.7830
+  Cape Town South Africa Temple | ZA | -33.9411, 18.4798
+  Durban South Africa Temple | ZA | -29.7085, 31.0737
+  Johannesburg South Africa Temple | ZA | -26.1781, 28.0392
+  Harare Zimbabwe Temple | ZW | -17.8041, 31.0824

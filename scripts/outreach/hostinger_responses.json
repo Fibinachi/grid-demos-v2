@@ -1,0 +1,3682 @@
+[
+  {
+    "folder": "INBOX",
+    "msg_id": "1",
+    "sender": "Stripe <notifications@stripe.com>",
+    "subject": "Verify your email",
+    "date": "Thu, 27 Mar 2025 20:08:27 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thanks for creating a Stripe account. Verify your email so you can get up and running quickly.\r\n\r\nVerify email : https://dashboard.stripe.com/confirm_email?t=jlt90g1dG9jAiXFCVgNVLNwcO1OfNPk1\r\n\r\nOnce y"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "2",
+    "sender": "Stripe <notifications@stripe.com>",
+    "subject": "Two-step authentication is now enabled on your account",
+    "date": "Thu, 27 Mar 2025 20:10:11 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Two-step authentication enabled\r\n\r\nFrom now on, when signing in to your Stripe account, you'll be asked to enter a code sent to your phone number ending in 4542 in addition to entering your usual emai"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "4",
+    "sender": "Link <notifications@link.com>",
+    "subject": "Verify your email",
+    "date": "Thu, 27 Mar 2025 20:13:25 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Confirm it\u2019s you\r\nThanks for using Link to connect your bank to HubSpot. To confirm it\u2019s you, please verify your email.\r\nVerify your email : https://support.link.com/confirm-email/confirm?t=csmrect_61"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "5",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "Review download notification",
+    "date": "Thu, 27 Mar 2025 21:26:11 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Great news!\r\nYour reviews are downloaded from Martindale!\r\nCreate amazing review widgets on your website. You can choose from 40 website widget layouts and 25 widget styles.Create website widget now! "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "6",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "Review download notification",
+    "date": "Thu, 27 Mar 2025 21:34:10 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Great news!\r\nYour reviews are downloaded from Avvo!\r\nCreate amazing review widgets on your website. You can choose from 40 website widget layouts and 25 widget styles.Create website widget now! \u00bb\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "7",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "E-mail confirmation",
+    "date": "Thu, 27 Mar 2025 21:43:39 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi,You can verify your e-mail address with this mail. Just use this confirmation code: c364b1f5e0\r\n\r\n\r\n(If you don't know where because the interface doesn't prompt you, go to this page: https://admin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "9",
+    "sender": "Link <notifications@email.link.com>",
+    "subject": "Welcome to Link",
+    "date": "Fri, 28 Mar 2025 18:01:56 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Enjoy fast checkout with your new Link account\r\n\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "10",
+    "sender": "Susie <cvansciv@gmail.com>",
+    "subject": "Fwd: LecCoy - 2024 Taxes",
+    "date": "Mon, 31 Mar 2025 10:07:55 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "---------- Forwarded message ---------\r\nFrom: Leslie LeCroy <leslie.lecroy@yahoo.com>\r\nDate: Sun, Mar 16, 2025, 1:20\u202fPM\r\nSubject: LecCoy - 2024 Taxes\r\nTo: cvansciv@gmail.com <cvansciv@gmail.com>, Chri"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "11",
+    "sender": "The Plaid Team <info@email.plaid.com>",
+    "subject": "Fight fraud and grow your business",
+    "date": "Tue, 1 Apr 2025 09:01:27 -0500 (CDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Plaid <https://em.plaid.com/NDk1LVdSRS01NjEAAAGZkKDkLJse7xK0UxDn7xYMXXMKbXSlZ8YXgneIffIQygItPlSy2JWwqoQp8HVuvQcEutXMlqs=>\r\n\r\n-------------------------------------------\r\n \u034f\u200c \u034f\u200c \u034f\u200c \u034f\u200c \r\nProtect your bo"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "13",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "E-mail confirmation",
+    "date": "Tue, 1 Apr 2025 14:46:16 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi,You can verify your e-mail address with this mail. Just use this confirmation code: 34caaf19e8\r\n\r\n\r\n(If you don't know where because the interface doesn't prompt you, go to this page: https://admin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "14",
+    "sender": "Link <notifications@link.com>",
+    "subject": "Verify your email",
+    "date": "Tue, 1 Apr 2025 14:47:37 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Confirm it\u2019s you\r\nThanks for signing up. To confirm it\u2019s you, please verify your email.\r\nVerify your email : https://support.link.com/confirm-email/confirm?t=csmrect_61SIU3auPUKAVEBYa41GYQaMwzLzD7lw_Y"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "15",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "E-mail confirmation",
+    "date": "Tue, 1 Apr 2025 14:48:43 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi,You can verify your e-mail address with this mail. Just use this confirmation code: b1aefb5b1c\r\n\r\n\r\n(If you don't know where because the interface doesn't prompt you, go to this page: https://admin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "16",
+    "sender": "A Cooper <akilah.26@hotmail.com>",
+    "subject": "BUSINESS NETWORKING EVENTS in COLUMBIA, SC EASTER WEEKEND",
+    "date": "Tue, 1 Apr 2025 14:48:51 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning,\r\nYou still have the opportunity to be a vendor!  We've extended registration for our business event due to feedback from other vendors.  NOW YOU HAVE UNTIL APRIL 11th!  Don't miss this c"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "17",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "E-mail confirmation",
+    "date": "Tue, 1 Apr 2025 14:51:48 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi,You can verify your e-mail address with this mail. Just use this confirmation code: a90527258b\r\n\r\n\r\n(If you don't know where because the interface doesn't prompt you, go to this page: https://admin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "18",
+    "sender": "Trustindex <support@trustindex.io>",
+    "subject": "E-mail confirmation",
+    "date": "Tue, 1 Apr 2025 14:52:17 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi,You can verify your e-mail address with this mail. Just use this confirmation code: d68793fec2\r\n\r\n\r\n(If you don't know where because the interface doesn't prompt you, go to this page: https://admin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "19",
+    "sender": "Link <notifications@link.com>",
+    "subject": "A new passkey has been added to your Link account",
+    "date": "Tue, 1 Apr 2025 14:56:25 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi,\r\n\r\nThe passkey Windows (Chrome) has been added to your Link account.\r\n\r\nIf you didn't add this passkey, log in to Link (https://app.link.com) to remove it and then log out on all devices to secure"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "20",
+    "sender": "Gabor from Trustindex <gabor@trustindex.io>",
+    "subject": "\ud83c\udf1f Boost Your Credibility Today!",
+    "date": "Tue,  1 Apr 2025 20:14:48 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Want to showcase customer reviews in a way that builds trust and drives conversions? Trustindex\u2019s Review Widgets let you display real customer feedback beautifully on your website\u2014effortlessly!\r\n\r\nOur"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "24",
+    "sender": "The Plaid Team <info@email.plaid.com>",
+    "subject": "Win more customers with more ways to pay",
+    "date": "Thu, 3 Apr 2025 09:01:35 -0500 (CDT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Plaid <https://em.plaid.com/NDk1LVdSRS01NjEAAAGZmu28tuGT3y1-f5USzVzWz2WK6g9Iv9U4Wu0nL-ccwXCQNvoVh5c5EakSbvJm5pwJsLiUxEE=>\r\n\r\n---------------------------------\r\n\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\r\nMeet our new payments "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "26",
+    "sender": "\r\n\tMidlands Christian Directory <publisher@midlandschristian",
+    "subject": "Networking next week!",
+    "date": "Fri, 4 Apr 2025 07:57:04 -0400 (EDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Email from Midlands Christian Directory Don't forget to register! \u200a \u200a Your event is coming up next Thursday! \u200a \u200a Apr 10 Midlands Directory Christians In Business Networking Event April 10, 2025 You ar"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "41",
+    "sender": "Gabor from Trustindex <gabor@trustindex.io>",
+    "subject": "\ud83d\udcc8 Increase Reviews & Trust in Seconds!",
+    "date": "Fri,  4 Apr 2025 19:55:06 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Getting customer reviews has never been easier!\r\n\r\nWith Trustindex\u2019s NFC Review Collector Cards, your customers can leave a review with just one tap\u2014no apps, no searching, just instant feedback!\r\n\r\nSt"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "44",
+    "sender": "Heather Butler <hbutler@darcosc.net>",
+    "subject": "RE: ",
+    "date": "Mon, 7 Apr 2025 12:23:08 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\nHeather Butler\r\nDeputy Probate Judge\r\nDarlington County\r\n843-398-4310\r\n\r\nFrom: Joe Belveg from columbiataxlawyer.com <Charles=columbiataxlawyer.com@bf.hubspot-inbox.com>\r\nSent: Friday, April 4, 20"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "45",
+    "sender": "\"Mercado, Brent\" <BrentMercado@IamMorrison.com>",
+    "subject": "Fw: G2024",
+    "date": "Tue, 8 Apr 2025 13:31:55 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\nBrent Mercado\r\n\r\nDirector of Food & Nutrition\r\n\r\nPrisma Health Midlands\r\n\r\nMorrison Healthcare\r\n\r\no: 803.907.1200\r\n\r\n[cid:946d0251-5880-4ed7-aec5-cf2fb578258a]\r\n\r\n\r\n\r\n\u201cHospitality should have no o"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "46",
+    "sender": "The Plaid Team <info@email.plaid.com>",
+    "subject": "What\u2019s the secret to SoFi\u2019s success?",
+    "date": "Tue, 8 Apr 2025 09:00:42 -0500 (CDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Plaid <https://em.plaid.com/NDk1LVdSRS01NjEAAAGZtKy6hTi-PaBu1hQ4b1dtozC4-46xdooNHTQP7nt8JI5WcGjSQeZ0RdLIA0ks5OGyjqkQwmQ=>\r\n\r\n-------------------\r\n\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\u034f\u200c\u00a0\r\nReal stories. Powered by Plaid.\r\n\r\nPers"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "51",
+    "sender": "Nina Nguyen <nnguyen@nova-labs.com>",
+    "subject": "Helium Mobile Follow-Up",
+    "date": "Mon, 7 Apr 2025 11:31:54 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nMy name is Nina, and I'm reaching out to you from Helium Mobile.\r\n\r\nCurrently, you can upgrade your wifi in commercial or mixed-use locations\r\nby adding Helium Mobile onto your network "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "53",
+    "sender": "msonlineservicesteam@microsoftonline.com",
+    "subject": "Your The Prescott Law Firm password has been reset",
+    "date": "Wed, 09 Apr 2025 09:03:03 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<!-- This is the new email template for SSPR which aligns well with the ema"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "55",
+    "sender": "Nina Nguyen <nnguyen@nova-labs.com>",
+    "subject": "Re: Helium Mobile Follow-Up",
+    "date": "Wed, 9 Apr 2025 11:57:03 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nThank you for the additional information.\r\n\r\nFor commercial addresses, Helium Plus requires a one-time set-up fee of\r\n$10. This covers backend services on our end, including provisionin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "56",
+    "sender": "Jordan Reynolds <jreynolds@trestleiq.com>",
+    "subject": "Trestle\u2019s Phone Validation API Now Supports Global Numbers",
+    "date": "Wed, 16 Apr 2025 10:05:08 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Our Phone Validation API now supports international numbers in over 200 countries.\r\n\r\nLogo reverse (https://d2GF9c04.na1.hubspotlinks.com/Ctc/W4+113/d2GF9c04/VW_84H13K3DcW8w53Mw85hty6W97gBTk5vsq1PN2QY"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "58",
+    "sender": "\"service@paypal.com\" <service@paypal.com>",
+    "subject": "Verification code to reset your PayPal password",
+    "date": "Sat, 19 Apr 2025 11:34:19 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "59",
+    "sender": "\"Prescott Law Firm Paralegal\" <prescottlawparalegal@gmail.co",
+    "subject": "2023 Tax Return Information",
+    "date": "Sat, 19 Apr 2025 19:57:44 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "\r\n\r\nTo protect your privacy, the attached document is encrypted and can be opened only by providing the correct password. The password is the first 4 characters of your business name (lowercase with n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "61",
+    "sender": "alerts@td.com",
+    "subject": "RE: Upcoming changes to your TD Business Convenience Checking Plus\r\n account",
+    "date": "Mon, 21 Apr 2025 13:44:12 -0400 (EDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "64",
+    "sender": "Omar Shalabi <oshalabi@pbsrep.com>",
+    "subject": "Fw: S2K Opportunity Zone Discussion",
+    "date": "Wed, 23 Apr 2025 18:19:43 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\n\r\n\r\n\r\nOmar Shalabi CFP\ufffd\r\nFinancial Advisor\r\n803-753-7828\r\nfax 803-753-7857\r\n2026 Assembly St  Suite 203\r\nColumbia, SC  29201\r\noshalabi@pbsrep.com<mailto:oshalabi@pbsrep.com>\r\n\r\n\r\n\r\nSecurities offe"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "66",
+    "sender": "Vikram Paramasivan <vikramp@microsoft.com>",
+    "subject": "Welcome to Google Identity to Entra Identity Sync Preview Program -\r\n Confidenti",
+    "date": "Thu, 24 Apr 2025 02:47:55 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hello,\r\n\r\nThank you for your interest in the Google Identity to Entra Identity Sync Program. This exclusive and confidential program is not generally available, but we have whitelisted your tenants to"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "67",
+    "sender": "\"Main Street Makers\" <memberinfo@hello.nav.com>",
+    "subject": "Sole prop vs. LLC: How to pick a business type",
+    "date": "Thu, 24 Apr 2025 08:51:34 -0600",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "Nav\r\n\r\n----\r\n\r\nYour email client cannot display HTML or your settings are turned off.\r\n\r\nTo view this email, please click or copy and paste the link below into your web browser:\r\n\r\nhttps://view.hello."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "68",
+    "sender": "Datadog <help@datadoghq.com>",
+    "subject": "Your Datadog Verification Code",
+    "date": "Thu, 24 Apr 2025 16:16:31 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\nEmail Verification Code\r\n\r\nFinish signing up for Datadog by entering the code below. Do not share this verification code with anyone else.\r\n\r\n35771958\r\n\r\nIf you didn't request this code, you can saf"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "69",
+    "sender": "Ryan Hanratty <ryan.hanratty@datadoghq.com>",
+    "subject": "Datadog Trial - Point of Contact",
+    "date": "Thu, 24 Apr 2025 11:14:23 -0600",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nI saw that you recently started a Datadog trial and wanted to introduce\r\nmyself as your point of contact. I'm here to help you get the most out of\r\nthe platform and answer any questions"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "73",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "A document from Wolters Kluwer is available for you to sign",
+    "date": "Tue, 29 Apr 2025 02:27:25 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\nDear "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "74",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "A document from Wolters Kluwer is available for you to sign",
+    "date": "Tue, 29 Apr 2025 02:27:25 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\nDear "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "75",
+    "sender": "Gabor from Trustindex <gabor@trustindex.io>",
+    "subject": "\u23f1\ufe0f Quick, Smart, Personalized Replies \u2013 with AI",
+    "date": "Tue, 29 Apr 2025 19:14:59 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "** \ud83e\udd16 Save Time & Boost Engagement with AI-Powered Review Replies!\r\n------------------------------------------------------------\r\n\r\nResponding to every customer review can be time-consuming\u2014but it\u2019s al"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "77",
+    "sender": "\"Silverberg, Jeffrey\" <jsilverberg@sccourts.org>",
+    "subject": "Contact information",
+    "date": "Wed, 30 Apr 2025 20:37:12 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "\r\n\r\nJeffrey I. Silverberg\r\nAssistant Disciplinary Counsel\r\nSupreme Court of South Carolina\r\nOffice of Disciplinary Counsel\r\nPost Office Box 12159\r\nColumbia, S.C. 29211\r\n(O) 803-734-2038\r\n(F) 803-734-1"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "78",
+    "sender": "JumpCloud Password Manager <notifications@tr.jumpcloud.com>",
+    "subject": "JumpCloud Password Manager Invite Reminder",
+    "date": "Thu, 01 May 2025 12:00:14 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n  <head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width\">"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "81",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "Your envelope Shalabi Extension Personal from Wolters Kluwer will\r\n expire on 20",
+    "date": "Sat, 03 May 2025 01:48:45 +0000 (UTC)",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\n\n\nDea"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "82",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "Your envelope Shalabi Extension Personal from Wolters Kluwer will\r\n expire on 20",
+    "date": "Sat, 03 May 2025 01:48:45 +0000 (UTC)",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\n\n\nDea"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "83",
+    "sender": "Richard Barnes <richard.barnes@virtualtax.pro>",
+    "subject": "ATX Downloads",
+    "date": "Sat, 3 May 2025 09:40:42 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Here are the links to Download ATX:\r\n\r\nhttps://workdrive.zohoexternal.com/external/dcebd641f536853500fde0f312a1846294e6828096399262eaa055322e3858a0\r\n\r\nThis should have every year back to 2004/2005.\r\n\r"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "85",
+    "sender": "msonlineservicesteam@microsoftonline.com",
+    "subject": "Your The Prescott Law Firm password has been reset",
+    "date": "Mon, 05 May 2025 07:04:00 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<!-- This is the new email template for SSPR which aligns well with the ema"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "86",
+    "sender": "Susie <cvansciv@gmail.com>",
+    "subject": "Fwd: LecCoy - 2024 Taxes",
+    "date": "Mon, 5 May 2025 10:49:17 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "---------- Forwarded message ---------\r\nFrom: Leslie LeCroy <leslie.lecroy@yahoo.com>\r\nDate: Sun, Mar 16, 2025, 1:20\u202fPM\r\nSubject: LecCoy - 2024 Taxes\r\nTo: cvansciv@gmail.com <cvansciv@gmail.com>, Chri"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "87",
+    "sender": "Susie <cvansciv@gmail.com>",
+    "subject": "Fwd: Leslie's W9",
+    "date": "Mon, 5 May 2025 10:49:30 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "---------- Forwarded message ---------\r\nFrom: Leslie LeCroy <leslie@leslielecroy.com>\r\nDate: Tue, Oct 31, 2023, 1:42\u202fPM\r\nSubject: Leslie's W9\r\nTo: cvansciv@gmail.com <cvansciv@gmail.com>\r\n\r\n\r\nHey here"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "88",
+    "sender": "Plaid <effects@email.plaid.com>",
+    "subject": "Don\u2019t miss these virtual deep dives at Plaid Effects",
+    "date": "Tue, 6 May 2025 11:37:59 -0500 (CDT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "[Plaid Effects logo.](https://plaid.com/events/effects/?utm_source=p1_events&utm_medium=email&utm_campaign=2025_05_events_us_can_p1_effects_deepdives_e3_p&utm_term=us_ca&utm_content=effects&utm_creati"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "89",
+    "sender": "\"VoIP.ms\" <support@voip.ms>",
+    "subject": "You are one step away from using VoIP.ms! Verify your identity to\r\n use VoIP.ms",
+    "date": "Tue, 06 May 2025 16:53:31 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Charles\r\n\r\n\r\nThank you for choosing VoIP.ms. We look forward to seeing you get started with our award-winning platform.\r\nTo comply with our compliance policies, standards, and the regulatory requ"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "91",
+    "sender": "Gabor from Trustindex <gabor@trustindex.io>",
+    "subject": "\ud83d\udcf2 One Tap = One Review: It\u2019s That Easy",
+    "date": "Tue,  6 May 2025 19:59:49 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "** \ud83d\udcf2 Get More Reviews with Just One Tap!\r\n------------------------------------------------------------\r\n\r\nCollecting customer reviews has never been easier\u2014or faster.\r\n\r\nWith the Trustindex NFC Review"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "93",
+    "sender": "Gamal Alshaeri <tcmlakecarolina@gmail.com>",
+    "subject": "",
+    "date": "Tue, 6 May 2025 16:52:09 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "This is Wagdi\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "94",
+    "sender": "\"Katherine Rue\" <metmofa@fastmail.com>",
+    "subject": "RE: 2024 Taxes !",
+    "date": "Tue, 06 May 2025 23:14:14 -0700",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello \r\n\r\nThanks for your earlier message, and apologies for the delay in getting back to you. I just returned home following a successful surgery and am now catching up.\r\n\r\nLast year, I filed my taxe"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "96",
+    "sender": "Mark Houck <Mark.Houck@dor.sc.gov>",
+    "subject": "RE: [EXTERNAL] RM TRADING",
+    "date": "Wed, 7 May 2025 13:17:50 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Mr. Prescott,\r\n\r\nThank you for your email and the attached document.\r\n\r\nWith respect to an allowance for shrinkage, theft, loss, spoilage, etc.  if you review the offer I put forth to you and your cli"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "97",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "A document from Wolters Kluwer is available for you to sign",
+    "date": "Fri, 09 May 2025 19:50:20 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\nDear "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "98",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "A document from Wolters Kluwer is available for you to sign",
+    "date": "Fri, 09 May 2025 19:50:25 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\nDear "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "99",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "A document from Wolters Kluwer is available for you to sign",
+    "date": "Sat, 10 May 2025 00:00:50 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\nDear "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "100",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "A document from Wolters Kluwer is available for you to sign",
+    "date": "Sat, 10 May 2025 00:00:50 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\nDear "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "101",
+    "sender": "AssureSign API <notifications@assuresign.com>",
+    "subject": "Your envelope Lecroy, Christopher M and Leslie from Wolters Kluwer\r\n will expire",
+    "date": "Mon, 12 May 2025 01:22:50 +0000 (UTC)",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "body{font-family:Arial,Helvetica,sans-serif; font-size: 14px;}\r\np.as-footer{font-size:.83em;}\r\na, a:hover, a:visited, a:active { color: #002F65; font-weight: bold; text-decoration: underline; }\r\n\n\nDea"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "102",
+    "sender": "\"Eddye L. Lane, P.A.\" <ell@eddyelanelaw.com>",
+    "subject": "PRESCOTT CONSUMER QUESTIONNAIRE",
+    "date": "Mon, 12 May 2025 17:00:26 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Mr. Prescott:\r\n\r\nThanks for contacting my firm assist with your legal services.  Please \r\nknow that you will need to undergo pre-bankruptcy counseling with an \r\napproved consumer credit counselin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "103",
+    "sender": "Will Summerall <will@fleetcleanusa.com>",
+    "subject": "Greg Athanas Notice ",
+    "date": "Tue, 13 May 2025 15:52:55 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Good morning Amy,\r\n\r\nPlease see attached notice, I have also copied my lawyer.\r\n\r\n[image0.jpeg]\r\n\r\nWill Summerall\r\nFranchise Owner, FW Fleet Clean, LLC\r\nm: (803) 457-4555\r\ne: will@fleetcleanusa.com | "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "104",
+    "sender": "EDEXIS Support <support@edexis.com>",
+    "subject": "EDEXIS Automated Trial Exhibit List",
+    "date": "Wed, 14 May 2025 17:13:01 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "** Hate creating Trial Exhibit Lists?\r\n\r\nYou will love our automated process.\r\n------------------------------------------------------------\r\nFew forms are more time-consuming and frustrating to create"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "105",
+    "sender": "\"PayPal\" <PayPal@emails.paypal.com>",
+    "subject": "Charles, your April account statement is available.",
+    "date": "Thu, 15 May 2025 06:17:12 -0600",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "\r\n\r\n\r\n\r\nHello Charles Prescott,\r\n\r\nWe have tried to send you this email as HTML (pictures and words) but it wasn't possible.\r\nIn order for you to see what we had hoped to show you, please click here t"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "106",
+    "sender": "alerts@td.com",
+    "subject": "You have a new secure message",
+    "date": "Mon, 19 May 2025 07:31:52 -0400 (EDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "107",
+    "sender": "\"Silverberg, Jeffrey\" <jsilverberg@sccourts.org>",
+    "subject": "test",
+    "date": "Tue, 20 May 2025 20:33:29 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "\r\n\r\nJeffrey I. Silverberg\r\nAssistant Disciplinary Counsel\r\nSupreme Court of South Carolina\r\nOffice of Disciplinary Counsel\r\nPost Office Box 12159\r\nColumbia, S.C. 29211\r\n(O) 803-734-2038\r\n(F) 803-734-1"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "108",
+    "sender": "ODCmail <ODCmail@sccourts.org>",
+    "subject": "ODCmail shared the folder \"Mr. Prescott, C.A. Matters\" with you",
+    "date": "Wed, 21 May 2025 13:39:27 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "[Share image]\r\n\r\nODCmail shared a folder with you\r\n\r\nMr. Prescott,\r\n\r\nPlease upload the relevant medical documentation discussed with Mr. Silverberg to this folder.\r\n\r\nThank you!\r\nHaley\r\n\r\n<https://sc"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "109",
+    "sender": "margarettay6549@gmail.com",
+    "subject": "Skilled Legal Assistants Ready...!! ",
+    "date": "Mon, 02 Jun 2025 10:30:43 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi,\r\n\r\nHope you are doing well\r\n\r\nI wanted to check if you're currently looking to hire a dedicated remote  \r\nattorney or paralegal. We offer support across various legal areas,  \r\nincluding: Family L"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "110",
+    "sender": "\"Prescott Law Firm Paralegal\" <prescottlawparalegal@gmail.co",
+    "subject": "2022 Tax Return Information",
+    "date": "Wed, 04 Jun 2025 14:41:35 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "\r\n\r\nTo protect your privacy, the attached document is encrypted and can be opened only by providing the correct password. The password is the first 4 characters of your business name (lowercase with n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "111",
+    "sender": "Ryan Smith <rsmith@dickdyeronline.com>",
+    "subject": "fuse ",
+    "date": "Fri, 6 Jun 2025 20:03:43 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\nhttps://fuse-box.info/mercedes-benz/mercedes-benz-slk-class-r171-2005-2011-fuses-and-relay\r\n\r\nRyan Smith\r\nDick Dyer and Associates - Service Advisor\r\n5825 Two Notch Rd, Columbia, SC, 29223\r\n803-786-"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "112",
+    "sender": "\"Prescott Law Firm Paralegal\" <prescottlawparalegal@gmail.co",
+    "subject": "2022 Tax Return Information",
+    "date": "Thu, 12 Jun 2025 09:47:53 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Majeed Salaymah"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "113",
+    "sender": "\"Prescott Law Firm Paralegal\" <prescottlawparalegal@gmail.co",
+    "subject": "2022 Tax Return Information",
+    "date": "Thu, 12 Jun 2025 09:51:57 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "\r\n\r\nTo protect your privacy, the attached document is encrypted and can be opened only by providing the correct password. The password is the first 4 characters of your last name (lowercase with no sp"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "114",
+    "sender": "Brittney O\u2019Brien <virtualbritt@gmail.com>",
+    "subject": "Fwd: Letter to SC Court of Appeals",
+    "date": "Thu, 12 Jun 2025 17:12:11 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "115",
+    "sender": "Brittney O\u2019Brien <virtualbritt@gmail.com>",
+    "subject": "Fwd: documents sent to court of appeals today",
+    "date": "Thu, 12 Jun 2025 17:12:55 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "116",
+    "sender": "Brittney O\u2019Brien <virtualbritt@gmail.com>",
+    "subject": "Fwd: SCDSS",
+    "date": "Thu, 12 Jun 2025 17:15:44 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "117",
+    "sender": "Brittney O\u2019Brien <virtualbritt@gmail.com>",
+    "subject": "Fwd: Documents sent out today",
+    "date": "Thu, 12 Jun 2025 17:16:04 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "118",
+    "sender": "Brittney O\u2019Brien <virtualbritt@gmail.com>",
+    "subject": "Fwd: SCDSS v. Brittney O'Brien and Allan O'Brien",
+    "date": "Thu, 12 Jun 2025 17:18:26 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "120",
+    "sender": "margaret tay <margarettay6549@gmail.com>",
+    "subject": "Re: Skilled Legal Assistants Ready...!!",
+    "date": "Mon, 16 Jun 2025 06:59:15 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": " Hello,\r\n\r\nI am still waiting for your reply.\r\n\r\n\r\n*Please let me know if you are interested in my services.  *\r\nThank you,\r\nMargaret tay\r\n\r\nOn Mon, 2 Jun 2025 at 06:30, <margarettay6549@gmail.com> wr"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "121",
+    "sender": "Brittney O\u2019Brien <virtualbritt@gmail.com>",
+    "subject": "Motion filed",
+    "date": "Mon, 16 Jun 2025 10:20:40 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "122",
+    "sender": "Mary Oldemoppen <kevlaghjong@icloud.com>",
+    "subject": "Re: 2024 Return",
+    "date": "16 Jun 2025 22:28:06 +0200",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi, \r\n\r\nMy name is Timothy Oldemoppen, I would like assistance with \r\nfiling a joint tax return for myself and my wife. We\u2019re ready to \r\nbegin the process and would appreciate guidance on what documen"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "123",
+    "sender": "Nav <support@nav.com>",
+    "subject": "Connect your business to Dun & Bradstreet",
+    "date": "Tue, 17 Jun 2025 15:32:47 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "No Text Available"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "124",
+    "sender": "kaysmith9035@gmail.com",
+    "subject": "Remote Attorney..?",
+    "date": "Wed, 18 Jun 2025 07:46:51 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi,\r\n\r\n\r\n\r\nPlease, could you let me know whether you are interested in hiring a\r\n\u201c*Dedicated\r\nRemote Attorney and Paralegal* at a reasonable cost\u201d?\r\n\r\n\r\n\r\n*We specialize in: -*\r\n\r\n\r\n\r\n*- Estate planni"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "125",
+    "sender": "Anil Juneja <drjpsychiatry@gmail.com>",
+    "subject": "Dr. Juneja's Office",
+    "date": "Wed, 18 Jun 2025 15:39:23 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Good afternoon,\r\n\r\nAs per your request I am emailing you from our email address.\r\n\r\nPlease send a separate email to this email address with any\r\ninformation you would like Dr. Juneja to see.\r\n\r\nThank "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "126",
+    "sender": "kaysmith9035@gmail.com",
+    "subject": "Follow up (Remote Attorney..?)",
+    "date": "Fri, 20 Jun 2025 14:02:15 -0400",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": " Hello,\r\n\r\nI am still waiting for your reply.\r\n\r\nPlease let me know if you are interested in my services.\r\n\r\nThank you,\r\n\r\nKay\r\n\r\n\r\n\r\nOn Wed, Jun 18, 2025 at 8:17\u202fPM <kaysmith9035@gmail.com> wrote:\r\n\r"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "128",
+    "sender": "JumpCloud-Notifications <notifications@tr.jumpcloud.com>",
+    "subject": "JumpCloud Notice: Your M365/Azure AD Sync connection has an error",
+    "date": "Thu, 03 Jul 2025 04:50:36 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n  <head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width\">"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "129",
+    "sender": "Kay Smith <kaysmith9035@gmail.com>",
+    "subject": "Re: Remote Attorney..?",
+    "date": "Fri, 4 Jul 2025 00:03:00 +0530",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": " Hello,\r\n\r\nI am still waiting for your reply.\r\n\r\n*Please let me know if you are interested in my services.  *\r\n\r\nThank you,\r\nKay\r\n\r\nOn Wed, Jun 18, 2025 at 8:16\u202fPM <kaysmith9035@gmail.com> wrote:\r\n\r\n>"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "130",
+    "sender": "finance@infotrack.com",
+    "subject": "Overdue Reminder",
+    "date": "Fri, 04 Jul 2025 06:01:17 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "132",
+    "sender": "Joshua Busbey <joshua@bestlifetimeinsurance.com>",
+    "subject": "Charles - interview?",
+    "date": "Tue, 08 Jul 2025 17:05:20 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles, my colleague, Carol, found you on LinkedIn (and mentioned you at least 3 times during our lunch break), so here I am emailing you :)\r\n\r\nWe\u2019ve been interviewing a few leaders from the legal"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "133",
+    "sender": "Donna Oelhafen <donna.oelhafen@scbar.org>",
+    "subject": "FW: SC Bar Contract Lawyer Directory",
+    "date": "Wed, 16 Jul 2025 21:00:26 +0000",
+    "classification": "BOUNCE",
+    "reason": "Bounced",
+    "body_preview": "Mr. Prescott,\r\n\r\nWe were emailing to see if you are still interested in being on the SC Bar Contract Lawyer Directory (please see below).  The primary email address in AIS bounced back as undeliverabl"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "138",
+    "sender": "Mercury <the-messenger@mercury.com>",
+    "subject": "\ud83d\udd4aThe Messenger: Categorize multiple transactions in a click",
+    "date": "Tue, 12 Aug 2025 16:34:35 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "( https://www.mercury.com )\r\n\r\n\u200a\r\n\r\nWelcome to The Messenger, your monthly dose of product updates. In this issue, we look at a faster way to tick categorizing transactions off your to-do list, forwar"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "139",
+    "sender": "Member Service / Services aux membres <memberservice@CBA.org",
+    "subject": "CBA Associate Membership Information",
+    "date": "Mon, 18 Aug 2025 15:25:17 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Good morning,\r\n\r\nI hope this email finds you well.\r\n\r\nI apologize for my delay in reaching out - we spoke last week regarding joining the CBA as an Associate member.\r\n\r\nPlease note that the CBA is a v"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "140",
+    "sender": "Lendio <customersupport@lendio.com>",
+    "subject": "Reminder about your business funding option",
+    "date": "Fri, 22 Aug 2025 11:09:23 -0600",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "See how much you\u2019re pre-qualified for below.\r\n\r\nLendio (https://lp.lendio.com/e3t/Ctc/GB+113/cm7b404/VVG80b8rwx6rW5Lc6rt4nJdNSW2_PQhc5BxNbpMyCDlz4YHrPW5BWr2F6lZ3kWVw0bT-6pRddnW7W-4q-5F6j3WW6__c9c6Gcz8"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "142",
+    "sender": "\"McCarroll, Marybeth F\" <Marybeth.McCarroll@charter.com>",
+    "subject": "Spectrum Mobile Escalation",
+    "date": "Tue, 2 Sep 2025 22:07:49 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Charles -\r\n\r\nThank you for your call today to explain your concerns with the $800 mobile bill you received.\r\n\r\nI have routed your concern to one of the Vice President's in our Mobile division.  You ca"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "143",
+    "sender": "\"McCarroll, Marybeth F\" <Marybeth.McCarroll@charter.com>",
+    "subject": "RE: Spectrum Mobile Escalation",
+    "date": "Wed, 3 Sep 2025 12:00:47 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Charles -\r\n\r\nI understand you spoke with one of our Mobile team last night and you are reviewing the information they provided to you.\r\n\r\nI hope this is bringing your concerns to resolution.\r\n\r\n\r\nThan"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "144",
+    "sender": "Zachary Zaba <fuselageproductions@gmail.com>",
+    "subject": "Holiday Parties",
+    "date": "Wed, 3 Sep 2025 20:45:08 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good Evening!\r\nMy name is Zach and I own a local lighting and video company specializing\r\nin party rentals called Fuselage Productions.\r\n\r\nAs the football and holiday party seasons approach, we are Co"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "145",
+    "sender": "Hugging Face Xet Support <website+xet@huggingface.co>",
+    "subject": "[Hugging Face] You've been upgraded to Xet!",
+    "date": "Thu, 25 Sep 2025 20:40:29 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n<html>\r\n<head>\r\n\r\n<style>\r\nhtml {\r\n\tfont-family: serif;\r\n\tfont-size: 14px;\r\n}\r\nimg {\r\n\tmax-width: 100%;\r\n}\r\nblockquote {\r\n\tborder-left: 3px solid #ccc;\r\n\tmargin: 0 0;\r\n\tpadding: 0 10px;\r\n}\r\n</style>"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "146",
+    "sender": "Michael Messina <Michael.Messina@DrakeSoftware.com>",
+    "subject": "Drake Software",
+    "date": "Tue, 30 Sep 2025 16:53:23 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "I (name/title) authorize drake software to change the email address from (incorrect email address) to (correct email address)\r\nReason for change:\r\nMichael Messina\r\nEsclations Response Team\r\nDrake Soft"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "148",
+    "sender": "Andrew Aitchison <andrew.aitchison@utoronto.ca>",
+    "subject": "Applications Now Open \u2013 Explore Emmanuel College & Upcoming Events",
+    "date": "Thu, 2 Oct 2025 16:03:22 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Dear Charles,\r\nThank you for your patience as we welcomed our new incoming class and settled into the fall term here at Emmanuel College. We are excited to now turn our attention to those discerning t"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "149",
+    "sender": "Al Taj <ataj@punctiliolegal.com>",
+    "subject": "Re: Confidential Intro - The Prescott Law Firm <> Punctilio",
+    "date": "Mon, 06 Oct 2025 13:46:34 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Hey Warren,\r\n\r\nI wanted to reach out one final time. I truly believe that a partnership with Punctilio could really help for The Prescott Law Firm. If you\u2019re open to it, I\u2019d love to share some insight"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "150",
+    "sender": "Jesse Billett <jesse.billett@utoronto.ca>",
+    "subject": "Lunch today",
+    "date": "Mon, 6 Oct 2025 14:57:24 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\nI\ufffdll follow up on this note with a text message momentarily. Apologies for not getting a note to you sooner about meeting for lunch today! If you\ufffdre still at leisure, perhaps we could"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "151",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "CPA Verification / Christopher LeCroy/Tight Joint Carpentry LLC",
+    "date": "Thu, 9 Oct 2025 13:14:22 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning,\r\n\r\nPlease provide a letter on your company letterhead verifying the self-employment for Christopher LeCroy/Tight Joint Carpentry LLC. Please make sure the information below is included o"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "152",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Fw: CPA Verification / Christopher LeCroy/Tight Joint Carpentry LLC",
+    "date": "Fri, 10 Oct 2025 20:47:57 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good afternoon,\r\n\r\nI am following up on the request below. Please provide an ETA. Thank you!\r\n\r\n\r\nPlease provide a letter on your company letterhead verifying the self-employment for Christopher LeCro"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "153",
+    "sender": "baatuu gresik <baatuugresikd@hotmail.com>",
+    "subject": "Re: Proposal...",
+    "date": "Sat, 11 Oct 2025 14:30:51 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi,\r\n\r\n  I believe I can help you increase your visibility on Google.\r\n\r\nMay I send you a customized proposal with pricing?\r\n\r\nLooking forward to your reply!\r\n\r\nbaatuu\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "156",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Fw: CPA Verification / Christopher LeCroy/Tight Joint Carpentry LLC",
+    "date": "Tue, 14 Oct 2025 17:09:06 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Following up. Please provide an ETA to this request. I have also left a voicemail for your office. Thank you!\r\n\r\n\r\n________________________________\r\nFrom: Victoria Harmon <vharmon@milend.com>\r\nSent: F"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "157",
+    "sender": "Zachary Zaba <fuselageproductions@gmail.com>",
+    "subject": "Party Rentals for the Holidays!",
+    "date": "Tue, 14 Oct 2025 11:17:41 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good Evening!\r\nMy name is Zach and I'm a partner for a local lighting and video rental\r\ncompany called Fuselage Productions. As both party and football season\r\ncontinue and you're in need of video and"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "158",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Fw: CPA Verification / Christopher LeCroy/Tight Joint Carpentry LLC",
+    "date": "Fri, 17 Oct 2025 17:15:59 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good afternoon,\r\n\r\nFollowing up on the request below and to add an additional item that is needed. Thank you and have a great weekend!\r\n\r\n\r\n\r\n  1.\r\n**added 10/17/25** Funds to purchase home is being u"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "159",
+    "sender": "Leslie LeCroy <leslie.lecroy@yahoo.com>",
+    "subject": "Fw: LeCroy - Milend - Infotree verification",
+    "date": "Mon, 20 Oct 2025 14:31:30 +0000 (UTC)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=3)",
+    "body_preview": "Good morning, Charles,\u00a0\r\nI hope you had a nice vacation. My mortgage lender is trying to reach you regarding a self-employment verification. If you could reply directly (vharmon@milend.com) or to this"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "160",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: LeCroy - Milend - Infotree verification",
+    "date": "Tue, 21 Oct 2025 14:41:30 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nFollowing up on the requests for employment verification. Please provide the following as soon as possible, thank you!\r\n\r\n\r\n  1.\r\nFunds to purchase the home is being used from a Busines"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "161",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: LeCroy - Milend - Infotree verification",
+    "date": "Tue, 21 Oct 2025 14:41:30 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nFollowing up on the requests for employment verification. Please provide the following as soon as possible, thank you!\r\n\r\n\r\n  1.\r\nFunds to purchase the home is being used from a Busines"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "163",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy ",
+    "date": "Thu, 23 Oct 2025 11:57:22 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nWe spoke yesterday and I thought we were supposed to receive your letter yesterday, but I have not received an email or fax. Please provide an ETA, thank you!\r\n\r\n\r\n\r\n\r\n\r\n  1.\r\nFunds to "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "164",
+    "sender": "info@business-phone-systems.net",
+    "subject": "Used Equipment",
+    "date": "Thu, 23 Oct 2025 14:35:11 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nPlease send pictures and more details of the equipment for sale.\r\n\r\nThanks!\r\n\r\nRegards,\r\n\r\nBusiness Phone Systems\r\n\r\nPhone: 855-399-0103"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "165",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy ",
+    "date": "Fri, 24 Oct 2025 10:48:46 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning Charles,\r\n\r\nI am following up. Please provide the requested letter as soon as possible. This is the last item needed for the clear to close. Thank you!\r\n\r\n\r\n______________________________"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "167",
+    "sender": "Jonathan Tiedman <notifications@calendly.com>",
+    "subject": "Confirmed: Poker Club with Jonathan Tiedman on Friday, November 7,\r\n 2025",
+    "date": "Fri, 24 Oct 2025 15:23:27 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "169",
+    "sender": "\"Hostinger\" <team@user.hostinger.com>",
+    "subject": "Recover your Hostinger account",
+    "date": "Fri, 24 Oct 2025 16:12:05 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Submit recovery request     Hostinger (\nhostinger.com )\n\nLog in  \n( https://clicks.hostinger.com/f/a/rGbm0bmeULgT5oWey7p3Pg~~/AAAHahA~/BL3u70v5SwuaIefMVQKH30xE3DtWdU8K6AgenG0W6YZYdOJrj4nkAY6DOsVMrchB3"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "170",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy ",
+    "date": "Fri, 24 Oct 2025 19:12:56 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Received, thank you!\r\n\r\nSincerely,\r\n\r\nVictoria Harmon\r\nLoan Processor\r\nOffice: 678-287-0134\r\nFax: 678-824-8898\r\nvharmon@milend.com\r\n[cid:3917c53d-8891-4801-9996-389ce9760e08]<http://www.milend.com/>\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "172",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy ",
+    "date": "Mon, 27 Oct 2025 13:51:45 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Yes, we should be set. Thank you!\r\n\r\nIf we need anything else, I will reach out.\r\n\r\n\r\n\r\nSincerely,\r\n\r\nVictoria Harmon\r\nLoan Processor\r\nOffice: 678-287-0134\r\nFax: 678-824-8898\r\nvharmon@milend.com\r\n[cid"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "174",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy ",
+    "date": "Tue, 4 Nov 2025 16:08:30 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Charles,\r\n\r\nWe need a final employment verification. Can you please send over an updated letter with today's date? Thank you!\r\n\r\n\r\nSincerely,\r\n\r\nVictoria Harmon\r\nLoan Processor\r\nOffice: 678-287-013"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "175",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy ",
+    "date": "Wed, 5 Nov 2025 19:11:40 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Charles, following up.\r\n\r\nWe need a final employment verification. Can you please send over an updated letter with today's date? Thank you!\r\n\r\n\r\n\r\nSincerely,\r\n\r\nVictoria Harmon\r\nLoan Processor\r\nOff"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "176",
+    "sender": "Leslie LeCroy <leslie.lecroy@yahoo.com>",
+    "subject": "Re: Our mutual client M. LeCroy",
+    "date": "Wed, 5 Nov 2025 19:53:40 +0000 (UTC)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hey Victoria,\u00a0\r\nI just spoke with Charles, and he said he will send an updated letter today when he's back home.\u00a0\r\nThanks,\u00a0\r\nLeslie\u00a0\u00a0\r\n Leslie LeCroyleslie.lecroy@yahoo.com678.713.1796leslielecroy.com"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "177",
+    "sender": "Phillip King <pking@milend.com>",
+    "subject": "RE: Our mutual client M. LeCroy",
+    "date": "Wed, 5 Nov 2025 20:04:22 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thank you! \ud83d\ude0a\r\n\r\nPhillip King\r\nProducing Manager\r\nToll-Free: 866-962-2973\r\nOffice: 678-495-3375\r\nCell: 678-323-9467\r\nToll-Free Fax: 866-962-5972\r\nFax: 678-824-6278\r\npking@milend.com<mailto:pking@milend"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "178",
+    "sender": "Victoria Harmon <vharmon@milend.com>",
+    "subject": "Re: Our mutual client M. LeCroy",
+    "date": "Wed, 5 Nov 2025 20:08:45 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thank you Leslie!\r\n\r\nSincerely,\r\n\r\nVictoria Harmon\r\nLoan Processor\r\nOffice: 678-287-0134\r\nFax: 678-824-8898\r\nvharmon@milend.com\r\n[cid:ed759f9a-4f4b-4a26-b6f8-52d7e154dc15]<http://www.milend.com/>\r\nMiL"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "179",
+    "sender": "TST Admissions <tst.admissions@utoronto.ca>",
+    "subject": "TST Admission Deadline: November 24th, 2025",
+    "date": "Thu, 6 Nov 2025 19:59:02 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello,\r\n\r\nOur records indicate that you have started an application to a graduate program at the Toronto School of Theology.\r\n\r\nThis is a reminder that the deadline to submit applications is noon on N"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "180",
+    "sender": "Whitepages API <api@whitepages.com>",
+    "subject": "[Request received] Whitepages Pro API Access Request",
+    "date": "Fri, 07 Nov 2025 15:21:05 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "##- Please type your reply above this line -##\r\n\r\nHello from Whitepages!\r\n\r\nThank you for your interest in the Whitepages API. Our team is reviewing your request and will follow up soon with next step"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "181",
+    "sender": "Whitepages API <api@whitepages.com>",
+    "subject": "Whitepages Follow Up: Whitepages Pro API Access Request",
+    "date": "Fri, 07 Nov 2025 15:21:14 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "##- Please type your reply above this line -##\r\n\r\nWhitepages has replied to your inquiry about the Whitepages API. The ticket ID is # 4806721. \r\n\r\nHere is the response:\r\n------------------------------"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "182",
+    "sender": "Jonathan Tiedman <notifications@calendly.com>",
+    "subject": "Confirmed: Poker Club with Jonathan Tiedman on Friday, December 5,\r\n 2025",
+    "date": "Sun, 09 Nov 2025 14:00:40 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "183",
+    "sender": "haleykiddn@gmail.com",
+    "subject": "Re: Termination of Services",
+    "date": "Sat, 21 Jun 2025 22:31:34 -0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nSince you have opened this email, but have yet to respond, I assumes this\r\nmeans you will meet me at your office on Wednesday at 2P.M. to give me my\r\nfiles.\r\n\r\nRespectfully,\r\n\r\nCindy Ki"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "184",
+    "sender": "haleykiddn@gmail.com",
+    "subject": "Termination of Services",
+    "date": "Tue, 17 Jun 2025 19:19:36 -0000",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "Hi Charles,\r\n\r\nI am writing to let you know that I plan to terminate our agreement to\r\ncomplete my taxes as promised in July 2024.\r\n\r\nI will be at your office on Wednesday, June 25th, to pick up all o"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "185",
+    "sender": "\"McAbee, Haley C.\" <hmcabee@sccourts.org>",
+    "subject": "RE: OneDrive Link for Charles Prescott",
+    "date": "Wed, 21 May 2025 13:41:11 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning Mr. Prescott,\r\n\r\nYou should have received an email from Microsoft OneDrive with a link to the folder. You may also access it by clicking the hyperlink below.\r\n\r\nMr. Prescott, C.A. Matters"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "186",
+    "sender": "\"Silverberg, Jeffrey\" <jsilverberg@sccourts.org>",
+    "subject": "OneDrive Link for Charles Prescott",
+    "date": "Tue, 20 May 2025 21:15:32 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Haley,\r\n\r\nCan you send a OneDrive link to Mr. Prescott so he can upload some medical documentation?\r\n\r\nThanks,\r\nJeff\r\n\r\nJeffrey I. Silverberg\r\nAssistant Disciplinary Counsel\r\nSupreme Court of South Ca"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "188",
+    "sender": "Whitepages API <api@whitepages.com>",
+    "subject": "Whitepages Follow Up: Whitepages Pro API Access Request",
+    "date": "Thu, 13 Nov 2025 14:21:16 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "##- Please type your reply above this line -##\r\n\r\nWhitepages has replied to your inquiry about the Whitepages API. The ticket ID is # 4806721. \r\n\r\nHere is the response:\r\n------------------------------"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "189",
+    "sender": "Coinbase Bytes <newsletter@mail.coinbase.com>",
+    "subject": "What is Zcash and why has it been rallying?",
+    "date": "Thu, 13 Nov 2025 22:09:03 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Coinbase is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.\r\nInformation provided is for general educational purposes only and is not i"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "190",
+    "sender": "Andrew Aitchison <andrew.aitchison@utoronto.ca>",
+    "subject": "Applications for TST Graduate Degrees due November 24",
+    "date": "Fri, 14 Nov 2025 17:36:59 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hello,\r\nI'm reaching out because you previously indicated interest in one of the TST advanced degree programs<https://www.tst.edu/graduate-degree-programs>.\r\nA reminder that applications are due Novem"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "192",
+    "sender": "Maaco <shop@e.maaco.com>",
+    "subject": "Secure Your Appointment Now!",
+    "date": "17 Nov 2025 18:01:38 -0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "It looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.e."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "194",
+    "sender": "TST Admissions <tst.admissions@utoronto.ca>",
+    "subject": "TST Admissions Deadline | November 24th, 2025",
+    "date": "Fri, 21 Nov 2025 20:22:22 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello,\r\n\r\nOur records indicate that you have started an application to a graduate program at the Toronto School of Theology.\r\n\r\nThis is a reminder that the deadline to submit applications is noon on N"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "196",
+    "sender": "PEOPLEAD@uscjobspa.sc.edu",
+    "subject": "USC Jobs Application has been Submitted",
+    "date": "Mon, 24 Nov 2025 21:19:00 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "<p style=\"margin-right:0in; margin-left:0in\"><span style=\"font-size:12pt\"><span style='font-family:\"Times New Roman\",serif'><span style=\"font-size:10.5pt\"><span style='font-family:\"Arial\",sans-serif'>"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "198",
+    "sender": "Becky Friedman <becky@ghekkonetworks.com>",
+    "subject": "Ghekko Networks",
+    "date": "Mon, 1 Dec 2025 16:56:17 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Shoot over the pics when you can.\r\n\r\nBecky Friedman\r\nbecky@ghekkonetworks.com\r\n  727.576.5001\r\nDDI: 678-566-5709\r\nwww.ghekkonetworks.com\r\nUSA Office\r\nUK\r\n\u200bAmtri House, Hulley Road\r\n\u200bMacclesfield, SK10"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "199",
+    "sender": "Hula Networks <sales@hulanetworks.com>",
+    "subject": "Hula Networks has received your message",
+    "date": "Mon, 01 Dec 2025 12:58:48 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,<br><br>\r\n        Thank you for contacting Hula Networks!<br><br>\r\n        This email confirms that we received your inquiry.<br>\r\n        Our team is available 9AM\ufffd5PM Pacific. For immedia"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "200",
+    "sender": "Scott Hobin <scott@hulanetworks.com>",
+    "subject": "RE: New Lead (Charles A. Prescott Jr.) Received",
+    "date": "Mon, 1 Dec 2025 18:27:13 +0000",
+    "classification": "NO",
+    "reason": "Declined (score: no=2)",
+    "body_preview": "Hello Charles,\r\n\r\nThank you for the opportunity to review your network equipment for potential purchase. After evaluating the list and considering our resale data, inventory, and market demand, we reg"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "201",
+    "sender": "Becky Friedman <becky@ghekkonetworks.com>",
+    "subject": "Re: Ghekko Networks",
+    "date": "Mon, 1 Dec 2025 18:28:46 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thanks I will check around, just nothing we are currently selling.\r\n\r\nKeep eye out of for these phones in your travels as some we are currently buying:\r\nCisco - 8811, 8821 (wireless), 8841, 8851 and 8"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "203",
+    "sender": "saste nayasi <sastenayasid@hotmail.com>",
+    "subject": "Re: price info",
+    "date": "Thu, 4 Dec 2025 17:31:15 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Hi,\r\n\r\nI\ufffdm following up on my previous message. Could you let me know if you're interested?\r\n\r\nThanks\r\n\r\nsaste nayasi\r\n\r\n________________________________\r\nFrom: saste nayasi <sastenayasid@hotmail.com>"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "207",
+    "sender": "Conciliacion a Extranjeros <extranjeros@profeco.gob.mx>",
+    "subject": "RE: Iberostar// PROFECO ",
+    "date": "Thu, 11 Dec 2025 20:26:37 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "[cid:image002.jpg@01DC6AA9.C71B1390]\r\nProcuradur\ufffda Federal del Consumidor\r\nSubprocuradur\ufffda de Servicios\r\nDirecci\ufffdn General de Quejas y Conciliaci\ufffdn\r\nDirecci\ufffdn de Conciliaci\ufffdn y Programas Especiales\r\n\r"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "208",
+    "sender": "Jesse Billett <jesse.billett@utoronto.ca>",
+    "subject": "Automatic reply: Lunch today",
+    "date": "Sat, 13 Dec 2025 15:49:36 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "I am able to read and respond to e-mails to my personal University of Toronto account only sporadically. If you need a quicker answer, please get in touch with me by telephone or book an appointment d"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "209",
+    "sender": "Anver Emon <anver.emon@utoronto.ca>",
+    "subject": "Re: Doctoral Supervision Inquiry: Law and Religion, Legal History,\r\n and Institu",
+    "date": "Sat, 13 Dec 2025 18:55:11 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi there\r\nThis sounds interesting. Lets chat. Zainab can find us a time for next week.\r\n\r\nAe\r\n\r\nAnver M Emon\r\nDirector, Institute of Islamic Studies\r\nCanada Research Chair in Islamic Law & History\r\nUn"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "210",
+    "sender": "Carmen Lansdowne <carmen.lansdowne@utoronto.ca>",
+    "subject": "RE: Doctoral Supervision Inquiry: Institutional Theology, Church\r\n Governance, a",
+    "date": "Sat, 13 Dec 2025 20:53:55 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nAre you already a TST student at Trinity?  Or are you in the process of applying?\r\n\r\nAs I\u2019m new faculty, I am not yet approved to chair / supervise doctoral committees, but I would be h"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "211",
+    "sender": "Carmen Lansdowne <carmen.lansdowne@utoronto.ca>",
+    "subject": "RE: Doctoral Supervision Inquiry: Institutional Theology, Church\r\n Governance, a",
+    "date": "Sun, 14 Dec 2025 23:20:09 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Charles,\r\n\r\nI\u2019ve made a couple of comments on the attached \u2013 I really like your direction, and I hope you get in.  I\u2019ll forward this email to our director of graduate studies and indicate my intere"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "212",
+    "sender": "Ettore Damiano <ettore.damiano@utoronto.ca>",
+    "subject": "Re: Doctoral Supervision Inquiry: Applied Game Theory in\r\n Institutional Risk Ma",
+    "date": "Mon, 15 Dec 2025 14:58:45 +0000",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "Hello Charles,\r\n\r\nThank you for reaching out. Regrettably, my current administrative load as Chair of one of the largest Department on campus, leaves little time to much else. Best of luck in your end"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "213",
+    "sender": "Zainab Yusofi <z.yusofi@utoronto.ca>",
+    "subject": "Re: Doctoral Supervision Inquiry: Law and Religion, Legal History,\r\n and Institu",
+    "date": "Mon, 15 Dec 2025 16:08:01 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\nThank you for sharing your availability.  I have sent an invitation for Tuesday at 12 PM.\r\n\r\nThanks!\r\n\r\nRegards,\r\n\r\nZainab Yusofi\r\n\r\nAdministrative, Outreach and Communications Assist"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "214",
+    "sender": "Nisarg Shah <nisarg@cs.toronto.edu>",
+    "subject": "Re: Doctoral Supervision Inquiry: Game Theory, Fairness, and\r\n Institutional Dec",
+    "date": "Mon, 15 Dec 2025 13:37:17 -0500",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Charles,\r\n\r\nSorry, but your academic background and preparation don't align with what I\r\nlook for when hiring students. I wish you best of luck!\r\n\r\nOn Sat, Dec 13, 2025 at 11:36\u202fAM charles@columbia"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "215",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: PhD Supervision Inquiry: Institutional Theology & Liability\r\n Management (Cr",
+    "date": "Mon, 15 Dec 2025 22:12:31 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Charles,\r\n\r\nThank you for your email and for your interest in our PhD program at Trinity College and the Toronto School of Theology. Your proposed research trajectory is intriguing. I'm open to l"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "216",
+    "sender": "Karen Stemmle via Adobe Acrobat Sign <echosign@echosign.com>",
+    "subject": "Signature requested on \"250578318 Prescott Ext\"",
+    "date": "Thu, 18 Dec 2025 08:42:31 -0800 (PST)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "218",
+    "sender": "Nisarg Shah <nisarg@cs.toronto.edu>",
+    "subject": "Re: Doctoral Supervision Inquiry: Game Theory, Fairness, and\r\n Institutional Dec",
+    "date": "Thu, 18 Dec 2025 15:04:36 -0500",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "You can reach out to Ishtiaque Ahmed.\r\n\r\nOn Thu, Dec 18, 2025 at 10:38\u202fAM charles@columbiataxlawyer.com <\r\ncharles@columbiataxlawyer.com> wrote:\r\n\r\n>\r\n> Dear Professor Shah,\r\n> Thank you for your prom"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "219",
+    "sender": "Anderson Brothers Bank via Adobe Acrobat Sign <echosign@echo",
+    "subject": "Completed: \"250578318 Prescott Ext\"",
+    "date": "Thu, 18 Dec 2025 12:07:11 -0800 (PST)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "222",
+    "sender": "\"Cann, Blaire\" <bcann@sccourts.org>",
+    "subject": "In re Prescott - 2025-002519",
+    "date": "Fri, 19 Dec 2025 16:15:50 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning,\r\n\r\nAttached please find an Order of the Court transferring Mr. Prescott to incapacity inactive status in the above matter.  This order is nonpublic.\r\n\r\nThank you,\r\n\r\nBlaire Cann\r\nChief D"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "223",
+    "sender": "\"Cann, Blaire\" <bcann@sccourts.org>",
+    "subject": "In re Prescott - 2025-002519",
+    "date": "Fri, 19 Dec 2025 16:19:42 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning,\r\n\r\nAttached please find an Order of the Court appointing Mr. Tyler as Receiver in the above matter. The Application for Termination is due to be served and filed on or before September 1"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "224",
+    "sender": "Accounting Practice Sales <denise@aps.net>",
+    "subject": "Happy Holidays from Your APS Team!",
+    "date": "Fri, 19 Dec 2025 21:00:34 +0000",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "https://accountingpracticesales.com/\r\nhttps://accountingpracticesales.com/\r\nhttps://accountingpracticesales.com/seller-inquiry/\r\n\r\n============================================================\r\n\r\nThis "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "225",
+    "sender": "Zainab Yusofi <z.yusofi@utoronto.ca>",
+    "subject": "Doctoral Supervision Inquiry: Law and Religion, Legal History, and\r\n Institution",
+    "date": "Mon, 15 Dec 2025 15:52:39 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n________________________________________________________________________________\r\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\r\nJoin the meeting now<https://teams.microsoft"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "227",
+    "sender": "Tiffany Hunter <tiffany.hunter@me.com>",
+    "subject": "Pics",
+    "date": "Tue, 23 Dec 2025 09:45:05 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "228",
+    "sender": "Tiffany Hunter <tiffany.hunter@me.com>",
+    "subject": "Pic",
+    "date": "Tue, 23 Dec 2025 09:46:49 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "229",
+    "sender": "Poe Group Advisors <inquiry@poegroupadvisors.com>",
+    "subject": "Happy Holidays\u00a0",
+    "date": "Tue, 23 Dec 2025 11:18:03 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "logo (https://insights.poegroupadvisors.com/e3t/Ctc/5F+113/d2vs9004/VVQTZw1b3StCW2kFZSk1q2JB1W3cF4jk5Hqk9zN3Gk37W3l5QzW6N1vHY6lZ3p_W5vP0yd4zr-zLW5J14f33t1DP7W2FMzp690lT5sW234Yty67rJggW6N5c3j8QdkMZW2fh"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "230",
+    "sender": "\"service@paypal.com\" <service@paypal.com>",
+    "subject": "You added your phone number to your account",
+    "date": "Thu, 25 Dec 2025 18:10:09 -0800",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "232",
+    "sender": "McGill University <gradapplicants.gps@mcgill.ca>",
+    "subject": "Deadline approaching: January 15. Submit your application.",
+    "date": "Fri, 02 Jan 2026 12:45:34 +0000 (UTC)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "                                  Hi Charles,                                \r\n\r\n\r\n                                Thank you for starting an application to our PhD Religious Studies (Thesis) program a"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "234",
+    "sender": "graduate.admissions@admin.ox.ac.uk",
+    "subject": "University of Oxford: Graduate application started",
+    "date": "Sat, 03 Jan 2026 17:37:43 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "\r\n\r\nDear Charles Prescott\r\n\r\nThank you for starting your application for the DPhil in Theology and Religion at the University of Oxford, for entry in 2026/27. Oxford offers the opportunity to join an "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "237",
+    "sender": "Toronto School of Theology <notifications@tst.ampeducatormai",
+    "subject": "[Toronto School of Theology] PhD Application",
+    "date": "Fri, 9 Jan 2026 14:31:44 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thank you for your form submission. Please find a PDF of your form attached to this email and a link to 'PhD Application'. You can use these to review or print your submission. If the link is not work"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "238",
+    "sender": "Toronto School of Theology <notifications@tst.ampeducatormai",
+    "subject": "Complete your Application to the PhD at TST",
+    "date": "Fri, 9 Jan 2026 14:31:45 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n                \r\n                \r\n                \r\n                \r\n                \r\n                \r\n                \r\n\r\nThank you for submitting the online application for admission to the P"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "239",
+    "sender": "PayPal <service@paypal.com>",
+    "subject": "The Toronto School o...: $132.00\u00a0CAD",
+    "date": "Fri, 09 Jan 2026 06:31:58 -0800",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "240",
+    "sender": "Phoenix JDATSG <phoenix@jdatsg.purplefish-mail.com>",
+    "subject": "Reaching out about the Tax Expert opportunity with JDA",
+    "date": "Fri, 9 Jan 2026 11:09:24 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Reaching out about the Tax Expert opportunity with JDA\r\n \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff\r\n\u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff\r\n\u200c"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "241",
+    "sender": "Phoenix JDATSG <phoenix@jdatsg.purplefish-mail.com>",
+    "subject": "Final Reminder: Complete Your Next Steps for the Tax Expert\r\n Opportunity with J",
+    "date": "Sat, 10 Jan 2026 10:16:16 -0600",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Final Reminder: Complete Your Next Steps for the Tax Expert Opportunity\r\nwith JDA\r\n \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff\r\n\u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d\u200e\u200f\ufeff \u200c\u200b\u200d"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "243",
+    "sender": "Brent Mercado <bmerc829@me.com>",
+    "subject": "24\u2019",
+    "date": "Sat, 10 Jan 2026 18:39:04 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "246",
+    "sender": "\"InfoTrack\" <legalup@infotrack.com>",
+    "subject": "CLE Double Feature: Real World Strategies for Legal AI & Discovery",
+    "date": "Mon, 12 Jan 2026 10:10:20 -0600",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\u202fStay ahead of challenges driving today's litigation\r\n\r\nhttps://go.infotrack.com/e/931053/-medium-email-utm-source-blast/5d9rb/636809049/h/MWID15-lDfjFn-n83z9b_eHD1D5OOcnaccdHEiZyvKc\r\n\r\nHi there,\r\n\r\n "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "247",
+    "sender": "Dylan young <mailer@covideo.com>",
+    "subject": "2008 Porsche Boxster S - Video",
+    "date": "Tue, 13 Jan 2026 16:14:24 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<head><style>.covideo-signature-class{margin:0;font-size:16px;}.ql-font-serif{font-family:Georgia,TimesNewRoman,serif;}.ql-font-monospace{font-family:Monaco,CourierNew,monospace;}.ql-indent-1{padding-"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "248",
+    "sender": "Harley Hensley <hhensley@motoplex.dpatauto.com>",
+    "subject": "2006 Boxster Build sheet",
+    "date": "Tue, 13 Jan 2026 17:25:48 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Charles,Please find attached the build sheet for out 2006 Boxster. I also will work on getting more pictures of the car for you and will send those over once I get them for you. Thank you,\r\nHarley Hen"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "249",
+    "sender": "Irina Bobrova <irena@pitbulltax.com>",
+    "subject": "New Feature: IRS Transcripts Monitoring Automation",
+    "date": "Tue, 13 Jan 2026 13:25:27 -0500 (EST)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "IRS Transcripts Monitoring Automation - PitBullTax New Feature IRS Transcripts Monitoring Automation Hi Tax Professional, We're excited to introduce our newest feature inside PitBullTax - IRS Transcri"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "250",
+    "sender": "\"Dylan Young\" <DylanYoung@chapmantucson.com>",
+    "subject": "2008 Porsche Boxster S - Following Up",
+    "date": "14 Jan 2026 07:09:01 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html><head><style type=\"text/css\">.style1 {font-family: \"Times New Roman\";}</style></head><body style=\"font-family: arial; font-size: 14px\"><p style=\"\">Good-morning Charles,<br><br>Thanks again for t"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "251",
+    "sender": "\"Dylan Young\" <DylanYoung@chapmantucson.com>",
+    "subject": "2008 Porsche Boxster S - Shipped To Your Door!",
+    "date": "15 Jan 2026 08:05:02 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "253",
+    "sender": "Domotz Team <marketing@domotz.com>",
+    "subject": "You created an account but never deployed. Want to try again?",
+    "date": "Thu, 15 Jan 2026 14:29:09 -0500",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "You created a Domotz account last year but never deployed, want to try again?\r\n\r\nReady to reevaluate Domotz?\r\n\r\nWe saw you created an account with Domotz in 2025 but never deployed it. We understand p"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "254",
+    "sender": "Ava Hayes <hayesavabkz396@hotmail.com>",
+    "subject": "Tr\u1ea3 l\u1eddi: Charles A. Prescott Jr. Wants to reach out to you regarding CHARLESAPRE",
+    "date": "Fri, 16 Jan 2026 05:41:28 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "I can sell domain with price $500\r\n________________________________\r\nT\u01b0\u0300: noreply@sav.com <noreply@sav.com>\r\n\u0110a\u0303 g\u01b0\u0309i: 07 Tha\u0301ng Gi\u00eang 2026 9:53 CH\r\n\u0110\u00ea\u0301n: hayesavabkz396@hotmail.com <hayesavabkz396@ho"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "255",
+    "sender": "Harley Hensley <hhensley@motoplex.dpatauto.com>",
+    "subject": "Re:2006 Boxster Build sheet",
+    "date": "Fri, 16 Jan 2026 16:22:02 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Charles,Here is what all we did to the Boxster. - PCM retrofit module ( gives a modern head unit that is designed to fit the car by Porsche) - Paint correction. - Painted wheels and side air intake co"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "256",
+    "sender": "Ava Hayes <hayesavabkz396@hotmail.com>",
+    "subject": "Re: Charles A. Prescott Jr. Wants to reach out to you regarding\r\n CHARLESAPRESCO",
+    "date": "Sat, 17 Jan 2026 01:49:00 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "$150 ok thanks my friends\r\n________________________________\r\nT\u01b0\u0300: charles@columbiataxlawyer.com <charles@columbiataxlawyer.com>\r\n\u0110a\u0303 g\u01b0\u0309i: Saturday, January 17, 2026 7:59:39 AM\r\n\u0110\u00ea\u0301n: Ava Hayes <hayes"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "257",
+    "sender": "Mohammad Fazlhashemi <mohammad.fazlhashemi@teol.uu.se>",
+    "subject": "Sv: \u00a0Inquiry regarding PhD Candidacy: Social Sciences of Religion (Ref: UFV-PA 2",
+    "date": "Thu, 22 Jan 2026 08:13:33 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles A. Prescott,\r\nThank you for your email. To be considered for a PhD position in Empirical-Practical Studies of Religion and Theology, applicants must satisfy the following specific require"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "258",
+    "sender": "George Pavlich <gpavlich@ualberta.ca>",
+    "subject": "Re: PhD Inquiry: Socio-Legal Theory, Institutional Governance, and\r\n Liability M",
+    "date": "Thu, 22 Jan 2026 13:00:00 -0700",
+    "classification": "NO",
+    "reason": "Declined (score: no=2)",
+    "body_preview": "Dear Mr. Prescott\r\n\r\nThank you kindly for your interest in studying with me. Regrettably, I am\r\nat a stage in my career where I am no longer accepting any new graduate\r\nstudents, but I do wish you the"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "259",
+    "sender": "Mohammad Fazlhashemi <mohammad.fazlhashemi@teol.uu.se>",
+    "subject": "Sv: \u00a0Inquiry regarding PhD Candidacy: Social Sciences of Religion (Ref: UFV-PA 2",
+    "date": "Fri, 23 Jan 2026 08:10:18 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "For my part, it is ok to contact Professor L\ufffdvheim.\r\nRegards\r\nMohammad Fazlhashemi\r\n\r\n\r\nFr\ufffdn: charles@columbiataxlawyer.com <charles@columbiataxlawyer.com>\r\nSkickat: den 22 januari 2026 12:53\r\nTill: M"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "260",
+    "sender": "Simon Cijsouw <s.t.cijsouw@uva.nl>",
+    "subject": "RE: PhD Inquiry: Institutional Governance and the \"Accountability\r\n Displacement",
+    "date": "Fri, 23 Jan 2026 11:14:18 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=4)",
+    "body_preview": "Dear Charles A. Prescott, Jr., J.D., LL.M\r\nThank you for your email. We are pleased to know that you are interested in a PhD position at the AISSR.\r\n\r\nIn my role as PhD coordinator, I am part of the s"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "261",
+    "sender": "Simon Cijsouw <s.t.cijsouw@uva.nl>",
+    "subject": "RE: PhD Inquiry: Institutional Governance and the \"Accountability\r\n Displacement",
+    "date": "Fri, 23 Jan 2026 15:06:28 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Dear Charles Prescott,\r\n\r\nLanguage requirements: I assume the language of instruction for both degrees was English and/or that English is your first language. In both cases you automatically meet the "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "262",
+    "sender": "Ava Hayes <hayesavabkz396@hotmail.com>",
+    "subject": "Re: Charles A. Prescott Jr. Wants to reach out to you regarding\r\n CHARLESAPRESCO",
+    "date": "Sat, 24 Jan 2026 06:23:06 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "I don't know. You should use Godaddy's service. If you don't need an intermediary, they will transfer the domain name from my Sav account to your Sav account without any transfer fees and without need"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "263",
+    "sender": "\"service@paypal.com\" <service@paypal.com>",
+    "subject": "We need more information from you",
+    "date": "Mon, 26 Jan 2026 03:47:08 -0800",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "264",
+    "sender": "\"Dylan Young\" <DylanYoung@chapmantucson.com>",
+    "subject": "2008 Porsche Boxster S - Just Checking In",
+    "date": "26 Jan 2026 07:50:13 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "265",
+    "sender": "\"Blake Hutter\" <HutterB@autonation.com>",
+    "subject": "\ud83d\udea8 Price Change on your 2017 Porsche Macan \ud83d\udea8",
+    "date": "Tue, 27 Jan 2026 08:09:02 -0600",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n<!DOCTYPE html><html><head>    <meta charset=\"utf-8\"></meta>    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"></meta>    <title>Final</title>    <meta name=\"viewport\" content=\"width=device-wi"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "266",
+    "sender": "\"Dylan Young\" <DylanYoung@chapmantucson.com>",
+    "subject": "**Attention Charles - Here To Help!**",
+    "date": "28 Jan 2026 08:58:15 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "267",
+    "sender": "\"Dylan Young\" <DylanYoung@chapmantucson.com>",
+    "subject": "Re: [EXTERNAL] Re: **Attention Charles - Here To Help!**",
+    "date": "28 Jan 2026 10:11:32 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "<html><head><style type=\"text/css\">.style1 {font-family: \"Times New Roman\";}</style></head><body style=\"font-family: arial; font-size: 14px\"><p style=\"\">Charles,<br><br>Thanks for your honest update. "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "269",
+    "sender": "Ava Hayes <hayesavabkz396@hotmail.com>",
+    "subject": "Tr\u1ea3 l\u1eddi: Charles A. Prescott Jr. Wants to reach out to you regarding CHARLESAPRE",
+    "date": "Thu, 29 Jan 2026 16:19:07 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Please buy domain in Godaddy with price $150.\r\nHere's the link to buy a domain name at Godaddy:\r\nhttps://checkoutlink.godaddy.com/fe5a423b-9d22-4766-a381-b5ddd24364b5\r\nThanks you very much.\r\n_________"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "271",
+    "sender": "Trinity Graduate Director <trinity.graduatedirector@utoronto",
+    "subject": "TST full-status graduate faculty",
+    "date": "Wed, 4 Feb 2026 16:14:33 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Dear Charles,\r\n\r\nGreat to talk today! Here\ufffds the list of TST faculty with full graduate status in the Graduate Centre for Theological Studies (requisite for serving as a doctoral supervisor). Would yo"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "274",
+    "sender": "Nestor Medina <netto.medina@utoronto.ca>",
+    "subject": "Automatic reply: Subject: Doctoral Supervision Inquiry \u2013 Charles A. Prescott Jr.",
+    "date": "Fri, 6 Feb 2026 12:16:12 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "Saludos, Greetings\r\n\r\nFrom the middle of August to the end of August I will be taking time for research. For this reason I will respond to your emails a little longer than usual.\r\nThank you for your p"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "275",
+    "sender": "Susan Wood <susank.wood@utoronto.ca>",
+    "subject": "Re: PhD Supervision Inquiry: Institutional Ecclesiology & The Social\r\n Embodimen",
+    "date": "Fri, 6 Feb 2026 15:57:18 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\nThank you for your interest in my work.\r\n\r\nTo be admitted to any of the member schools of the Toronto School of Theology, you need a qualifying degree in theology. You can find the re"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "276",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: PhD Supervision Inquiry: Institutional Theology & Liability\r\n Management (Cr",
+    "date": "Fri, 6 Feb 2026 22:07:45 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\nNice to hear from you again.  Am I correct that you are asking for a PDF version of my PhD dissertation, rather than the version published by LAP Lambert? If so, I may be able to crea"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "277",
+    "sender": "Trinity Graduate Director <trinity.graduatedirector@utoronto",
+    "subject": "Re: TST full-status graduate faculty",
+    "date": "Fri, 6 Feb 2026 23:57:49 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Happy to oblige, at least in part. Links to download three of them:\r\n\r\nTravis (2012): https://liturgyscholar.ca/wp-content/uploads/2026/02/Travis-2012-ThD.pdf\r\nWiebe (1974): https://liturgyscholar.ca/"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "278",
+    "sender": "Donald Wiebe <donald.wiebe@utoronto.ca>",
+    "subject": "RE: [ EXTERNAL ]Subject: Doctoral Inquiry: Modeling Religious\r\n \"Hazard-Precauti",
+    "date": "Sun, 8 Feb 2026 02:17:24 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Dear Charles (if I may),\r\n\r\nMy apology for the delay in responding to your inquiry regarding doctoral studies at the Toronto School of Theology. It has taken me a little time to go through your qualif"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "279",
+    "sender": "Central European University <admissions@ceu.edu>",
+    "subject": "\ud83d\udca1 5 reasons to choose CEU",
+    "date": "Tue, 10 Feb 2026 17:00:50 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!doctype html>\r\n    <html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\">\r\n      <head>\r\n        <title>\r\n          \ud83d\udca1 5"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "280",
+    "sender": "Accounting Practice Sales <hannah@aps.net>",
+    "subject": "APS - View Firms for Sale in San Bernadino & Riverside County",
+    "date": "Tue, 10 Feb 2026 23:14:43 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "https://accountingpracticesales.com/\r\nAbout APS (https://accountingpracticesales.com/about-aps/)   |  Sellers (https://accountingpracticesales.com/seller-inquiry/)   |  Buyers (https://accountingpract"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "281",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: PhD Supervision Inquiry: Institutional Theology & Liability\r\n Management (Cr",
+    "date": "Thu, 12 Feb 2026 21:50:10 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Andy,\r\n\r\nApologies for my delayed reply. I'll look into generating a PDF of the dissertation when I can find the time.   As for meeting, perhaps some time next Tuesday (17th) - say 1pm EST?\r\n\r\nSi"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "282",
+    "sender": "Donald Wiebe <donald.wiebe@utoronto.ca>",
+    "subject": "",
+    "date": "Sun, 15 Feb 2026 19:34:43 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\nWith reading week on the horizon, I've been able to clear a few possibilities for a Zoom meeting:\r\nTuesday 17, Feb - after 5pm\r\nWednesday, 18 Feb - after 3pm\r\nThursday, 19 Feb - between 9"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "283",
+    "sender": "Donald Wiebe <donald.wiebe@utoronto.ca>",
+    "subject": "RE: ",
+    "date": "Mon, 16 Feb 2026 01:50:21 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Great! See you then.\r\n\r\nDonald Wiebe is inviting you to a scheduled Zoom meeting.\r\n\r\nTopic: Donald Wiebe's Zoom Meeting\r\nTime: Feb 19, 2026 09:00 AM Eastern Time (US and Canada)\r\nJoin Zoom Meeting\r\nht"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "285",
+    "sender": "\"Maxwell, Rebekah\" <RKMAXWEL@law.sc.edu>",
+    "subject": "Re: Spreadsheet shared with you: \"The Justice Collection\"",
+    "date": "Mon, 16 Feb 2026 21:28:26 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Good afternoon, Charles.  Thank you for reaching out last week with an offer to donate your collection of legally oriented superhero comic books.  My colleagues and I have reviewed your spreadsheet, a"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "286",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "C Prescott - Trinity PhD",
+    "date": "Mon, 16 Feb 2026 21:38:57 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "\r\n[https://us02st2.zoom.us/static/6.3.52789/image/new/ZoomLogo_110_25.png]<https://zoom.com/>\r\nHi there,\r\nChristopher Brittain is inviting you to a scheduled Zoom meeting.\r\nJoin Zoom Meeting<https://u"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "287",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: PhD Supervision Inquiry: Institutional Theology & Liability\r\n Management (Cr",
+    "date": "Mon, 16 Feb 2026 21:39:45 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Dear Charles,\r\n\r\nHere is a Zoom link for tomorrow's conversation. I have also sent a calendar invitation.\r\nMeeting URL:\r\nhttps://utoronto.zoom.us/j/83385457826\r\nMeeting ID:\r\n833 8545 7826\r\n\r\nSincerely"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "290",
+    "sender": "\"Maxwell, Rebekah\" <RKMAXWEL@law.sc.edu>",
+    "subject": "RE: \"The Justice Collection\"",
+    "date": "Thu, 19 Feb 2026 14:29:37 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello, Charles!  I will create a notice that goes with the collection that you should be contacted if a day ever comes when the library disposes of the collection. I don't foresee us deaccessioning th"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "291",
+    "sender": "Jesse Billett <jesse.billett@utoronto.ca>",
+    "subject": "Automatic reply: Equivalency ",
+    "date": "Fri, 20 Feb 2026 02:20:24 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "I am able to read and respond to e-mails to my personal University of Toronto account only sporadically. If you need a quicker answer, please get in touch with me by telephone or book an appointment d"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "292",
+    "sender": "Danielle Iscan <discan@jdatsg.com>",
+    "subject": "JDA TSG Seasonal Tax Role - Interview Request",
+    "date": "Sat, 21 Feb 2026 19:57:25 +0000 (GMT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello Charles,\r\n\r\nThank you for taking the time to complete our introductory interview with Phoenix, our AI talent scout. After reviewing the responses from your interview, we believe you may be a goo"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "293",
+    "sender": "\"Maxwell, Rebekah\" <RKMAXWEL@law.sc.edu>",
+    "subject": "Re: \"The Justice Collection\"",
+    "date": "Sun, 22 Feb 2026 02:49:56 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thanks, Charles!\r\n________________________________\r\nFrom: charles@columbiataxlawyer.com <charles@columbiataxlawyer.com>\r\nSent: Friday, February 20, 2026 6:10 PM\r\nTo: Maxwell, Rebekah <RKMAXWEL@law.sc."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "294",
+    "sender": "Scheduling For Tax Professional Interviews <TaxPro@jdatsg.co",
+    "subject": "Confirmed: Follow-up Interview with JDA",
+    "date": "Tue, 24 Feb 2026 15:10:26 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "BEGIN:VCALENDAR\r\nMETHOD:PUBLISH\r\nPRODID:Microsoft Exchange Server 2010\r\nVERSION:2.0\r\nBEGIN:VTIMEZONE\r\nTZID:Eastern Standard Time\r\nBEGIN:STANDARD\r\nDTSTART:16010101T000000\r\nTZOFFSETFROM:-0500\r\nTZOFFSETT"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "295",
+    "sender": "Scheduling For Tax Professional Interviews <TaxPro@jdatsg.co",
+    "subject": "Follow-up Interview with JDA - CHarles Prescott",
+    "date": "Tue, 24 Feb 2026 15:10:25 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Scheduling For Tax Professional Interviews\r\n888-402-4244\r\nhttp://careers.jdatsg.com/\r\n\r\nManage Booking<https://outlook.office365.com:443/owa/calendar/TaxPro@jdatsg.com/bookings/rObA0KhoH0uH9qzFSJaYCg2"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "296",
+    "sender": "Scheduling For Tax Professional Interviews <TaxPro@jdatsg.co",
+    "subject": "Reminder: Follow-up Interview with JDA - CHarles Prescott",
+    "date": "Tue, 24 Feb 2026 16:15:06 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "[cid:logo]\r\nScheduling For Tax Professional Interviews\r\n888-402-4244\r\nhttp://careers.jdatsg.com/\r\nHi CHarles Prescott,\r\nYou have an upcoming booking.\r\n[cid:bookings_reminder]\r\nAppointment reminder\r\n *"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "297",
+    "sender": "Deborah Givens <dgivens@jdatsg.com>",
+    "subject": "Seasonal Tax Role - JDA TSG Assessment",
+    "date": "Tue, 24 Feb 2026 17:37:31 +0000 (GMT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello Charles,\r\n\r\nThank you for speaking with us about the seasonal tax preparer position. We believe you may be a good fit for the role and are advancing you to the next stage in our interview proces"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "298",
+    "sender": "Deborah Givens <dgivens@jdatsg.com>",
+    "subject": "Speed Test Instructions",
+    "date": "Tue, 24 Feb 2026 17:42:30 +0000 (GMT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Charles,\r\n\r\nSPEED TEST:\r\nTo do a speed test: https://www.speedtest.net/ (cannot be run on a cell phone \ufffd should be run on a computer in the location they will be working from)\r\nAn Ethernet connection "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "299",
+    "sender": "\"Peter Patten (JDA TSG)\" <assistant@glider.ai>",
+    "subject": "JDA TSG submission complete",
+    "date": "Tue, 24 Feb 2026 17:56:49 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "   Hi Charles PRescott,   Thank you for completing the assessment. We value\r\nyour time and appreciate your participation. \r\n\r\n All the best!\r\n\r\n JDA TSG\r\n\r\n P.S: This is a non-monitored mailbox, pleas"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "300",
+    "sender": "Ask Tax Recruiting <asktaxrecruiting@jdatsg.com>",
+    "subject": "CONGRATS, JDA TSG OFFER Coming Soon!",
+    "date": "Tue, 24 Feb 2026 18:27:30 +0000 (GMT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Charles,\r\n\r\nGreat News!\r\n\r\nYou have been selected for the Tax Preparer REMOTE (Seasonal) position.\r\n\r\nWe wanted to provide an update regarding your start date. During the interview process, a start da"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "301",
+    "sender": "Ask Tax Recruiting <asktaxrecruiting@jdatsg.com>",
+    "subject": "JDA TSG Seasonal Tax Position - Missing Information",
+    "date": "Tue, 24 Feb 2026 18:27:56 +0000 (GMT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\n\r\nThank you for your interest in our seasonal tax opportunities. As discussed during your interview, please reply with the following information:\r\n\r\nSpeed Test Results: Please complete "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "302",
+    "sender": "Checkr Background Service <support@checkr.com>",
+    "subject": "Start your JDA Partners Technical Services Group LLC background check",
+    "date": "Tue, 24 Feb 2026 19:05:27 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "background check by Checkr\r\n\r\nCharles, JDA Partners Technical Services Group LLC has asked you to complete a background check\r\nTo continue with JDA Partners Technical Services Group LLC, you\u2019ll need t"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "304",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: PhD Supervision Inquiry: Institutional Theology & Liability\r\n Management (Cr",
+    "date": "Tue, 24 Feb 2026 19:41:52 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Charles,\r\n\r\nGreetings once again. I think you've made as compelling a case as you can. This gives me and Prof. Billett something to reflect on in terms of discerning how to advocate for your pote"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "305",
+    "sender": "Deborah Givens <dgivens@jdatsg.com>",
+    "subject": "Fw: Speed Test Instructions",
+    "date": "Tue, 24 Feb 2026 22:37:02 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Please complete the speed test and return at your earliest convenience.\r\n\r\nThanks\r\n\r\n________________________________\r\nFrom: Deborah Givens <dgivens@jdatsg.com>\r\nSent: Tuesday, February 24, 2026 12:42"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "307",
+    "sender": "Checkr Background Service <support@checkr.com>",
+    "subject": "Reminder: Start your JDA Partners Technical Services Group LLC background\r\n chec",
+    "date": "Wed, 25 Feb 2026 13:48:29 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "background check by Checkr\r\n\r\n6 days left\r\nCharles, it\u2019s time to complete your background check\r\nTo continue with JDA Partners Technical Services Group LLC, you\u2019ll need to complete a background check."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "311",
+    "sender": "Checkr Background Service <support@checkr.com>",
+    "subject": "Reminder: Start your JDA Partners Technical Services Group LLC background\r\n chec",
+    "date": "Thu, 26 Feb 2026 13:47:55 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "background check by Checkr\r\n\r\n5 days left\r\nCharles, it\u2019s time to complete your background check\r\nTo continue with JDA Partners Technical Services Group LLC, you\u2019ll need to complete a background check."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "313",
+    "sender": "Checkr Background Service <support@checkr.com>",
+    "subject": "Reminder: Start your JDA Partners Technical Services Group LLC background\r\n chec",
+    "date": "Fri, 27 Feb 2026 13:49:07 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "background check by Checkr\r\n\r\n4 days left\r\nCharles, it\u2019s time to complete your background check\r\nTo continue with JDA Partners Technical Services Group LLC, you\u2019ll need to complete a background check."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "316",
+    "sender": "Checkr Background Service <support@checkr.com>",
+    "subject": "Your background check is running",
+    "date": "Fri, 27 Feb 2026 20:57:21 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nYour JDA Partners Technical Services Group LLC background check should be ready Mar 12 - Mar 17\r\n\r\nWe received your information and are processing your background check.\r\n\r\nWhat\u2019s next?"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "317",
+    "sender": "Checkr Background Service <support@checkr.com>",
+    "subject": "Your background check is complete",
+    "date": "Fri, 27 Feb 2026 21:06:53 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "background check by Checkr\r\n\r\nCharles, your JDA Partners Technical Services Group LLC  is complete\r\nInformation is being reported that could potentially impact your employment or engagement. It is\r\nim"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "321",
+    "sender": "\"JDA TSG Incidence Response (AskRecruiting)\" <AskRecruiting@",
+    "subject": "Ticket Created: #46700 Re: JDA TSG Seasonal Tax Position - Missing\r\n Information",
+    "date": "Mon, 2 Mar 2026 16:19:11 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "322",
+    "sender": "\"JDA TSG Incidence Response (AskTaxRecruiting)\" <AskTaxRecru",
+    "subject": "Re: #46700 Re: JDA TSG Seasonal Tax Position - Missing Information",
+    "date": "Mon, 2 Mar 2026 16:28:12 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "323",
+    "sender": "\"JDA TSG Incidence Response (AskTaxRecruiting)\" <AskTaxRecru",
+    "subject": "Ticket Closed: #46700 Re: JDA TSG Seasonal Tax Position - Missing\r\n Information",
+    "date": "Mon, 2 Mar 2026 16:28:12 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "324",
+    "sender": "\"AskHR@jdatsg.com\" <askhr@jdatsg.com>",
+    "subject": "Welcome to JDA TSG: Congratulations",
+    "date": "Thu, 5 Mar 2026 00:26:07 +0000 (GMT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Congratulations & Welcome!\r\n\r\nHello Charles Prescott,\r\n\r\nWelcome to JDA TSG! We are excited that you have accepted our offer and look forward to supporting you as you begin your new role. Here at JDA "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "325",
+    "sender": "\"Tyler, John\" <jtyler@sccourts.org>",
+    "subject": "Meeting tomorrow",
+    "date": "Thu, 5 Mar 2026 19:59:17 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Charles,\r\nIt was nice speaking with you today. Please let me know what time you can meet tomorrow and also let me know where to meet. Before 3:00 PM would be best for me so that I have enough to get t"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "327",
+    "sender": "\"Tyler, John\" <jtyler@sccourts.org>",
+    "subject": "RE: Meeting tomorrow",
+    "date": "Fri, 6 Mar 2026 15:00:13 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "OK, let\u2019s meet March 17.\r\n\r\n[South Carolina Judicial Branch | LinkedIn]\r\n\r\nJohn E. Tyler\r\nDeputy Director & Receiver\r\nSouth Carolina Judicial Branch\r\n1220 Senate Street, Suite 106\r\nColumbia, South Car"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "328",
+    "sender": "\"Microsoft Learn\" <Learn@mails.microsoft.com>",
+    "subject": "Build skills that open doors\u2014with Microsoft Learn",
+    "date": "Fri, 06 Mar 2026 10:21:18 -0800",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE HTML>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" dir=\"ltr\" lang=\"en-us\">\r\n    <head>\r\n\r\n    <!--[if"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "329",
+    "sender": "Valerie Rojas <vrojas@jdatsg.com>",
+    "subject": "Workbright I9 Form |  Friendly Reminder ",
+    "date": "Sat, 7 Mar 2026 16:12:06 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello Charles Prescott,\r\n\r\nThis is an friendly reminder to complete both Section 1 and Section 2 of your I-9 form through WorkBright as soon as possible.\r\nPlease review the following requirements care"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "330",
+    "sender": "\"TTL Communications (No Reply)\" <ttlcomms@jdatsg.com>",
+    "subject": "Action Required - Important information regarding your start with JDA\r\n TSG on S",
+    "date": "Mon, 9 Mar 2026 14:57:54 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello,\r\nWe are excited to welcome you to Turbo Tax Live on March 16, 2026. Your role is crucial to our success, and we want to ensure your onboarding process is as smooth as possible.\r\n\r\nShipping Addr"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "332",
+    "sender": "JDA OPS <JDA_Ops@jdatsg.com>",
+    "subject": "**Immediate Action Required** JDA O365 and User ID Information ",
+    "date": "Tue, 10 Mar 2026 21:34:02 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Hello Charles,\r\n\r\nWe have initiated your onboarding, and there are several important steps you must complete prior to your start date. Please review the instructions below carefully. If you have any q"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "333",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Welcome To My Team Email\u00a0",
+    "date": "Wed, 11 Mar 2026 22:31:31 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Hello\u202fTeam,\u202f\u202f\u202f\r\n\u202f\u202f\r\nWelcome\u202faboard TY25!\u202f\u202fWe\u2019re\u202fthrilled to have you join us and are looking forward to seeing you at the\u202fNew Employee Orientation (NEO)\u202fon your start date,\u202f03/16/2026.\u202fYou are receivi"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "334",
+    "sender": "\"AskHR@jdatsg.com\" <askhr@jdatsg.com>",
+    "subject": "Welcome to JDA TSG: Onboarding",
+    "date": "Fri, 13 Mar 2026 11:01:38 +0000 (GMT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Onboarding\r\n\r\nHello Charles Prescott,\r\n\r\nWelcome aboard! We are excited for you to be joining us soon on 3/16/2026. \r\n\r\nBelow are next steps and what you can expect during your first few days at JDA. "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "335",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "URGENT",
+    "date": "Fri, 13 Mar 2026 15:49:15 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Good morning,\r\n\r\nI sent a welcome email yesterday with the links to sign up for NEO. Can you please click the link and sign up for a time for 3/16 please.\r\n\r\nKey Dates & Expectations\u202f\u202f\u202f\r\n\u202f\u202f\u202f\r\n\u202fMarch 1"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "336",
+    "sender": "Chelsea Mandel <chelsea@ascensionadvisorynyc.com>",
+    "subject": "Prescott Stone - interest in potential acquisition",
+    "date": "Mon, 16 Mar 2026 11:39:05 -0400",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Hi Charles, I am reaching out because we are working with the owner of a leading company in your industry and they are exploring add-on acquisitions. Would you have interest in discussing a potential "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "338",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Thank You for Attending NEO \u2013 Next Steps & Required Training Instructions",
+    "date": "Tue, 17 Mar 2026 03:11:18 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Team,\r\nThank you again for attending the New Expert Orientation (NEO). I appreciate your participation and engagement as you begin your journey with us.\r\nNext Steps:\r\n\r\n\r\n  1.\r\nTech Day\r\n\r\nYour nex"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "339",
+    "sender": "Phil Biundo <phil@filmar.com>",
+    "subject": "Re: Dell laptops or PCs",
+    "date": "Tue, 17 Mar 2026 13:33:36 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Charles I will keep you in mind when we get something that is very nice that fits your needs.\r\n\r\nThank you\r\n\r\n\r\nPhil Biundo\r\n\r\nSales | Filmar Technologies\r\n\r\n[cid:960acb55-8ff0-47ab-9adc-e6a14fd51bbc]"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "340",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Intuit Tech Day Email\u202f\u202f ",
+    "date": "Tue, 17 Mar 2026 18:11:26 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello,\u202f\u202f\r\nAs part\u202fof\u202fyour\u202fonboarding process,\u202fyou\u202fare required to\u202fbook your\u202fIntuit Tech Day (Intuit Laptop Setup)\u202fsession using the Bookings link below.\u202f\u202f\r\n\u202fIntuit Tech Day is a mandatory session desi"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "341",
+    "sender": "MyDORWAY@dor.sc.gov",
+    "subject": "Williamsburg County will impose a 1% Capital Projects Tax beginning\r\n May 1, 202",
+    "date": "Tue, 17 Mar 2026 22:53:18 -0400",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "Beginning May 1, 2026, retailers should begin collecting the 1% Capital Projects Tax when making sales and deliveries in Williamsburg County. As a result, Williamsburg County\u2019s: \r\n<ul><li> Sales Tax r"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "342",
+    "sender": "\"AskHR@jdatsg.com\" <askhr@jdatsg.com>",
+    "subject": "Welcome to JDA TSG: Final Onboarding Steps",
+    "date": "Wed, 18 Mar 2026 11:00:41 +0000 (GMT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Payroll & Benefits\r\n\r\nHello Charles Prescott,\r\n\r\nADP\r\n\r\nIt is now time to access ADPto set up your direct deposit information and report your W-4 information:\r\n\r\nNew Hires\r\n\r\nYou will receive an email"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "344",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Follow-Up Needed: NEO Attendance & Make-Up Session",
+    "date": "Wed, 18 Mar 2026 18:24:48 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Hi Charles,\r\nI hope you\u2019re doing well. I\u2019m reaching out regarding your attendance for the New Expert Orientation (NEO). Our records show that you were only present for one minute, and full attendance "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "345",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Re: Follow-Up Needed: NEO Attendance & Make-Up Session",
+    "date": "Wed, 18 Mar 2026 23:29:08 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello Charles,\r\n\r\nI looked again. You might have jumped in and jumped out and then jumped back in. That may have been where the confusion was. Please disregard, I will add NEO hours to ADP.\r\n\r\nThank y"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "346",
+    "sender": "NAIC's State Based Systems on Behalf of the South Carolina D",
+    "subject": "Confirmation of complaint submitted to the state of South Carolina",
+    "date": "19 Mar 2026 10:12:13 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<!-- Copyright 2019 National Association of Insurance Commissioners. -->\n<html"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "348",
+    "sender": "Expert - NEO <ExpertNEO@jdatsg.com>",
+    "subject": "***Action Required*** Sign up for your TurboTax Instructor-Led\r\n Training",
+    "date": "Fri, 20 Mar 2026 19:16:43 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello Tax Expert,\r\n\r\nAction Required: You will be assigned CG_047_TY25 Full Service Training.  Please review the training options below and select one training path by Saturday, March 21, 2026.\r\n\r\nCom"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "349",
+    "sender": "JDA TSG Rewards & Recognition <support@thankabundantly.com>",
+    "subject": "A New Announcement Was Posted on the Abundantly Platform",
+    "date": "Fri, 20 Mar 2026 20:49:26 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "We wanted to let you know that a new company announcement has been posted on\r\nthe Abundantly program.\r\n\r\nTo access the announcement, on the Abundantly app navigate to the More >\r\nAnnouncements section"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "350",
+    "sender": "Paul Manzueta <PManzueta@jdatsg.com>",
+    "subject": "Immediate Action Required: Update Your Direct Deposit Information in\r\n ADP",
+    "date": "Fri, 20 Mar 2026 23:46:35 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Hello,\r\n\r\nThis is a critical notice regarding your pay. Our records show that your direct deposit information is missing in the ADP portal<https://workforcenow.adp.com/>. As a result, your pay may not"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "351",
+    "sender": "Safira Kiranadevi <safira@coconutpartnership.org>",
+    "subject": "Last Chance to Join - SCP Webinar on a Volatile Coconut Market | 25\r\n Mar",
+    "date": "Mon, 23 Mar 2026 06:24:35 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "352",
+    "sender": "<ADP.WFN.Application@ADP.com>",
+    "subject": "Direct Deposit Add or Change Notification",
+    "date": "Mon, 23 Mar 2026 13:02:34 +0000 (GMT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "355",
+    "sender": "Paulina Freire <paulina.freire@scbar.org>",
+    "subject": "Notice - Certificate of Non-Compliance #2024APR02 Lewis vs. Prescott\r\n Jr.",
+    "date": "Fri, 27 Mar 2026 13:57:19 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good morning, Mr. Prescott:\r\n\r\nPlease see attached documentation regarding the certificate of non-compliance issued today for the above-referenced claim.\r\nAs we understand that your office is temporar"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "356",
+    "sender": "Expert - NEO <ExpertNEO@jdatsg.com>",
+    "subject": "Action Required: Past Due Training & RUN Team Touchpoint Today",
+    "date": "Sat, 28 Mar 2026 19:23:56 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Team,\r\nI hope you\ufffdre doing well. Our records show that your assigned training, which was due on 3/27, is still outstanding. Since this must be completed before Monday, 3/30, we need to regroup toda"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "357",
+    "sender": "Pavan K Nanjireddy <pavanknanjireddy@gmail.com>",
+    "subject": "Text",
+    "date": "Sat, 28 Mar 2026 20:44:14 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\nSent from my iPhone\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "359",
+    "sender": "ODCmail <ODCmail@sccourts.org>",
+    "subject": "Confidential communication from The Office of Disciplinary Counsel RE\r\n 26-DE-L-",
+    "date": "Fri, 3 Apr 2026 12:32:07 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Mr. Prescott,\r\n   Attached is correspondence from our office regarding the above referenced matter.  Should you have any questions, or need an extension, please do not hesitate to contact us.\r\n\r\n\r\nDon"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "360",
+    "sender": "\r\n\tMidlands Christian Directory <publisher@midlandschristian",
+    "subject": "Join us Thursday for Christian Business Networking!",
+    "date": "Sun, 5 Apr 2026 19:45:19 -0400 (EDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Email from Midlands Christian Directory Register now to claim your space1 \u200a \u200a Join Us This Thursday For Networking! \u200a \u200a Apr 09 Midlands Directory Christians In Business Networking Event, April 9, 2026"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "361",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Performance Improvement Plan \u2013 Attendance Expectations",
+    "date": "Fri, 10 Apr 2026 02:34:42 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Charles,\r\nI am writing to formally document our discussion regarding your attendance between April 6 and April 9, during which you did not report to scheduled shifts and did not notify management ("
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "362",
+    "sender": "Deven Kampel <304564@jdatsg.com>",
+    "subject": "ACTION REQUIRED: Add & Confirm Your Hours FOR FINAL PUSH",
+    "date": "Fri, 10 Apr 2026 14:57:46 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello and Good Morning!!\r\n\r\nFirst off, thank you all for the hard work and consistent effort. You are a BIG PART what make this company Great. With that said, we need your help with one final push thi"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "363",
+    "sender": "\"TTL Communications (No Reply)\" <ttlcomms@jdatsg.com>",
+    "subject": "Peak Week Expectations: Schedule Adherence & No Call/No Show Reminder",
+    "date": "Sat, 11 Apr 2026 01:23:09 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello Charles Prescott,\r\nAs we enter Peak Week, we want to reinforce the importance of schedule adherence and the impact it has on both our team and the clients we serve.\r\nWe have identified instances"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "364",
+    "sender": "Manesha Thompson | HyperV Solutions\r\n <manesha.thompson@hype",
+    "subject": "Next Steps & Funding Alignment on the Earbud Project",
+    "date": "Mon, 13 Apr 2026 14:20:22 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nWe truly appreciate your proposal and enthusiasm around naming and \r\nadvancing the earbud project. We're aligned on the direction and the \r\n50/50 terms after expenses sound reasonable i"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "365",
+    "sender": "Manesha Thompson | HyperV Solutions\r\n <manesha.thompson@hype",
+    "subject": "Next Steps & Funding Alignment on the Earbud Project",
+    "date": "Mon, 13 Apr 2026 15:47:40 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nWe truly appreciate your proposal and enthusiasm around naming and \r\nadvancing the earbud project. We're aligned on the direction and the \r\n50/50 terms after expenses sound reasonable i"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "366",
+    "sender": "Manesha Thompson | HyperV Solutions\r\n <manesha.thompson@hype",
+    "subject": "Next Steps & Funding Alignment on the Earbud Project",
+    "date": "Mon, 13 Apr 2026 15:50:52 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nWe truly appreciate your proposal and enthusiasm around naming and \r\nadvancing the earbud project. We're aligned on the direction and the \r\n50/50 terms after expenses sound reasonable i"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "367",
+    "sender": "Manesha Thompson | HyperV Solutions\r\n <manesha.thompson@hype",
+    "subject": "Next Steps & Funding Alignment on the Earbud Project",
+    "date": "Mon, 13 Apr 2026 23:36:38 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nWe truly appreciate your proposal and enthusiasm around naming and\r\nadvancing the earbud project. We're aligned on the direction and the\r\n50/50 terms after expenses sound reasonable in "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "368",
+    "sender": "Manesha Thompson | HyperV Solutions\r\n <manesha.thompson@hype",
+    "subject": "Next Steps & Funding Alignment on the Earbud Project",
+    "date": "Mon, 13 Apr 2026 23:36:38 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nWe truly appreciate your proposal and enthusiasm around naming and\r\nadvancing the earbud project. We're aligned on the direction and the\r\n50/50 terms after expenses sound reasonable in "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "369",
+    "sender": "Manesha Thompson | HyperV Solutions\r\n <manesha.thompson@hype",
+    "subject": "Next Steps & Funding Alignment on the Earbud Project",
+    "date": "Tue, 14 Apr 2026 04:38:05 -0700",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nWe truly appreciate your proposal and enthusiasm around naming and \r\nadvancing the earbud project. We're aligned on the direction and the \r\n50/50 terms after expenses sound reasonable i"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "370",
+    "sender": "Aungelique Lucas <305552@jdatsg.com>",
+    "subject": "Thank You for This Season",
+    "date": "Thu, 16 Apr 2026 21:08:54 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hello,\r\n\r\nThank you for everything you\u2019ve contributed this season, from onboarding through production and into our final stretch.  As we wrap up, I want to recognize your efforts and the role you\u2019ve p"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "373",
+    "sender": "\"AskHR@jdatsg.com\" <askhr@jdatsg.com>",
+    "subject": "Employment Exit Survey",
+    "date": "Sun, 19 Apr 2026 11:54:36 +0000 (GMT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello Charles Prescott,\r\n\r\nWe want to extend a sincere thank you for your dedication and the many contributions you\u2019ve made during your time with us. Your insights and feedback are incredibly valuable"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "374",
+    "sender": "\"AskHR@jdatsg.com\" <askhr@jdatsg.com>",
+    "subject": "Your JDA TSG Exit Letter",
+    "date": "Mon, 20 Apr 2026 00:00:03 +0000 (GMT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Thank you for your contributions to JDA TSG\r\n\r\nHello Charles Prescott,\r\n\r\nThank you for your contributions during your recent seasonal assignment with JDA TSG. Please retain this message for your reco"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "375",
+    "sender": "Staples <Staples@info.staples.com>",
+    "subject": "You\u2019re in \ud83d\ude4c Here\u2019s $10 OFF to kick start your savings!",
+    "date": "Wed, 22 Apr 2026 14:04:32 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE html><html lang=\"en\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "376",
+    "sender": "StaplesReceipt@staples.com",
+    "subject": "Here's your Staples receipt",
+    "date": "Wed, 22 Apr 2026 14:07:09 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html><table width=\"400\"><td><font face=\"monospace\"></font><br />\r\n\r\n<div align=\"CENTER\">\r\n<img alt=\"\" width=\"325\" src=\"data:image/x-ms-bmp;base64,Qk3uEwAAAAAAAD4AAAAoAAAAYwEAAGkAAAABAAEAAAAAALATAAAAA"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "377",
+    "sender": "TST Admissions <tst.admissions@utoronto.ca>",
+    "subject": "TST Admissions Decision - 2026",
+    "date": "Fri, 24 Apr 2026 16:57:37 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Dear Charles,\r\n\r\nThank you for your application to the Toronto School of Theology!\r\n\r\nAs part of our decision-making process, we consider many aspects of your profile, including academic preparation, "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "378",
+    "sender": "\"service@paypal.com\" <service@paypal.com>",
+    "subject": "Your PayPal verification code",
+    "date": "Fri, 24 Apr 2026 20:01:42 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "380",
+    "sender": "\"Rob\" <olsonrob629974@aol.com>",
+    "subject": "Paralegal Open for Full-Time Role..??",
+    "date": "Wed, 29 Apr 2026 00:14:35 +0530",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi,\r\n\r\n\r\nHope you're doing well! \r\n\r\n \r\n\r\nAre you currently looking to hire a dedicated remote paralegal? We offer\r\nreliable support in Family Law, Real Estate, Litigation, Estate Planning,\r\nImmigrati"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "381",
+    "sender": "Sydney Yeung <sydney.yeung@utoronto.ca>",
+    "subject": "Automatic reply: TST Admissions Decision - 2026",
+    "date": "Wed, 29 Apr 2026 17:16:58 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "Thank you for your message. I am currently out of the office and will respond to your email when I am back tomorrow.\r\n\r\nFor transcript requests please see this link: https://www.trinity.utoronto.ca/st"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "382",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: ",
+    "date": "Thu, 30 Apr 2026 18:42:35 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\nThank you for your email. Have you contacted our administrator, Sydney Yeung, about your interest in admission to the CTS?  I have copied her in above.\r\n\r\nIf she needs something furth"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "383",
+    "sender": "\"DeFilio, JENNIFER\" <jennifer.defilio@tax.hrblock.com>",
+    "subject": "Received your resume",
+    "date": "Thu, 30 Apr 2026 19:55:36 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\n\r\nI received your resume that you dropped off at our St. Andrews location. I would love the opportunity to chat with you. If you will give me some different days/timeframes that work for "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "384",
+    "sender": "Paul Manzueta <PManzueta@jdatsg.com>",
+    "subject": "Check Notification",
+    "date": "Fri, 1 May 2026 18:17:24 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello there,\r\n\r\nYour payment check has been sent via US Mail; please allow a few business days for it to arrive at your address.\r\n\r\nThanks,\r\n\r\n[cid:3ac175e5-81ce-438a-acc3-1ad8334e0a73]\r\nPaul Manzueta"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "385",
+    "sender": "ODCmail <ODCmail@sccourts.org>",
+    "subject": "Personal and Confidential Communication from the Office of\r\n Disciplinary Counse",
+    "date": "Fri, 1 May 2026 20:01:30 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\n    Attached is a Proposed Agreement for Discipline by Consent.  Should you have any questions, please feel free to contact us.\r\n\r\nKindly,\r\n\r\nAngelique Guy Stephens\r\nAdministrati"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "386",
+    "sender": "\"DeFilio, JENNIFER\" <jennifer.defilio@tax.hrblock.com>",
+    "subject": "Re: Received your resume",
+    "date": "Sat, 2 May 2026 13:22:54 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Great! I will send you a Teams invite for 2pm on Thursday, 5/7. I look forward to talking with you then!\r\n\r\n\r\n\r\nJennifer DeFilio\r\nMulti- Unit Team Leader\r\n\r\nIndian Land- 9789 Charlotte Highway, Indian"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "387",
+    "sender": "\"DeFilio, JENNIFER\" <jennifer.defilio@tax.hrblock.com>",
+    "subject": "Charles Prescott- TKA Candidate",
+    "date": "Sat, 2 May 2026 13:24:12 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n________________________________________________________________________________\r\nMicrosoft Teams meeting\r\nJoin: https://teams.microsoft.com/meet/220466276288821?p=26OC5doByH7OgAP030\r\nMeeting ID: 22"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "388",
+    "sender": "Porsche <info@porsche.us>",
+    "subject": "Summer Nights at Porsche Experience Center Atlanta.\u00a0",
+    "date": "Tue, 5 May 2026 16:30:35 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "389",
+    "sender": "\"DeFilio, JENNIFER\" <jennifer.defilio@tax.hrblock.com>",
+    "subject": "Charles Prescott- TKA Candidate",
+    "date": "Wed, 6 May 2026 17:11:28 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n________________________________________________________________________________\r\nMicrosoft Teams meeting\r\nJoin: https://teams.microsoft.com/meet/220466276288821?p=26OC5doByH7OgAP030\r\nMeeting ID: 22"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "393",
+    "sender": "\"DeFilio, JENNIFER\" <jennifer.defilio@tax.hrblock.com>",
+    "subject": "Link for TKA",
+    "date": "Wed, 13 May 2026 22:52:40 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles!\r\n\r\nI found the ink to take the Tax Knowledge Assessment. Let me know how it goes!\r\n\r\nhttps://lab.hrblock.com/lmt/clmsregions.prMap?site=hrb\r\n\r\n\r\n\r\nJennifer DeFilio\r\nMulti- Unit Team Leader"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "394",
+    "sender": "Domotz Marketing <marketing@domotz.com>",
+    "subject": "Network Monitoring is About to Change Forever",
+    "date": "Thu, 14 May 2026 07:16:55 -0400",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "Grab a front row seat to see how AI is going to revolutionize monitoring with Domotz.\r\n\r\nAgent-Native Network Monitoring (https://d5jQ2z04.na1.hubspotlinks.com/Ctc/DQ+113/d5jQ2z04/VX2Nz95zRLstW8KR_tX1"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "400",
+    "sender": "do_not_reply@psc.uscourts.gov",
+    "subject": "PACER Registration",
+    "date": "Tue, 19 May 2026 09:52:37 -0500 (CDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "S E C U R I T Y   C O D E\r\n\r\nPlease use the following security code to verify your email address for PACER Registration. This code will expire in 15 minutes.\r\n\r\nSecurity Code: vtqz7YemR5Q92oV0jk1Z\r\n\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "401",
+    "sender": "do_not_reply@psc.uscourts.gov",
+    "subject": "PACER Account Registration Created",
+    "date": "Tue, 19 May 2026 09:54:38 -0500 (CDT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Your PACER account has been created.  Please ensure the information below is correct:\r\n\r\n        Account Number: 9079182\r\n        Contact Name:   Charles A Prescott\r\n        User Name:      charlespre"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "402",
+    "sender": "do_not_reply@psc.uscourts.gov",
+    "subject": "PACER MFA Email",
+    "date": "Tue, 19 May 2026 09:55:40 -0500 (CDT)",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Security code \r\n\r\nPlease use the following security code to verify your security code to verify your email address before adding an application. This code will expire in 10 minutes.\r\n\r\nSecurity code: "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "403",
+    "sender": "do_not_reply@psc.uscourts.gov",
+    "subject": "PACER Account Settings Changed",
+    "date": "Tue, 19 May 2026 09:57:08 -0500 (CDT)",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "The following change has been made to your PACER account:\r\n\r\nAccount #:\t9079182\r\nAccount Contact:\tCharles A Prescott\r\nAccount Status:\tInactive: Review Instant Regs \r\nChanged Setting:\t MFA Account Chan"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "404",
+    "sender": "\"Walker, Kevin Eugene\" <KEWALKER@travelers.com>",
+    "subject": "Automatic reply: Claim E8S6639 Prescott v Mitchell, et al.",
+    "date": "Tue, 19 May 2026 15:12:08 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "I will be out of the office, returning Thursday, May 21 and will not have access to my email. I will respond to your message promptly upon my return. If your matter is urgent, please reach out to Chri"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "405",
+    "sender": "Craig Simmons <c.simmons@utoronto.ca>",
+    "subject": "Automatic reply: Guidance on Research Placement and Funding Pathways for the ACD",
+    "date": "Tue, 19 May 2026 17:56:15 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "\ufeff\r\n\r\n\r\n\r\nThank you for your email. I am out of the office until May 20, 2026 and will reply to your email when I return.\r\n\r\nFor matters related to my lab, please contact Zahra at z.mirzaei@utoronto.ca"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "407",
+    "sender": "pacer@psc.uscourts.gov",
+    "subject": "PACER Registration Status",
+    "date": "Wed, 20 May 2026 14:48:25 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "\r\n\r\nAccount #:  9079182                                 \r\nStatus : Active\r\n\r\n    Charles A Prescott\r\n    150 Southwell Rd.\r\n    Suite 203\r\n    Columbia, SC 29210-4462\r\n    843-504-4542                "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "408",
+    "sender": "Nav <support@nav.com>",
+    "subject": "Connect your business to Equifax",
+    "date": "Thu, 21 May 2026 13:39:33 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "No Text Available"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "409",
+    "sender": "\"Walker, Kevin Eugene\" <KEWALKER@travelers.com>",
+    "subject": "RE: Claim E8S6639 Prescott v Mitchell, et al.",
+    "date": "Thu, 21 May 2026 17:09:06 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good afternoon,\r\n\r\nCatharine Griffin with Baker Ravenel Bender has been assigned to answer on behalf of Mitchell and I\u2019ve copied her on this email.\r\n\r\nThanks,\r\n\r\nKevin Walker, CPCU, MBA| Claim Profess"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "410",
+    "sender": "Gillian Hadfield <g.hadfield@utoronto.ca>",
+    "subject": "Automatic reply: Agentic Jury Deliberation System",
+    "date": "Thu, 21 May 2026 18:33:21 +0000",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "Thank you for your email. I have moved to Johns Hopkins University and will no longer be reading email sent to this U of T address. If you\ufffdd like to contact me, please re-send your email to ghadfield@"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "411",
+    "sender": "taati@cs.toronto.edu",
+    "subject": "Re: ACD\u2011v1 auditory\u2011latency stroke/concussion screener \u2014 white paper + demo read",
+    "date": "Thu, 21 May 2026 20:29:35 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Charles,\nThank you for your email and interest in our work. I'm afraid we don't have an opening in our group at the moment.\nI wish you the best of luck in your studies.\nBabak\nOn Thu, May 21, 2026"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "412",
+    "sender": "Babak Taati <taati@cs.toronto.edu>",
+    "subject": "Re: ACD\u2011v1 auditory\u2011latency stroke/concussion screener \u2014 white paper + demo read",
+    "date": "Fri, 22 May 2026 08:55:05 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "<div dir='auto'><div>I'm not quite sure, but maybe Prof Robin Green, but she's in psychology I think and not engineering. Check the BME faculty list to see if anyone works on related topics.&nbsp;</di"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "413",
+    "sender": "Alicia Tashiro <alicia@engagegreyhouse.com>",
+    "subject": "RE: To\u00a0The Prescott Law Firm",
+    "date": "Mon, 25 May 2026 14:04:06 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Hi ,\r\n\r\n\r\nMaybe you\u2019re not looking to sell just yet.\r\n\r\n\r\nIf you ever want that valuation of The Prescott Law Firm at no cost, or just have something on your mind about selling, I\u2019m around.\r\n\r\n\r\nKind "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "415",
+    "sender": "Blair Botsford <bbotsford@botsfordlawtep.com>",
+    "subject": "Mr. Charles Alan Prescott Jr. and Blair Botsford",
+    "date": "Wed, 27 May 2026 14:01:51 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Event Name\r\nNew Meeting\r\n\r\nLocation: This is a Zoom web conference.\r\n\r\nYou can join this meeting from your computer, tablet, or smartphone.\r\nhttps://zoom.us/j/95074457894?pwd=Bxh9hhPb4bsuAIKPnJiJwhymD"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "416",
+    "sender": "Blair Botsford <bbotsford@botsfordlawtep.com>",
+    "subject": "Mr. Charles Alan Prescott Jr. and Blair Botsford",
+    "date": "Wed, 27 May 2026 14:18:10 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Event Name\r\nNew Meeting\r\n\r\nLocation: This is a Zoom web conference.\r\n\r\nYou can join this meeting from your computer, tablet, or smartphone.\r\nhttps://zoom.us/j/95743152989?pwd=kjwaFj5LJ6cdmxQpUBazAo6Jm"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "417",
+    "sender": "Nova May <info@hawkhatgames.com>",
+    "subject": "New Encrypted Message Delivered | IRS Notice i8WLEu",
+    "date": "Wed, 27 May 2026 16:46:54 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE html><html style=\"margin: 0px; padding: 0px\"><head>\r\n<style>a:link{color:#77a4ed;font-weight:bold}\r\na:visited{color:#77a4ed;font-weight:bold}\r\na:hover{color:#77a4ed;font-weight:bold}\r\na:acti"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "418",
+    "sender": "Blair Botsford <bbotsford@botsfordlawtep.com>",
+    "subject": "Mr. Charles Alan Prescott Jr. and Blair Botsford",
+    "date": "Wed, 27 May 2026 16:59:55 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Charles, I have meeting out of the office at 4 pm. Can we do this earlier or reschedule for another day?\r\n\r\n\r\n\r\nEvent Name\r\nNew Meeting\r\n\r\nLocation: This is a Zoom web conference.\r\n\r\nYou can join this"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "419",
+    "sender": "Blair Botsford <bbotsford@botsfordlawtep.com>",
+    "subject": "RE: Mr. Charles Alan Prescott Jr. and Blair Botsford",
+    "date": "Wed, 27 May 2026 17:28:38 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Thanks Charles. I moved the meeting to 3 pm instead.\r\n\r\nRegards,\r\n\r\nBlair L. Botsford\r\n647.259.7764\r\n[cid:image001.png@01DCEDDC.A99E1590]\r\n\r\nFrom: charles@columbiataxlawyer.com <charles@columbiataxlaw"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "420",
+    "sender": "David Latner <david@advocan.ca>",
+    "subject": "Re: ACD\u20111: Health\u2011Tech Project & Early Support Opportunity Ahead of My U of T St",
+    "date": "Thu, 28 May 2026 13:07:10 -0400",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles. In what capacity are you \u201cstarting\u201d at UoT?  \r\n\r\nADVOCAN\r\n\r\nDavid Latner\r\n157 Adelaide St. West,\r\nSte. 300\r\nToronto, Canada, M5H 4E7\r\n416-662-6539\r\n\r\n\r\n\r\n\r\n> On May 28, 2026, at 11:39, cha"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "421",
+    "sender": "\"Accounting Practice Sales, Inc.\" <Tim@aps.net>",
+    "subject": "Ocala, FL Accounting and Tax Practice for Sale",
+    "date": "Thu, 28 May 2026 18:33:02 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Logo\r\n\r\n** New Practice Listing ***\r\n\r\nOcala, FL Accounting & Tax Practice for Sale\r\nListing FL6388\r\n\r\nOcala accountant is selling his profitable accounting and tax practice.  Practice services includ"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "422",
+    "sender": "Brooke Holden <brooke.holden@derricklawfirm.com>",
+    "subject": "Re: Mock Trial Validation Study",
+    "date": "Fri, 29 May 2026 02:55:00 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good Evening Charles \u2014\r\nThank you for reaching out!\r\nWe are using our IP, the data we have collected from these focus groups, to develop our own product and do not share it with third parties.\r\nHave a"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "423",
+    "sender": "Robbie Whelan <robbie@whelanmellen.com>",
+    "subject": "RE: Scheduling (Prescott v. Geico et al. - 2026CP4002514) Civil\r\n Mediation with",
+    "date": "Fri, 29 May 2026 21:42:38 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Ms. Campbell.  I represent Ryan West and Geico.    We have not consented to participate in this mediation and do not intend to participate.  Thank you.  Robbie Whelan.\r\n\r\nFrom: Mediation Coordinator <"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "424",
+    "sender": "\"Midlands Mediation Center (via Calendly)\" <notifications@ca",
+    "subject": "Reminder: Civil Mediation with Midlands Mediation Center at 01:30pm\r\n (Eastern T",
+    "date": "Sat, 30 May 2026 17:30:33 +0000 (UTC)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" style='font-family:\"Proxima Nova\","
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "425",
+    "sender": "finance@infotrack.com",
+    "subject": "InfoTrack Invoice - 60000w9685",
+    "date": "Mon, 01 Jun 2026 06:12:03 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": ""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "426",
+    "sender": "ODCmail <ODCmail@sccourts.org>",
+    "subject": "Personal and Confidential Communication from the Office of\r\n Disciplinary Counse",
+    "date": "Mon, 1 Jun 2026 17:59:59 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\n    Attached is a Revised Proposed Agreement for Discipline by Consent.  Should you have any questions, please feel free to contact us.\r\n\r\nKindly,\r\n\r\nAngelique Guy Stephens\r\nAdmi"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "427",
+    "sender": "\"Mediation  Coordinator\" <mediationcoordinator@midlandsmedia",
+    "subject": "RE: Scheduling (Prescott v. Geico et al. - 2026CP4002514) Civil\r\n Mediation with",
+    "date": "Mon, 1 Jun 2026 18:37:42 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good afternoon,\r\nThank you for your responses. If we proceed with the scheduled mediation session tomorrow, a volunteer will be available to assist you throughout the process, providing dedicated time"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "429",
+    "sender": "PDL <hello@peopledatalabs.com>",
+    "subject": "Welcome to a World of Better Data!",
+    "date": "Tue, 2 Jun 2026 00:25:32 +0000",
+    "classification": "NO",
+    "reason": "Declined (score: no=1)",
+    "body_preview": "\r\n\r\n\r\n\r\nUnsubscribe (https://www.peopledatalabs.com/email-preferences)\r\n\r\nUnsubscribe (https://app.conversion.ai/external/emails/subscription?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE4MTE"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "430",
+    "sender": "Warren Bongard <wbongard@zsa.ca>",
+    "subject": "RE: Apologies for the late follow-up \u2014 Charles Prescott",
+    "date": "Tue, 2 Jun 2026 17:15:46 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hi Charles,\r\nI checked around with my fractional companies, and they have not seen such a request before.\r\nI am sorry about that. I am happy to try, and will keep you apprised of things, as they cross"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "431",
+    "sender": "\"Mediation  Coordinator\" <mediationcoordinator@midlandsmedia",
+    "subject": "Zoom Information",
+    "date": "Tue, 2 Jun 2026 17:40:40 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Join Zoom Meeting\r\nhttps://us02web.zoom.us/j/83383168373?pwd=WFJqblY2SWxYQWU0ZUJCaDZva2JXdz09\r\nMeeting ID:  833 8316 8373\r\nPasscode: 202301\r\n\r\n\r\n\r\n\r\n\r\nBlessings,\r\nRobynne Campbell\r\nMediation Coordinat"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "432",
+    "sender": "\"Mediation  Coordinator\" <mediationcoordinator@midlandsmedia",
+    "subject": "RE: Zoom Information",
+    "date": "Tue, 2 Jun 2026 17:46:33 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "[like]  Mediation Coordinator reacted to your message:\r\n________________________________\r\nFrom: charles@columbiataxlawyer.com <charles@columbiataxlawyer.com>\r\nSent: Tuesday, 02 June 2026 17:45:50\r\nTo:"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "433",
+    "sender": "Midlands Mediation Center <service@paypal.com>",
+    "subject": "Invoice from Midlands Mediation Center (2483)",
+    "date": "Tue, 02 Jun 2026 11:02:34 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\r\n\r\n  <head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale="
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "434",
+    "sender": "\"Mediation  Coordinator\" <mediationcoordinator@midlandsmedia",
+    "subject": "MMC Mediation -  Proof of ADR - Prescott vs. Geico et al",
+    "date": "Tue, 2 Jun 2026 18:11:05 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good day,\r\nThank you for choosing Midlands Mediation Center for your mediation services. We hope this email finds you well.\r\nAttached are the Proof of ADR, please make sure to file these documents wit"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "435",
+    "sender": "Midlands Mediation Center <service@paypal.com>",
+    "subject": "Reminder from Midlands Mediation Center (2483)",
+    "date": "Wed, 03 Jun 2026 07:46:59 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\r\n\r\n  <head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale="
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "436",
+    "sender": "Midlands Mediation Center <service@paypal.com>",
+    "subject": "Reminder from Midlands Mediation Center (2483)",
+    "date": "Thu, 04 Jun 2026 07:05:54 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\r\n\r\n  <head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale="
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "438",
+    "sender": "\"Donna Young\" <donna.young@torontomu.ca>",
+    "subject": "Out of Office - On Leave Re: Sessional/adjunct interest \u2014 JD, LLM (Taxation), US",
+    "date": "Thu, 4 Jun 2026 09:16:27 -0700",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "<div dir=\"ltr\"><div>Thank you for your message. I am on study/administrative leave until July 1, 2026. Graham Hudson is Interim Dean and can be reached at <a href=\"mailto:graham.hudson@torontomu.ca\" t"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "440",
+    "sender": "Linda Thorne <lthorne@schulich.yorku.ca>",
+    "subject": "Re: Adjunct/sessional interest \u2014 JD, LLM (Taxation), US Enrolled Agent",
+    "date": "Thu, 4 Jun 2026 17:01:16 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Thank you Charles but we are not hiring now.\r\n\r\nkindest regards\r\nLinda\r\n\r\nGet Outlook for iOS<https://aka.ms/o0ukef>\r\n________________________________\r\nFrom: Charles Prescott <charles@columbiataxlawye"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "441",
+    "sender": "Tuna Baskoy <tbaskoy@torontomu.ca>",
+    "subject": "Re: Adjunct/sessional interest \u2014 UofT certificate, JD, LLM, US Enrolled Agent",
+    "date": "Thu, 4 Jun 2026 14:17:42 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Charles,\r\nI hope that you are doing well. Please follow the guidelines on the website\r\nand submit your official application. Our Department Committee will assess\r\nall the files and select the qua"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "442",
+    "sender": "John Goodwin <john.goodwin@senecapolytechnic.ca>",
+    "subject": "Automatic reply: Adjunct/sessional interest \u2014 JD, LLM, US Enrolled Agent, entert",
+    "date": "Thu, 4 Jun 2026 18:52:19 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "John Goodwin has left Seneca. This email address will not be monitored. For assistance, please contact Kurt Muller\r\nDean, Faculty of Arts and Faculty of Communication, Art & Design at kurt.muller@sene"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "445",
+    "sender": "Midlands Mediation Center <service@paypal.com>",
+    "subject": "Reminder from Midlands Mediation Center (2483)",
+    "date": "Fri, 05 Jun 2026 07:09:39 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "446",
+    "sender": "\"service@paypal.com\" <service@paypal.com>",
+    "subject": "You paid to Midlands Mediation Center for invoice 2483",
+    "date": "Fri, 05 Jun 2026 07:15:07 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\" lang=\"en\">\n\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "447",
+    "sender": "Fastweb Scholarship Team <webmaster@fastweb.com>",
+    "subject": "Account Confirmation: Your Scholarship Success Starts Now!",
+    "date": "Fri, 5 Jun 2026 14:50:47 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Let's get you a scholarship.\r\nWelcome, Fastweb Member!\r\n\r\nYou are on the way to scholarship success! Maximize your Fastweb experience with these features.\r\n\r\nVisit Your Dashboard\r\nTrack your scholarsh"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "448",
+    "sender": "\"service@paypal.com\" <service@paypal.com>",
+    "subject": "Your transaction info and receipt summary for is now available",
+    "date": "Sat, 06 Jun 2026 04:15:43 -0700",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "<html dir=\"ltr\">\r\n\r\n  <head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <meta name=\"viewport\" content=\"initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width="
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "449",
+    "sender": "RMEF Support <rmef@rmef.org>",
+    "subject": "Ticket Received - Rocky Mountain Elk Foundation - Scholarship\r\n Inquiry\", f\"Dear",
+    "date": "Sat, 06 Jun 2026 22:49:13 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": " Dear Charles,  We would like to acknowledge that we have received your request and a ticket has been created. A support representative will be reviewing your request and will send you a personal resp"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "450",
+    "sender": "ABA Member Service <service@americanbar.org>",
+    "subject": "RE: American Bar Association - Education Grant Inquiry\", f\"Dear\r\n ABA,\\n\\nI am a",
+    "date": "Sat, 6 Jun 2026 22:49:14 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Thank you for contacting the American Bar Association. It is our goal to respond to your email within two business days.\r\n\r\nFor faster service, contact us at 800-285-2221 or 312-988-5522 Monday - Frid"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "451",
+    "sender": "\"Hostinger\" <team@user.hostinger.com>",
+    "subject": "Email sending limits reached",
+    "date": "Sun, 07 Jun 2026 00:23:00 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Keep an eye on this   Hostinger (\nhostinger.com )\n\n\n\n\n\n\n\n**********************************\nEmail sending limits reached\n**********************************\n\nYou have reached the allowed sending <b>lim"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "457",
+    "sender": "Tora Buttaro <tbuttaro@pinesfoundation.org>",
+    "subject": "Automatic reply: Inquiry Regarding Alignment With Your Foundation's\r\n Funding Pr",
+    "date": "Sun, 7 Jun 2026 05:23:53 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "\ufeffThank you for contacting Pines of Sarasota Foundation. I am out of the office, returning June 15. Please call (941) 955-6293<tel:(941)%20955-6293> for assistance while I'm away, or email Andrea Steph"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "458",
+    "sender": "America's Charities <help@charities.org>",
+    "subject": "Request received case#102901 Inquiry Regarding Alignment With Your\r\n Foundation'",
+    "date": "Sun, 07 Jun 2026 06:59:11 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "## Please do not write below this line ##\r\n\r\nYour request (case#102901) has been received and is currently under review by our support staff. \r\n\r\nYou can anticipate a response within 24-48 hours durin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "459",
+    "sender": "Info <info@frick.org>",
+    "subject": "Automatic reply: Inquiry Regarding Alignment With Your Foundation's\r\n Funding Pr",
+    "date": "Sun, 7 Jun 2026 07:06:43 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Many thanks for getting in touch. We look forward to reading your message and will get back to you as soon as possible.\r\n\r\n\r\nFor ticketing questions or issues, please reach out to admissions@frick.org"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "460",
+    "sender": "The Robinwood Foundation Team <info@robinwoodfoundation.org>",
+    "subject": "Automatic reply: Inquiry Regarding Alignment With Your Foundation's\r\n Funding Pr",
+    "date": "Sun, 7 Jun 2026 06:11:15 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Thank you for contacting The Robinwood Foundation! If you have completed your grant application, we will send a confirmation email once we determine that the application and attachments have all been "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "461",
+    "sender": "\"MacNett, Kathy S.\" <KSMacNett@mette.com>",
+    "subject": "Finnegan",
+    "date": "Sun, 7 Jun 2026 15:02:43 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Given the small size of our Foundation, we could not afford someone of your caliber\r\n\r\nGet Outlook for iOS<https://aka.ms/o0ukef>\r\n"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "462",
+    "sender": "Info <info@tsaofoundation.org>",
+    "subject": "Automatic reply: 'CAUTION' Inquiry Regarding Alignment With Your\r\n Foundation's ",
+    "date": "Sun, 7 Jun 2026 07:51:44 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "Thank you for reaching out to us.\r\n\r\nIf your enquiry relates to partnerships or requests for more information, we will respond in five business days. Please note that we are unable to provide funding "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "463",
+    "sender": "Ray McGuigan <ray@doolin.com>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Sun, 7 Jun 2026 10:29:30 +0100",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hello,\r\nI reghret that this email address has no connection whatsoever with the\r\npeople you are trying to communicate with.\r\n\r\nBest wishes,\r\n\r\nRay\r\n\r\nOn Sun, 7 Jun 2026 at 09:09, Charles Prescott <cha"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "464",
+    "sender": "\"MacNett, Kathy S.\" <KSMacNett@mette.com>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Sun, 7 Jun 2026 14:59:24 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Given the small size of our Foundation, we could not afford someone of your caliber.\r\n\r\nGet Outlook for iOS<https://aka.ms/o0ukef>\r\n________________________________\r\nFrom: Charles Prescott <charles@co"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "466",
+    "sender": "Info <info@frick.org>",
+    "subject": "Automatic reply: Inquiry Regarding Alignment With Your Foundation's\r\n Funding Pr",
+    "date": "Sun, 7 Jun 2026 13:46:13 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Many thanks for getting in touch. We look forward to reading your message and will get back to you as soon as possible.\r\n\r\n\r\nFor ticketing questions or issues, please reach out to admissions@frick.org"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "467",
+    "sender": "\"Natasha from Alison\" <support@alison.com>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 08 Jun 2026 12:40:17 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=5)",
+    "body_preview": "Hi Charles, \n \n This is Natasha from Alison\u2019s Customer Support Team\u2014I'm happy to assist you today. \n \n Thank you for your patience, and we apologize for the delay in getting back to you as we were tem"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "468",
+    "sender": "Troy Lanigan <troy@manningfoundation.org>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Mon, 8 Jun 2026 01:08:58 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Hi Charles ... not something we do.  Best wishes to you\r\n\r\nTroy\r\n\r\nGet Outlook for Android<https://aka.ms/AAb9ysg>\r\n\r\n________________________________\r\nFrom: Charles Prescott <charles@columbiataxlawye"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "470",
+    "sender": "PCARMARKET <info@pcarmarket.com>",
+    "subject": "Two Motorsport Icons. Two Limited Editions. Ending June 8.",
+    "date": "Mon, 8 Jun 2026 08:58:43 -0400 (EDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Email from PCARMARKET Audemars Piguet and Richard Mille timepieces are now LIVE on PCARMARKET! Few industries have influenced modern watchmaking as profoundly as motorsport. The relentless pursuit of "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "472",
+    "sender": "Chris Bochenek <chris.bochenek@hailefoundation.org>",
+    "subject": "Fw: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Mon, 8 Jun 2026 18:18:08 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nThank you for your interest in the Carol Ann and Ralph V. Haile, Jr. Foundation.  The Foundation supports only tax-exempt organizations, not individuals, within our 10-county region in "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "473",
+    "sender": "\r\n\tMidlands Christian Directory <publisher@midlandschristian",
+    "subject": "Christian Business Networking the Thursday!",
+    "date": "Mon, 8 Jun 2026 07:12:24 -0400 (EDT)",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Email from Midlands Christian Directory Reserve your seat now! \u200a \u200a Charles, you've been invited! \u200a \u200a Jun 11 Midlands Directory Christians In Business Networking Event, June 11, 2026 You are invited to"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "474",
+    "sender": "Amy Dixon <amy@couchfoundation.org>",
+    "subject": "RE: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Mon, 8 Jun 2026 16:27:30 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles, \r\n\r\nThank you for your interest in the Couch Family Foundation. Unfortunately, we do not make grants to individuals. \r\n\r\nBest wishes with your graduate studies. \r\n\r\nSincerely, \r\n\r\nAMY DI"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "475",
+    "sender": "CIM-Scholarships <Scholarships@united-church.ca>",
+    "subject": "RE: Inquiry \u2014 Scholarship Opportunities for Theological Studies at Trinity Colle",
+    "date": "Mon, 8 Jun 2026 12:37:05 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Hi Charles,\r\n\r\nThank you for reaching out to the Foundation regarding our academic awards. These awards accept applications from 15 Jan - 15 Mar each year, with decisions being released at the end of "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "476",
+    "sender": "Justin Wissmann <justin@kimmelfoundation.org>",
+    "subject": "RE: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 8 Jun 2026 13:04:33 -0500",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Hello,\r\n\r\nOur foundation is set up that we can only give grants to 501(c)3 public\r\ncharities in Nebraska.\r\n\r\nThank you,\r\nJustin\r\n\r\n\r\n\r\n-----Original Message-----\r\nFrom: Charles Prescott <charles@colum"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "477",
+    "sender": "Teresa Toro <teresa@carlefoundation.org>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 8 Jun 2026 12:25:32 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\nI received your inquiry. We do not accept unsolicited grant applications,\r\nbut thank you for your kind words and interest.\r\n\r\nbest regards,\r\nTeresa Toro\r\n\r\n_______________\r\n*Tere"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "478",
+    "sender": "<vwassena@williams.edu>",
+    "subject": "FW: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 8 Jun 2026 14:10:40 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=2)",
+    "body_preview": "Mr.  Prescott:\r\n\r\nI hope you\u2019re new focus turns out to be everything you hoped for.\r\n\r\nWe are not the Cedar Tree Foundation but perhaps you\u2019ll find an opportunity there.\r\n\r\nVanessa\r\n\r\n \r\n\r\nVanessa Was"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "479",
+    "sender": "Amazon Web Services <health@aws.com>",
+    "subject": "[Notification] Discontinuation of AWS Accounts Status in AWS\r\n Organizations [AW",
+    "date": "Mon, 8 Jun 2026 19:13:04 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "AWS Health Event\r\n\r\n[Notification] Discontinuation of AWS Accounts Status in AWS Organizations [AWS Account: 905418062960] \r\n\r\nHello,\r\n\r\nAWS Organizations has transitioned from the account status (Sta"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "480",
+    "sender": "\"Higgins, Shana\" <shiggins@unionprivilege.org>",
+    "subject": "RE: Union Plus Scholarship - USW Grandfather Descendant Inquiry\",\r\n f\"Dear Union",
+    "date": "Mon, 8 Jun 2026 12:37:02 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=3)",
+    "body_preview": "Dear Charles:\r\n\r\nThank you for your interest in Union Plus benefits from Union Privilege. We're happy to announce that the 2027 Union Plus Scholarship application will be available online later this s"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "481",
+    "sender": "info@beairdfoundation.org",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Mon, 08 Jun 2026 09:50:04 -0500",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Good Morning Charles,\r\n\r\nThank you for your interest in the Carolyn W. and Charles T. Beaird \r\nFamily Foundation. The Beaird Foundation supports 501c3 nonprofits that \r\nprovide services in the Shrevep"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "482",
+    "sender": "Scott Brubacher <sbrubacher@anglicanfoundation.org>",
+    "subject": "RE: Bursary Inquiry \u2014 Certificate in Theological Studies, Trinity College (Fall ",
+    "date": "Mon, 8 Jun 2026 16:10:32 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\n\r\n\r\nThank you for this lovely introductory email and for sharing about your journey towards theological studies at Trinity College. I also came from a Baptist background and found my "
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "483",
+    "sender": "\"MacNett, Kathy S.\" <KSMacNett@mette.com>",
+    "subject": "Re: Finnegan",
+    "date": "Mon, 8 Jun 2026 13:45:37 +0000",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Our awards are limited to Pa college students or Pa residents going to college out of state. The receipient must also accept a summer internship in state gov\u2019t.\r\n\r\nGet Outlook for iOS<https://aka.ms/o"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "484",
+    "sender": "Info SLF <info@sunshineladyfoundation.org>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 8 Jun 2026 08:27:01 -0600",
+    "classification": "NO",
+    "reason": "Declined (score: no=2)",
+    "body_preview": "Dear Charles,\r\n\r\nI hope this email finds you safe and taking care. Thank you for reaching\r\nout via the Sunshine Lady Foundation website and for sharing a bit of\r\ninformation about your experiences.\r\n\r"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "485",
+    "sender": "\"execassist@grassfoundation.org\" <execassist@grassfoundation",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Mon, 8 Jun 2026 10:05:11 -0700",
+    "classification": "NO",
+    "reason": "Declined (score: no=3)",
+    "body_preview": "<html><body><p style=\"direction: ltr; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Arial, sans-serif; font-size: 11pt; color: rgb(0, 0, 0); text-transform: none;\""
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "486",
+    "sender": "J David Bamberger <selah.brp@gmail.com>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 8 Jun 2026 14:55:57 -0500",
+    "classification": "NO",
+    "reason": "Declined (score: no=2)",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\n   Unfortunately, this email address does not belong to the Ruth Eleanor\r\nand John Ernest Bamberger Memorial Foundation. According to Guide Star, the\r\nUS Postal mailing address f"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "487",
+    "sender": "University of Alabama Scholarships <scholarships@ua.edu>",
+    "subject": "RE: University of Alabama - Alumni Continuing Education Scholarship\",\r\n f\"Dear U",
+    "date": "Mon, 08 Jun 2026 14:28:47 +0000 (UTC)",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "    Good morning,\r\n\r\n    Our office awards scholarships to undergraduate students. You will need to contact the graduate school regarding scholarships for graduate students.\r\n\r\n    Thank you,\r\n\r\n    S"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "488",
+    "sender": "Judith Bigelow <judy.bigelow@fordhamstreet.org>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Sun, 7 Jun 2026 11:23:48 -0400",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Thank you for your interest in Fordham Street Foundation.  We are not\r\naccepting any new applications at this time.  Also we do not offer any\r\nscholarships to individuals.  We are not able to offer fu"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "489",
+    "sender": "Bonnie Eldon <bonnie@fost.org>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding\r\n Priorities",
+    "date": "Mon, 8 Jun 2026 10:42:56 -0400",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Sorry, this email is unrelated to the foundation you are inquiring about. You have reached Melcher Media, a book production company.\r\n\r\nBonnie Eldon\r\nVP, Chief Operating Officer\r\nFuture of StoryTellin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "490",
+    "sender": "America's Charities <help@charities.org>",
+    "subject": "Request received case#102903 Inquiry Regarding Alignment With Your\r\n Foundation'",
+    "date": "Sun, 07 Jun 2026 14:27:26 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "## Please do not write below this line ##\r\n\r\nYour request (case#102903) has been received and is currently under review by our support staff. \r\n\r\nYou can anticipate a response within 24-48 hours durin"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "491",
+    "sender": "Gary Wilmot <gary@lorfoundation.org>",
+    "subject": "Re: Inquiry Regarding Alignment With Your Foundation's Funding Priorities",
+    "date": "Mon, 8 Jun 2026 14:45:07 -0600",
+    "classification": "YES",
+    "reason": "Interested (score: yes=2)",
+    "body_preview": "Sorry, Charles. We do not entertain requests from individual scholars.\r\n\r\nBest of luck with your search.\r\n\r\nGary\r\n\r\nOn Sun, Jun 7, 2026 at 1:41\u202fAM Charles Prescott <\r\ncharles@columbiataxlawyer.com> wr"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "492",
+    "sender": "Grace Emerson <grace.emerson@smithrobinsonlaw.com>",
+    "subject": "Defendant Answer to Request for Admissions ",
+    "date": "Mon, 8 Jun 2026 20:48:21 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\nPlease see attached on behalf of the Defendants Mitchell International Inc., Defendant\u2019s Objections and Responses to Plaintiff\u2019s First Request for Admission which is being served"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "493",
+    "sender": "Grace Emerson <grace.emerson@smithrobinsonlaw.com>",
+    "subject": "Defendants Answer to Request for Admissions ",
+    "date": "Mon, 8 Jun 2026 20:52:41 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\nPlease see attached on behalf of the Defendants Mitchell International Inc., Defendant\u2019s Objections and Responses to Plaintiff\u2019s First Request for Admission which is being served"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "494",
+    "sender": "Grace Emerson <grace.emerson@smithrobinsonlaw.com>",
+    "subject": "Charles Prescott, Jr. v. Mitchell International, Inc., GEICO General\r\n Insurance",
+    "date": "Mon, 8 Jun 2026 20:58:59 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Mr. Prescott,\r\n\r\nPlease see attached on behalf of the Defendants Mitchell International Inc., Defendant\u2019s Objections and Responses to Plaintiff\u2019s First Request for Admission which is being served"
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "495",
+    "sender": "\"Chrest  Foundation\" <chrest@chrestfoundation.org>",
+    "subject": "Inquiry to Chrest Foundation",
+    "date": "Mon, 8 Jun 2026 21:50:01 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Dear Charles,\r\n\r\nThank you for reaching out to the Chrest Foundation. Unfortunately, we do not make grants to individuals or accept unsolicited requests.\r\n\r\nWe wish you all the best in your endeavors."
+  },
+  {
+    "folder": "INBOX",
+    "msg_id": "496",
+    "sender": "Christopher Brittain <chris.brittain@utoronto.ca>",
+    "subject": "RE: Request for Guidance on Research Assistanceship, study permit\r\n Requirements",
+    "date": "Tue, 9 Jun 2026 00:16:23 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Dear Charles,\r\n\r\nNice to hear from you. Thank you for your email.\r\n\r\nI appreciate your desire to prepare the best possible study-permit application. I regret, however, that your proposed possible way "
+  },
+  {
+    "folder": "INBOX.Trash",
+    "msg_id": "1",
+    "sender": "<postmaster@utoronto.ca>",
+    "subject": "Undeliverable: Ethical Agentic Group Decision applied to Judicial\r\n Process",
+    "date": "Thu, 21 May 2026 17:49:34 +0000",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470]\r\nYour message to nina.mazar@rotman.utoronto.ca couldn't be delivered.\r\nnina.mazar wa"
+  },
+  {
+    "folder": "INBOX.Trash",
+    "msg_id": "4",
+    "sender": "\"info@moozie.com\" <info@moozie.com>",
+    "subject": "The Children\u2019s Kindness Network",
+    "date": "Sun, 07 Jun 2026 14:28:34 GMT",
+    "classification": "UNREAD",
+    "reason": "Needs review",
+    "body_preview": "Thank you very much for your email. We are happy to know of your interest in Moozie and kindness! We will endeavor to respond to you within 24 hours, likely sooner.\r\r\nKind regards, The Children\u2019s Kind"
+  },
+  {
+    "folder": "INBOX.Trash",
+    "msg_id": "5",
+    "sender": "America's Charities <help@charities.org>",
+    "subject": "Request received case#102902 Inquiry Regarding Alignment With Your\r\n Foundation'",
+    "date": "Sun, 07 Jun 2026 13:42:16 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "## Please do not write below this line ##\r\n\r\nYour request (case#102902) has been received and is currently under review by our support staff. \r\n\r\nYou can anticipate a response within 24-48 hours durin"
+  },
+  {
+    "folder": "INBOX.Trash",
+    "msg_id": "6",
+    "sender": "Harlan Downs-Tepper <harlan@wamfoundation.org>",
+    "subject": "Automatic reply: Inquiry Regarding Alignment With Your Foundation's\r\n Funding Pr",
+    "date": "Sun, 7 Jun 2026 11:34:58 +0000",
+    "classification": "AUTO",
+    "reason": "Auto-reply",
+    "body_preview": "Thank you for your email. Harlan Downs-Tepper is currently on parental leave and is not closely monitoring this mailbox.\r\n\r\nFor Foundation-related matters, please contact Leigh Fraiser at leigh@wamfou"
+  },
+  {
+    "folder": "INBOX.Trash",
+    "msg_id": "7",
+    "sender": "Phil Biundo <phil@filmartech.com>",
+    "subject": "Networking HDDs POS Hardware",
+    "date": "Mon, 08 Jun 2026 13:57:01 +0000",
+    "classification": "MAYBE",
+    "reason": "Maybe (score: maybe=1)",
+    "body_preview": "Charles A, Good morning, We have several new lots available for bid and\r\nimmediate review.\r\n\r\nNew POS, Network & HDD Lots Available \u2013 Submit Your offer\r\n\r\nNetworking Equipment\r\n\u2022 Network Lot \u2013\r\nhttps:"
+  }
+]

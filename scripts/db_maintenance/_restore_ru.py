@@ -1,0 +1,11 @@
+﻿import sqlite3
+conn = sqlite3.connect('E:/grid/churches.db')
+c = conn.cursor()
+c.execute("UPDATE churches SET country='RU' WHERE country='0' AND source_primary='openstreetmap'")
+print(f"Restored: {c.rowcount:,}")
+conn.commit()
+c.execute("SELECT COUNT(*) FROM churches WHERE country='RU'")
+print(f"RU: {c.fetchone()[0]:,}")
+c.execute("SELECT COUNT(*) FROM churches WHERE country='0'")
+print(f"country='0': {c.fetchone()[0]}")
+conn.close()

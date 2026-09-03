@@ -1,0 +1,355 @@
+SBC CHURCH NEEDS ASSESSMENT — Top 25
+Generated: June 14, 2026 at 09:11 AM
+Database: 46,433 SBC churches
+================================================================================
+
+--- #1 (Score: 130.6) ---
+  Church:     WINGATE BAPTIST CHURCH
+  Location:   PO BOX 295, FORT WINGATE, NM 87316-0295
+  Website:    https://churches.sbc.net/church/wingate-baptist-church/
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    35.7%
+  Income:     $44,496
+  Age:        34.0
+  Unempl:     8.6%
+  Home Val:   $72,100
+
+--- #2 (Score: 130.6) ---
+  Church:     WOODLAND BAPTIST CHURCH
+  Location:   RR 1 BOX 67, MARKS, MS 38646-9723
+  Website:    https://churches.sbc.net/church/woodland-baptist-church-10/
+  Phone:      —
+  Email:      —
+  Pastor:     REV KELLY MCDUFFIE
+  Attendance: 0
+  Poverty:    33.5%
+  Income:     $32,131
+  Age:        41.0
+  Unempl:     10.6%
+  Home Val:   $68,600
+
+--- #3 (Score: 130.6) ---
+  Church:     EMMANUEL BAPTIST CHURCH
+  Location:   1630 7TH ST, GALLUP, NM 87305-2320
+  Website:    https://emmanuel-baptist-church.com
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    35.7%
+  Income:     $44,496
+  Age:        34.0
+  Unempl:     8.6%
+  Home Val:   $72,100
+
+--- #4 (Score: 130.6) ---
+  Church:     FIRST BAPTIST CHURCH OF THOREAU
+  Location:   PO BOX 473, THOREAU, NM 87323-0473
+  Website:    https://churches.sbc.net/church/first-baptist-church-of-thoreau/
+  Phone:      (505) 862-7746
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    35.7%
+  Income:     $44,496
+  Age:        34.0
+  Unempl:     8.6%
+  Home Val:   $72,100
+
+--- #5 (Score: 128.4) ---
+  Church:     EMMANUEL BAPTIST CHURCH
+  Location:   PO BOX 823, WAR, WV 24892-0823
+  Website:    https://emmanuel-baptist-church.com
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    30.9%
+  Income:     $29,980
+  Age:        43.0
+  Unempl:     13.0%
+  Home Val:   $49,200
+
+--- #6 (Score: 126.0) ---
+  Church:     FIRST BAPTIST CHURCH OF RIO GRANDE CITY
+  Location:   PO BOX 507, RIO GRANDE CY, TX 78582-0507
+  Website:    https://churches.sbc.net/church/first-baptist-church-of-rio-grande-city/
+  Phone:      —
+  Email:      —
+  Pastor:     PASTOR
+  Attendance: 0
+  Poverty:    33.5%
+  Income:     $38,182
+  Age:        29.0
+  Unempl:     9.8%
+  Home Val:   $93,300
+
+--- #7 (Score: 126.0) ---
+  Church:     GRACE POINT CHURCH
+  Location:   PO BOX 34, GRULLA, TX 78548-0034
+  Website:    https://churches.sbc.net/church/grace-point-church-8/
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    33.5%
+  Income:     $38,182
+  Age:        29.0
+  Unempl:     9.8%
+  Home Val:   $93,300
+
+--- #8 (Score: 123.8) ---
+  Church:     MACEDONIA
+  Location:   7885 COUNTY RD 131, BOLIGEE, AL 35443-0000
+  Website:    http://macedonia.org
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    35.9%
+  Income:     $31,495
+  Age:        44.0
+  Unempl:     3.2%
+  Home Val:   $86,400
+
+--- #9 (Score: 123.8) ---
+  Church:     PINE GROVE
+  Location:   26154 COUNTY ROAD 13, BOLIGEE, AL 35443-4214
+  Website:    https://churches.sbc.net/church/pine-grove-4/
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    35.9%
+  Income:     $31,495
+  Age:        44.0
+  Unempl:     3.2%
+  Home Val:   $86,400
+
+--- #10 (Score: 117.8) ---
+  Church:     CROSSROADS COMMUNITY BAPTIST CHURCH
+  Location:   PO BOX 52, WHITLEY CITY, KY 42653-0052
+  Website:    https://churches.sbc.net/church/crossroads-community-baptist-church/
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    35.1%
+  Income:     $37,355
+  Age:        38.0
+  Unempl:     2.3%
+  Home Val:   $77,000
+
+--- #11 (Score: 115.8) ---
+  Church:     FAIRMOUNT BAPTIST CHURCH
+  Location:   2265 HICKORY GROVE CHURCH RD, SPARTA, GA 31087-8522
+  Website:    https://churches.sbc.net/church/fairmount-baptist-church-2/
+  Phone:      3329590000
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    31.5%
+  Income:     $33,182
+  Age:        47.0
+  Unempl:     5.6%
+  Home Val:   $87,400
+
+--- #12 (Score: 115.0) ---
+  Church:     AIMWELL BAPTIST CHURCH
+  Location:   9641 AL HIGHWAY 22 W, ORRVILLE, AL 36767-3177
+  Website:    https://churches.sbc.net/church/aimwell-baptist-church/
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    29.0%
+  Income:     $36,810
+  Age:        40.0
+  Unempl:     9.8%
+  Home Val:   $97,400
+
+--- #13 (Score: 109.8) ---
+  Church:     MAUK BAPTIST CHURCH
+  Location:   PO BOX 5, MAUK, GA 31058-0005
+  Website:    https://churches.sbc.net/church/mauk-baptist-church/
+  Phone:      4211269999
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    29.4%
+  Income:     $41,743
+  Age:        42.0
+  Unempl:     6.7%
+  Home Val:   $82,900
+
+--- #14 (Score: 109.8) ---
+  Church:     EL BETHEL BAPTIST CHURCH
+  Location:   PO BOX 367, MILAN, GA 31060-0000
+  Website:    https://churches.sbc.net/church/el-bethel-baptist-church-5/
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    31.0%
+  Income:     $44,948
+  Age:        39.0
+  Unempl:     4.7%
+  Home Val:   $108,200
+
+--- #15 (Score: 109.8) ---
+  Church:     MOORES CHAPEL BAPTIST CHURCH
+  Location:   PO BOX 22, MAUK, GA 31058-0022
+  Website:    https://churches.sbc.net/church/moores-chapel-baptist-church-2/
+  Phone:      (706) 617-2516
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    29.4%
+  Income:     $41,743
+  Age:        42.0
+  Unempl:     6.7%
+  Home Val:   $82,900
+
+--- #16 (Score: 109.8) ---
+  Church:     BLOCKHOUSE BAPTIST CHURCH
+  Location:   PO BOX 96, JACKSONVILLE, GA 31544-0096
+  Website:    https://churches.sbc.net/church/blockhouse-baptist-church/
+  Phone:      0136040000
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    31.0%
+  Income:     $44,948
+  Age:        39.0
+  Unempl:     4.7%
+  Home Val:   $108,200
+
+--- #17 (Score: 109.0) ---
+  Church:     WAKE EDEN COMMUNITY BAPTIST CHURCH
+  Location:   2074 STRANG AVE, BRONX, NY 10466-2343
+  Website:    https://churches.sbc.net/church/wake-eden-community-baptist-church/
+  Phone:      718-325-8056
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    27.0%
+  Income:     $49,036
+  Age:        35.0
+  Unempl:     10.0%
+  Home Val:   $517,000
+
+--- #18 (Score: 109.0) ---
+  Church:     BRONX BAPTIST CHURCH
+  Location:   331 E 187TH ST, BRONX, NY 10458-5708
+  Website:    https://churches.sbc.net/church/bronx-baptist-church/
+  Phone:      718-933-4095
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    27.0%
+  Income:     $49,036
+  Age:        35.0
+  Unempl:     10.0%
+  Home Val:   $517,000
+
+--- #19 (Score: 109.0) ---
+  Church:     GETHSEMANE BAPTIST CHURCH
+  Location:   771 FAIRMOUNT PL, BRONX, NY 10460-4126
+  Website:    https://gethsemane-baptist-church.org
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    27.0%
+  Income:     $49,036
+  Age:        35.0
+  Unempl:     10.0%
+  Home Val:   $517,000
+
+--- #20 (Score: 108.8) ---
+  Church:     MT CALVARY BAPTIST CHURCH INC
+  Location:   10574 HWY 37, BLACKVILLE, SC 29817-0000
+  Website:    —
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    28.5%
+  Income:     $41,800
+  Age:        40.0
+  Unempl:     6.7%
+  Home Val:   $97,200
+
+--- #21 (Score: 108.5) ---
+  Church:     BEACON LIGHT BAPTIST CHURCH
+  Location:   2277 MONARCH RD, SAINT CHARLES, VA 24282-8038
+  Website:    https://churches.sbc.net/church/beacon-light-baptist-church/
+  Phone:      (276) 298-7579
+  Email:      —
+  Pastor:     PASTOR
+  Attendance: 0
+  Poverty:    27.6%
+  Income:     $42,269
+  Age:        45.0
+  Unempl:     8.5%
+  Home Val:   $98,700
+
+--- #22 (Score: 108.5) ---
+  Church:     LONE BRANCH BAPTIST CHURCH
+  Location:   8058 LOWER WALLENS CREEK RD, JONESVILLE, VA 24263-6659
+  Website:    https://churches.sbc.net/church/lone-branch-baptist-church/
+  Phone:      276-346-1583
+  Email:      —
+  Pastor:     PASTOR
+  Attendance: 0
+  Poverty:    27.6%
+  Income:     $42,269
+  Age:        45.0
+  Unempl:     8.5%
+  Home Val:   $98,700
+
+--- #23 (Score: 108.1) ---
+  Church:     HARMONY BAPTIST CHURCH
+  Location:   1959 WOODTRAIL DR, FARFAX, SC 29827-0000
+  Website:    https://harmony.church
+  Phone:      —
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    26.5%
+  Income:     $31,603
+  Age:        42.0
+  Unempl:     9.7%
+  Home Val:   $61,600
+
+--- #24 (Score: 108.1) ---
+  Church:     FAIRFAX FIRST BAPTIST CHURCH
+  Location:   PO BOX 820, FAIRFAX, SC 29827-0820
+  Website:    https://nazarenemissionarybaptistfairfax.business.site
+  Phone:      +1-803-632-3433
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    26.5%
+  Income:     $31,603
+  Age:        42.0
+  Unempl:     9.7%
+  Home Val:   $61,600
+
+--- #25 (Score: 108.1) ---
+  Church:     ALLENDALE FIRST BAPTIST CHURCH
+  Location:   259 MEMORIAL AVE S, ALLENDALE, SC 29810-3646
+  Website:    https://churches.sbc.net/church/allendale-first-baptist-church/
+  Phone:      803-584-2318
+  Email:      —
+  Pastor:     —
+  Attendance: 0
+  Poverty:    26.5%
+  Income:     $31,603
+  Age:        42.0
+  Unempl:     9.7%
+  Home Val:   $61,600
+

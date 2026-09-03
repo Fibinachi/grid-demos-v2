@@ -1,0 +1,101 @@
+id,name,address,city,state,zip,source,denomination,county_name,country
+,EVENTS,,,,,seacoast_scraper,Non-Denominational / Independent,,US
+,GPX (ALL COORDINATES),,,,,wikipedia_list,Anglican,,EU
+,GPX (PRIMARY COORDINATES),,,,,wikipedia_list,Anglican,,EU
+,GPX (SECONDARY COORDINATES),,,,,wikipedia_list,Anglican,,EU
+,CHELMSFORD CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,"CHURCH OF ST MARY THE GREAT, CAMBRIDGE",,,,,wikipedia_list,Anglican,,EU
+,ELY CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,GREENSTED CHURCH,,,,,wikipedia_list,Anglican,,EU
+,"HOLY TRINITY CHURCH, LONG MELFORD",,,,,wikipedia_list,Anglican,,EU
+,KING'S LYNN MINSTER,,,,,wikipedia_list,Anglican,,EU
+,NORWICH CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,PETERBOROUGH CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,ST ALBANS CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,ST EDMUNDSBURY CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,"ST HELEN'S, RANWORTH",,,,,wikipedia_list,Anglican,,EU
+,"ST MARY'S, EAST BERGHOLT",,,,,wikipedia_list,Anglican,,EU
+,"ST MICHAEL THE ARCHANGEL, FRAMLINGHAM",,,,,wikipedia_list,Anglican,,EU
+,"ST NICHOLAS, BLAKENEY",,,,,wikipedia_list,Anglican,,EU
+,"ST PETER AND ST PAUL'S CHURCH, LAVENHAM",,,,,wikipedia_list,Anglican,,EU
+,"ST PETER AND ST PAUL'S CHURCH, SALLE",,,,,wikipedia_list,Anglican,,EU
+,"ST PETER MANCROFT, NORWICH",,,,,wikipedia_list,Anglican,,EU
+,WYMONDHAM ABBEY,,,,,wikipedia_list,Anglican,,EU
+,"ALL SAINTS' CHURCH, NORTHAMPTON",,,,,wikipedia_list,Anglican,,EU
+,DERBY CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,LINCOLN CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,"ST ANDREW'S CHURCH, SEMPRINGHAM",,,,,wikipedia_list,Anglican,,EU
+,"ST BOTOLPH'S CHURCH, BOSTON",,,,,wikipedia_list,Anglican,,EU
+,"ST MARY AND ALL SAINTS, CHESTERFIELD",,,,,wikipedia_list,Anglican,,EU
+,"ST MARY THE VIRGIN'S CHURCH, BOTTESFORD",,,,,wikipedia_list,Anglican,,EU
+,"ST MARY'S CHURCH, NOTTINGHAM",,,,,wikipedia_list,Anglican,,EU
+,"ST WULFRAM'S CHURCH, GRANTHAM",,,,,wikipedia_list,Anglican,,EU
+,SOUTHWELL MINSTER,,,,,wikipedia_list,Anglican,,EU
+,"CHURCH OF ST MARY DE CASTRO, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"CATHEDRAL CHURCH OF ST MARTIN, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"HOLY TRINITY CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST JAMES THE GREATER, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST MARGARET'S CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST NICHOLAS' CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST PETER'S CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST MARK'S CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST MATTHEW'S, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST PAUL'S CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,"ST SAVIOUR'S CHURCH, LEICESTER",,,,,wikipedia_list,Anglican,,EU
+,ALL HALLOWS-BY-THE-TOWER,,,,,wikipedia_list,Anglican,,EU
+,"ALL SAINTS, MARGARET STREET",,,,,wikipedia_list,Anglican,,EU
+,"ALL SOULS CHURCH, LANGHAM PLACE",,,,,wikipedia_list,Anglican,,EU
+,CHRIST CHURCH SPITALFIELDS,,,,,wikipedia_list,Anglican,,EU
+,CROYDON MINSTER,,,,,wikipedia_list,Anglican,,EU
+,"GUARDS CHAPEL, WELLINGTON BARRACKS",,,,,wikipedia_list,Anglican,,EU
+,"HOLY TRINITY, SLOANE STREET",,,,,wikipedia_list,Anglican,,EU
+,"ST ALFEGE CHURCH, GREENWICH",,,,,wikipedia_list,Anglican,,EU
+,"ST ANDREW'S, ENFIELD",,,,,wikipedia_list,Anglican,,EU
+,"ST ANNE'S CHURCH, KEW",,,,,wikipedia_list,Anglican,,EU
+,"ST ANNE'S, LIMEHOUSE",,,,,wikipedia_list,Anglican,,EU
+,"ST AUGUSTINE'S, QUEEN'S GATE",,,,,wikipedia_list,Anglican,,EU
+,ST BARTHOLOMEW-THE-GREAT,,,,,wikipedia_list,Anglican,,EU
+,ST BENET PAUL'S WHARF,,,,,wikipedia_list,Anglican,,EU
+,ST BOTOLPH'S ALDGATE,,,,,wikipedia_list,Anglican,,EU
+,ST BRIDE'S CHURCH,,,,,wikipedia_list,Anglican,,EU
+,ST CLEMENT DANES,,,,,wikipedia_list,Anglican,,EU
+,"ST CUTHBERT'S, EARLS COURT",,,,,wikipedia_list,Anglican,,EU
+,"ST DUNSTAN'S, STEPNEY",,,,,wikipedia_list,Anglican,,EU
+,"ST GEORGE THE MARTYR, SOUTHWARK",,,,,wikipedia_list,Anglican,,EU
+,"ST GEORGE'S, HANOVER SQUARE",,,,,wikipedia_list,Anglican,,EU
+,"ST JAMES'S CHURCH, PICCADILLY",,,,,wikipedia_list,Anglican,,EU
+,ST JOHN-AT-HAMPSTEAD,,,,,wikipedia_list,Anglican,,EU
+,ST JOHN'S WOOD CHURCH,,,,,wikipedia_list,Anglican,,EU
+,ST LAWRENCE JEWRY,,,,,wikipedia_list,Anglican,,EU
+,"ST MARGARET'S CHURCH, WESTMINSTER",,,,,wikipedia_list,Anglican,,EU
+,ST MARTIN-IN-THE-FIELDS,,,,,wikipedia_list,Anglican,,EU
+,ST MARY ABBOTS,,,,,wikipedia_list,Anglican,,EU
+,ST MARY-LE-BOW,,,,,wikipedia_list,Anglican,,EU
+,ST MARY LE STRAND,,,,,wikipedia_list,Anglican,,EU
+,"ST MARY'S CHURCH, BATTERSEA",,,,,wikipedia_list,Anglican,,EU
+,"ST MARY'S CHURCH, HARROW ON THE HILL",,,,,wikipedia_list,Anglican,,EU
+,"ST MICHAEL AND ALL ANGELS, BEDFORD PARK",,,,,wikipedia_list,Anglican,,EU
+,ST PAUL'S CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,"ST. PAUL'S CHURCH, COVENT GARDEN",,,,,wikipedia_list,Anglican,,EU
+,"ST PAUL'S, DEPTFORD",,,,,wikipedia_list,Anglican,,EU
+,"ST PETER'S CHURCH, PETERSHAM",,,,,wikipedia_list,Anglican,,EU
+,ST STEPHEN WALBROOK,,,,,wikipedia_list,Anglican,,EU
+,SAVOY CHAPEL,,,,,wikipedia_list,Anglican,,EU
+,SOUTHWARK CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,WESTMINSTER ABBEY,,,,,wikipedia_list,Anglican,,EU
+,DURHAM CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,HEXHAM ABBEY,,,,,wikipedia_list,Anglican,,EU
+,NEWCASTLE CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,SUNDERLAND MINSTER,,,,,wikipedia_list,Anglican,,EU
+,BLACKBURN CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,BOLTON ABBEY,,,,,wikipedia_list,Anglican,,EU
+,CARLISLE CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,CHESTER CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,LANCASTER PRIORY,,,,,wikipedia_list,Anglican,,EU
+,LIVERPOOL CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,MANCHESTER CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,"ALL SAINTS' CHURCH, HILLESDEN",,,,,wikipedia_list,Anglican,,EU
+,"ALL SAINTS' CHURCH, WING",,,,,wikipedia_list,Anglican,,EU
+,CANTERBURY CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,CHICHESTER CATHEDRAL,,,,,wikipedia_list,Anglican,,EU
+,"CHRIST CHURCH CATHEDRAL, OXFORD",,,,,wikipedia_list,Anglican,,EU

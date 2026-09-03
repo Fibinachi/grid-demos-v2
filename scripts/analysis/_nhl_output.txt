@@ -1,0 +1,86 @@
+﻿Total unmatched: 81
+
+With Saint/St./San/Santa in name: 32
+  San EstΘvan del Rey Mission Church             @ Acoma Pueblo, NM
+  Mission San Luis de Apalachee (destroyed)      @ Leon County, FL
+  St. Luke's Church                              @ Smithfield, VA
+  St. Peter's Church                             @ Talleysville, VA
+  St. James Church, Goose Creek                  @ Goose Creek, SC
+  St. John's Episcopal Church                    @ Richmond, VA
+  Alamo Mission in San Antonio                   @ San Antonio, TX
+  St. Michael's Episcopal Church                 @ Charleston, SC
+  St. Peter's Episcopal Church, Philadelphia     @ Philadelphia, PA
+  San JosΘ de Gracia Church                      @ Las Trampas, NM
+  St. Paul's Chapel                              @ Manhattan, New York, NY
+  St. Stephen's Episcopal Church                 @ St. Stephen, South Carolina
+  St. James Episcopal Church, Santee             @ Santee, SC
+  Mission San Antonio de Padua                   @ Monterey County, CA
+  Mission San Xavier del Bac                     @ Pima County, AZ
+  Cathedral of San Carlos Borromeo               @ Monterey, CA
+  Mission Santa Barbara                          @ Santa Barbara, CA
+  Mission San Miguel Arcßngel                    @ San Miguel, San Luis Obispo County, CA
+  Mission Santa InΘs                             @ Solvang, CA
+  Cathedral Church of St. Paul                   @ Boston, MA
+  St. Ignace Mission                             @ St. Ignace, MI
+  St. Michael's Cathedral, Sitka                 @ Sitka, AK
+  St. Ann & the Holy Trinity Church              @ Brooklyn, New York City, NY
+  Church of St. James the Less                   @ Philadelphia, PA
+  St. George's Episcopal Church                  @ Manhattan, New York, NY
+
+--- All unmatched ---
+    1. San EstΘvan del Rey Mission Church                  @ Acoma Pueblo, NM
+    2. Mission San Luis de Apalachee (destroyed)           @ Leon County, FL
+    3. St. Luke's Church                                   @ Smithfield, VA
+    4. Old Quaker Meeting House of Queens                  @ Queens, New York City, NY
+    5. St. Peter's Church                                  @ Talleysville, VA
+    6. Yeocomico Church                                    @ Westmoreland County, VA
+    7. Bruton Parish Church                                @ Williamsburg, VA
+    8. St. James Church, Goose Creek                       @ Goose Creek, SC
+    9. Trinity Church, Newport                             @ Newport, RI
+   10. Christ Church, Philadelphia                         @ Philadelphia, PA
+   11. Old South Meeting House                             @ Boston, MA
+   12. Christ Church                                       @ Lancaster County, VA
+   13. St. John's Episcopal Church                         @ Richmond, VA
+   14. Alamo Mission in San Antonio                        @ San Antonio, TX
+   15. Los Santos ┴ngeles de Guevavi (ruins)               @ Nogales, AZ
+   16. St. Michael's Episcopal Church                      @ Charleston, SC
+   17. Old Sheldon Church (ruins)                          @ Beaufort County, SC
+   18. King's Chapel                                       @ Boston, MA
+   19. Calabasas (ruins)                                   @ Santa Cruz County, AZ
+   20. Harpswell Meetinghouse                              @ Harpswell, ME
+   21. St. Peter's Episcopal Church, Philadelphia          @ Philadelphia, PA
+   22. San JosΘ de Gracia Church                           @ Las Trampas, NM
+   23. St. Paul's Chapel                                   @ Manhattan, New York, NY
+   24. St. Stephen's Episcopal Church                      @ St. Stephen, South Carolina
+   25. Buckingham Friends Meeting House                    @ Buckingham Township, Bucks County, PA
+   26. St. James Episcopal Church, Santee                  @ Santee, SC
+   27. Mission San Antonio de Padua                        @ Monterey County, CA
+   28. Mission San Xavier del Bac                          @ Pima County, AZ
+   29. Unitarian Church in Charleston                      @ Charleston, SC
+   30. Cathedral of San Carlos Borromeo                    @ Monterey, CA
+   31. African Meeting House                               @ Boston, MA
+   32. Monumental Church                                   @ Richmond, VA
+   33. Mission Santa Barbara                               @ Santa Barbara, CA
+   34. La Purisima Mission                                 @ Lompoc, CA
+   35. Santuario de Chimayo                                @ Chimay≤, NM
+   36. First Church of Christ, Unitarian                   @ Lancaster, MA
+   37. Mission San Miguel Arcßngel                         @ San Miguel, San Luis Obispo County, CA
+   38. Mission Santa InΘs                                  @ Solvang, CA
+   39. Cathedral Church of St. Paul                        @ Boston, MA
+E:\grid\.venv\Scripts\python.exe : Traceback (most recent call last):
+At line:1 char:1
++ E:\grid\.venv\Scripts\python.exe E:\grid\_investigate_nhl_unmatched.p ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last) 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "E:\grid\_investigate_nhl_unmatched.py", line 17, in <module>
+    print(f"  {i+1:3d}. {e['nhl_name']:50s}  @ {e['location']}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\charlesp\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings
+\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2032' in 
+position 372: character maps to <undefined>

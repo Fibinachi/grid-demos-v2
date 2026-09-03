@@ -1,0 +1,1153 @@
+ALL TEC CONGREGATIONS — 1,147 total
+Generated: 2026-06-16
+====================================================================================================
+
+    #  Name                                                              City                      St  County                       Pov
+-----  ----------------------------------------------------------------- ------------------------- --- ------------------------- ------
+    1  ST JAMES EPISCOPAL CHURCH                                         FAIRHOPE                  AL  BALDWIN                     9.2%
+    2  ST PAULS EPISCOPAL CHURCH                                         FOLEY                     AL  BALDWIN                     9.2%
+    3  ST JAMES EPISCOPAL CHURCH                                         EUFAULA                   AL  BARBOUR                    28.6%
+    4  CALVARY EPISCOPAL CHURCH                                          ONEONTA                   AL  BLOUNT                     13.7%
+    5  GRACE EPISCOPAL CHURCH                                            CULLMAN                   AL  CULLMAN                    12.7%
+    6  EPISCOPAL CHURCH OF THE HOLY COMFORTER                            GADSDEN                   AL  ETOWAH                     16.0%
+    7  CHRIST THE KING EPISCOPAL CHURCH GEC                              BIRMINGHAM                AL  JEFFERSON                  15.7%
+    8  PROTESTANT EPISCOPAL CHURCH IN DIOCESE OF ALABAMA                 BIRMINGHAM                AL  JEFFERSON                  15.7%
+    9  ST THOMAS EPISCOPAL CHURCH                                        VESTAVIA                  AL  JEFFERSON                  15.7%
+   10  THE EPISCOPAL CHURCH OF JESUS                                     BIRMINGHAM                AL  JEFFERSON                  15.7%
+   11  BLACK BELT MINISTRIES EPISCOPAL TRINITY EPISCOPAL CHURCH          DEMOPOLIS                 AL  MARENGO                    21.6%
+   12  ALL SAINTS EPISCOPAL CHURCH                                       MOBILE                    AL  MOBILE                     17.9%
+   13  ST JOHNS EPISCOPAL CHURCH                                         MOBILE                    AL  MOBILE                     17.9%
+   14  GRACE EPISCOPAL CHURCH MT MEIGS AL                                PIKE ROAD                 AL  MONTGOMERY                 18.8%
+   15  ST JOHNS EPISCOPAL CHURCH                                         MONTGOMERY                AL  MONTGOMERY                 18.8%
+   16  LAMB OF GOD CHARASMATIC EPISCOPAL CHURCH                          HELENA                    AL  SHELBY                      6.9%
+   17  ST NICHOLAS EPISCOPAL CHURCH                                      MAUMELLE                  AR  PULASKI                    14.5%
+   18  TRINITY EPISCOPAL CATHEDRAL                                       LITTLE ROCK               AR  PULASKI                    14.5%
+   19  ST PAULS EPISCOPAL CHURCH OF TOMBSTONE                            TOMBSTONE                 AZ  COCHISE                    15.5%
+   20  EPISCOPAL CHURCH OF THE EPIPHANY                                  FLAGSTAFF                 AZ  COCONINO                   15.2%
+   21  ALL SAINTS EPISCOPAL CHURCH                                       PHOENIX                   AZ  MARICOPA                   12.8%
+   22  EPISCOPAL CHURCH OF MIND                                          PHOENIX                   AZ  MARICOPA                   12.8%
+   23  EPISCOPAL CHURCH OF THE NATIVITY                                  SCOTTSDALE                AZ  MARICOPA                   12.8%
+   24  EPISCOPAL PARISH OF ST BARNABAS ON THE DESERT                     PARADISE VLY              AZ  MARICOPA                   12.8%
+   25  ST CHRISTOPHERS EPISCOPAL PARISH                                  SUN CITY                  AZ  MARICOPA                   12.8%
+   26  GRACE EPISCOPAL CHURCH                                            LK HAVASU CTY             AZ  MOHAVE                     15.9%
+   27  EPISCOPAL CHURCH OF ST MATTHEW                                    TUCSON                    AZ  PIMA                       15.9%
+   28  ALL SAINTS EPISCOPAL CHURCH                                       SAN LEANDRO               CA  ALAMEDA                     9.3%
+   29  ST JOHNS EPISCOPAL CHURCH IN OAKLAND CALIFORNIA                   OAKLAND                   CA  ALAMEDA                     9.3%
+   30  ST AUGUSTINE OF CANTERBURY EPISCOPAL CHURCH                       CHICO                     CA  BUTTE                      18.2%
+   31  EPISCOPAL CHURCH IN THE DIOCESE OF CALIFORNIA                     MORAGA                    CA  CONTRA COSTA                8.2%
+   32  GRACE EPISCOPAL CHURCH                                            MARTINEZ                  CA  CONTRA COSTA                8.2%
+   33  PROTESTANT EPISCOPAL CHURCH OF THE DIOCESE OF CALIFORNIA          WALNUT CREEK              CA  CONTRA COSTA                8.2%
+   34  ST GILES EPISCOPAL CHURCH                                         1928 Saint Mary's Rd      CA  CONTRA COSTA                8.2%
+   35  HOLY TRINITY PROTESTANT EPISCOPAL CHURCH                          WILLOWS                   CA  GLENN                      15.2%
+   36  ST PAULS EPISCOPAL PARISH OF BAKERSFIELD CALIFORNIA               BAKERSFIELD               CA  KERN                       20.4%
+   37  EPISCOPAL PARISH OF SAINT STEPHEN                                 WHITTIER                  CA  LOS ANGELES                14.2%
+   38  HOLY FAITH EPISCOPAL CHURCH                                       INGLEWOOD                 CA  LOS ANGELES                14.2%
+   39  PRINCE OF PEACE EPISCOPAL CHURCH                                  WOODLAND HLS              CA  LOS ANGELES                14.2%
+   40  ST JAMES EPISCOPAL CHURCH A CORP                                  LOS ANGELES               CA  LOS ANGELES                14.2%
+   41  ST PAULS EPISCOPAL CHURCH OF POMONA                               POMONA                    CA  LOS ANGELES                14.2%
+   42  ST STEPHENS EPISCOPAL CHURCH                                      LOS ANGELES               CA  LOS ANGELES                14.2%
+   43  ST COLUMBAS EPISCOPAL CHURCH                                      INVERNESS                 CA  MARIN                       6.9%
+   44  ST FRANCIS OF ASSISI EPISCOPAL CHURCH                             NOVATO                    CA  MARIN                       6.9%
+   45  ST JOHNS EPISCOPAL CHURCH ROSS                                    ROSS                      CA  MARIN                       6.9%
+   46  ALL SAINTS EPISCOPAL CHURCH                                       CARMEL                    CA  MONTEREY                   12.0%
+   47  EPIPHANY LUTHERAN AND EPISCOPAL CHURCH                            MARINA                    CA  MONTEREY                   12.0%
+   48  EPISCOPAL CHURCH OF THE GOOD SHEPHERD                             SALINAS                   CA  MONTEREY                   12.0%
+   49  ST DUNSTANS EPISCOPAL CHURCH                                      CARMEL                    CA  MONTEREY                   12.0%
+   50  ST GEORGES EPISCOPAL CHURCH                                       SALINAS                   CA  MONTEREY                   12.0%
+   51  ST JAMES EPISCOPAL CHURCH                                         MONTEREY                  CA  MONTEREY                   12.0%
+   52  ST JOHNS EPISCOPAL CHURCH                                         MONTEREY                  CA  MONTEREY                   12.0%
+   53  ST MARKS EPISCOPAL CHURCH                                         KING CITY                 CA  MONTEREY                   12.0%
+   54  ST MARYS BY THE SEA EPISCOPAL CHURCH                              PACIFIC GROVE             CA  MONTEREY                   12.0%
+   55  ST MATTHEWS EPISCOPAL CHURCH                                      SAN ARDO                  CA  MONTEREY                   12.0%
+   56  ST PAULS SAN PABLO EPISCOPAL CHURCH                               SALINAS                   CA  MONTEREY                   12.0%
+   57  EMMANUEL EPISCOPAL CHURCH                                         GRASS VALLEY              CA  NEVADA                      9.5%
+   58  ALL SAINTS ANGLICAN EPISCOPAL CHURCH                              FOUNTAIN VLY              CA  ORANGE                     10.1%
+   59  ST ANDREWS EPISCOPAL CHURCH IRVINE                                IRVINE                    CA  ORANGE                     10.1%
+   60  ST JAMES EPISCOPAL CHURCH NEWPORT BEACH                           NEWPORT BEACH             CA  ORANGE                     10.1%
+   61  ST JOHN THE DIVINE EPISCOPAL CHURCH RECTOR WARDENS VESTRY         COSTA MESA                CA  ORANGE                     10.1%
+   62  ST LUKES PROTESTANT EPISCOPAL CHURCH OF AUBURN                    AUBURN                    CA  PLACER                      7.1%
+   63  ALL SAINTS EPISCOPAL CHURCH RIVERSIDE                             RIVERSIDE                 CA  RIVERSIDE                  12.5%
+   64  GENERAL SYNOD OF THE SARUM EPISCOPAL CHURCH                       MORENO VALLEY             CA  RIVERSIDE                  12.5%
+   65  HEMET EPISCOPAL CHURCH OF GOOD SHEPHERD                           HEMET                     CA  RIVERSIDE                  12.5%
+   66  ST MARGARETS EPISCOPAL CHURCH PALM DESERT                         PALM DESERT               CA  RIVERSIDE                  12.5%
+   67  EPISCOPAL CHURCH IN THE DIOCESE OF NORTHERN CALIFORNIA            SACRAMENTO                CA  SACRAMENTO                 13.9%
+   68  CHRIST EPISCOPAL CHURCH                                           CORONADO                  CA  SAN DIEGO                  10.9%
+   69  EPISCOPAL CHURCH OF SAINT ANDREW THE APOSTLE                      ENCINITAS                 CA  SAN DIEGO                  10.9%
+   70  RECTOR WARDENS VESTRYMEN OF ST ANDREWS BY SEA EPISCOPAL PARISH SD SAN DIEGO                 CA  SAN DIEGO                  10.9%
+   71  SAINT DAVIDS EPISCOPAL CHURCH                                     SAN DIEGO                 CA  SAN DIEGO                  10.9%
+   72  ST JOHNS PARISH EPISCOPAL FALLBROOK CALIFORNIA                    FALLBROOK                 CA  SAN DIEGO                  10.9%
+   73  EPISCOPAL CHURCH OF THE INCARNATION                               SAN FRANCISCO             CA  SAN FRANCISCO              10.1%
+   74  PROTESTANT EPISCOPAL CHURCH IN THE DIOCSES OF CALIFORNIA          SAN FRANCISCO             CA  SAN FRANCISCO              10.1%
+   75  ST CHRISTOPHERS EPISCOPAL CHURCH INC SAN LORENZO                  SAN FRANCISCO             CA  SAN FRANCISCO              10.1%
+   76  ST FRANCIS EPISCOPAL CHURCH                                       SAN FRANCISCO             CA  SAN FRANCISCO              10.1%
+   77  ST BARNABAS EPISCOPAL CHURCH                                      ARROYO GRANDE             CA  SAN LUIS OBISPO            11.1%
+   78  ST PAULS EPISCOPAL CHURCH                                         CAMBRIA                   CA  SAN LUIS OBISPO            11.1%
+   79  ST PETERS BY THE SEA EPISCOPAL CHURCH                             MORRO BAY                 CA  SAN LUIS OBISPO            11.1%
+   80  EPISCOPAL CHURCH OF THE EPIPHANY IN SAN CARLOS CALIFORNIA         SAN CARLOS                CA  SAN MATEO                   6.2%
+   81  ST ANDREWS EPISCOPAL CHURCH IN SAN BRUNO                          SAN BRUNO                 CA  SAN MATEO                   6.2%
+   82  ST MARYS EPISCOPAL CHURCH                                         LOMPOC                    CA  SANTA BARBARA              12.9%
+   83  ALL SAINTS EPISCOPAL CHURCH PALO ALTO                             PALO ALTO                 CA  SANTA CLARA                 7.2%
+   84  EPISCOPAL CHURCH IN ALMADEN                                       SAN JOSE                  CA  SANTA CLARA                 7.2%
+   85  EPISCOPAL CHURCH IN THE DIOCESE OF EL CAMINO REAL                 CAMPBELL                  CA  SANTA CLARA                 7.2%
+   86  GOOD SAMARITAN EPISCOPAL CHURCH                                   SAN JOSE                  CA  SANTA CLARA                 7.2%
+   87  SAINT MICHAEL ALL ANGELS ANGLICAN EPISCOPAL CHURCH                SAN JOSE                  CA  SANTA CLARA                 7.2%
+   88  ST ANDREWS EPISCOPAL CHURCH                                       SARATOGA                  CA  SANTA CLARA                 7.2%
+   89  ST JOHN THE DIVINE EPISCOPAL CHURCH                               MORGAN HILL               CA  SANTA CLARA                 7.2%
+   90  ST JUDES EPISCOPAL CHURCH                                         CUPERTINO                 CA  SANTA CLARA                 7.2%
+   91  ST LUKES EPISCOPAL CHURCH                                         LOS GATOS                 CA  SANTA CLARA                 7.2%
+   92  ST PHILIPS EPISCOPAL CHURCH                                       SAN JOSE                  CA  SANTA CLARA                 7.2%
+   93  ST STEPHENS EPISCOPAL CHURCH                                      GILROY                    CA  SANTA CLARA                 7.2%
+   94  ST STEPHENS IN THE FIELD EPISCOPAL CHURCH                         SAN JOSE                  CA  SANTA CLARA                 7.2%
+   95  ST THOMAS EPISCOPAL CHURCH                                        SUNNYVALE                 CA  SANTA CLARA                 7.2%
+   96  ST TIMOTHYS EPISCOPAL CHURCH                                      MOUNTAIN VIEW             CA  SANTA CLARA                 7.2%
+   97  ALL SAINTS EPISCOPAL CHURCH CRISTO REY                            WATSONVILLE               CA  SANTA CRUZ                 11.9%
+   98  CALVARY EPISCOPAL CHURCH                                          SANTA CRUZ                CA  SANTA CRUZ                 11.9%
+   99  ST JOHN THE BAPTIST EPISCOPAL CHURCH                              APTOS                     CA  SANTA CRUZ                 11.9%
+  100  ST PHILIP THE APOSTLE EPISCOPAL CHURCH                            SCOTTS VALLEY             CA  SANTA CRUZ                 11.9%
+  101  ST BRIGID OF KILDARE EPISCOPAL CHURCH RIO VISTA CALIFORNIA        RIO VISTA                 CA  SOLANO                      9.1%
+  102  ST PETERS EPISCOPAL CHURCH OF RED BLUFF                           RED BLUFF                 CA  TEHAMA                     18.8%
+  103  COMMUNITY OF CHRIST LUTHERAN EPISCOPAL CHURCH                     WESTMINSTER               CO  ADAMS                       9.9%
+  104  ST MARTIN IN THE FIELDS EPISCOPAL CHURCH                          AURORA                    CO  ARAPAHOE                    7.8%
+  105  ST STEPHENS EPISCOPAL CHURCH                                      AURORA                    CO  ARAPAHOE                    7.8%
+  106  ST LUKES EPISCOPAL CHURCH OF DELTA                                DELTA                     CO  DELTA                      18.1%
+  107  ST LUKES EPISCOPAL CHURCH                                         DENVER                    CO  DENVER                     11.9%
+  108  CHAPEL OF OUR SAVIOUR EPISCOPAL CHURCH                            COLORADO SPGS             CO  EL PASO                     9.8%
+  109  CHURCH OF ST MICHAEL THE ARCHANGEL EPISCOPAL                      COLORADO SPGS             CO  EL PASO                     9.8%
+  110  PRINCE OF PEACE EPISCOPAL CHURCH                                  STERLING                  CO  LOGAN                      10.8%
+  111  ST BARNABAS EPISCOPAL CHURCH                                      CORTEZ                    CO  MONTEZUMA                  12.4%
+  112  CHRIST EPISCOPAL CHURCH                                           GREENWICH                 CT  FAIRFIELD                   8.9%
+  113  FRIENDS OF THE EPISCOPAL CHURCH IN CUBA                           DARIEN                    CT  FAIRFIELD                   8.9%
+  114  PARISH OF CHRIST EPISCOPAL CHURCH EASTON                          EASTON                    CT  FAIRFIELD                   8.9%
+  115  SAINT SAVIORS EPISCOPAL CHURCH                                    OLD GREENWICH             CT  FAIRFIELD                   8.9%
+  116  ST BARNABAS EPISCOPAL CHURCH                                      GREENWICH                 CT  FAIRFIELD                   8.9%
+  117  GRACE CHURCH                                                      WEST HARTFORD             CT  HARTFORD                   10.8%
+  118  CALVARY EPISCOPAL CHURCH                                          STONINGTON                CT  NEW LONDON                  8.5%
+  119  ST MARKS EPISCOPAL CHURCH                                         MYSTIC                    CT  NEW LONDON                  8.5%
+  120  ST JOHNS EPISCOPAL CHURCH VERNON CT                               VERNON                    CT  TOLLAND                     7.9%
+  121  ALL SOULS MEMORIAL EPISCOPAL CHURCH                               WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  122  CALVARY EPISCOPAL CHURCH                                          WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  123  EPISCOPAL CHURCH OF OUR SAVIOUR                                   WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  124  GRACE EPISCOPAL CHURCH                                            WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  125  SAINT ANDREWS PROTESTANT EPISCOPAL CHURCH                         WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  126  SAINT LUKES PROTESTANT EPISCOPAL CHURCH                           WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  127  ST AUGUSTINES EPISCOPAL CHURCH                                    WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  128  ST GEORGE EPISCOPAL CHURCH                                        WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  129  ST JOHNS EPISCOPAL CHURCH                                         WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  130  ST MARYS EPISCOPAL CHURCH                                         WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  131  ST PATRICKS EPISCOPAL CHURCH                                      WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  132  STMARKS EPISCOPAL CHURCH                                          WASHINGTON                DC  DISTRICT OF COLUMBIA       15.5%
+  133  CALVARY EPISCOPAL CHURCH OF HILLCREST                             WILMINGTON                DE  NEW CASTLE                 10.7%
+  134  EPISCOPAL CHURCH OF TH BLESSED REDEEMER                           PALM BAY                  FL  BREVARD                    11.2%
+  135  GLORIA DEI EPISCOPAL CHURCH                                       COCOA                     FL  BREVARD                    11.2%
+  136  ST DAVID S BY THE SEA EPISCOPAL CHURCH                            COCOA BEACH               FL  BREVARD                    11.2%
+  137  ST GABRIELS EPISCOPAL CHURCH                                      TITUSVILLE                FL  BREVARD                    11.2%
+  138  AMERICAN EPISCOPAL CHURCH INC                                     DEERFIELD BEACH           FL  BROWARD                    12.7%
+  139  DIOCESE OF SOUTHEAST FLORIDA INC EPISCOPAL CHURCH OF THE ATONEMEN LAUD LAKES                FL  BROWARD                    12.7%
+  140  ST AMBROSE EPISCOPAL CHURCH INC                                   FT LAUDERDALE             FL  BROWARD                    12.7%
+  141  ST JAMES IN THE HILLS EPISCOPAL CHURCH INC                        HOLLYWOOD                 FL  BROWARD                    12.7%
+  142  ST JAMES EPISCOPAL CHURCH INC                                     PT CHARLOTTE              FL  CHARLOTTE                  10.6%
+  143  SHEPHERD OF THE HILLS EPISCOPAL CHURCH INC                        LECANTO                   FL  CITRUS                     15.0%
+  144  ST ANNE S EPISCOPAL CHURCH                                        CRYSTAL RIVER             FL  CITRUS                     15.0%
+  145  ST MARGARETS EPISCOPAL CHURCH OF INVERNESS FLORIDA INC            INVERNESS                 FL  CITRUS                     15.0%
+  146  ST JOHNS EPISCOPAL CHURCH OF NAPLES INC                           NAPLES                    FL  COLLIER                    11.0%
+  147  ST MARKS EPISCOPAL CHURCH COLLIER BLVD                            MARCO ISLAND              FL  COLLIER                    11.0%
+  148  ST MONICAS EPISCOPAL CHURCH                                       NAPLES                    FL  COLLIER                    11.0%
+  149  ST PAULS EPISCOPAL CHURCH OF NAPLES INC                           NAPLES                    FL  COLLIER                    11.0%
+  150  TRINITY BY THE COVE EPISCOPAL CHURCH                              NAPLES                    FL  COLLIER                    11.0%
+  151  EPISCOPAL CHURCH IN THE DIOCESE OF FLORIDA                        JACKSONVILLE              FL  DUVAL                      14.5%
+  152  ST PAULS BY THE SEA EPISCOPAL CHURCH                              JAX BCH                   FL  DUVAL                      14.5%
+  153  SAINT CHRISTOPHERS EPISCOPAL CHURCH                               PENSACOLA                 FL  ESCAMBIA                   14.0%
+  154  SAINT ANDREWS EPISCOPAL CHURCH                                    SPRING HILL               FL  HERNANDO                   14.4%
+  155  ST FRANCES OF ASSISSI EPISCOPAL CHURCH                            LAKE PLACID               FL  HIGHLANDS                  16.0%
+  156  GRACE EPISCOPAL CHURCH INC                                        TAMPA                     FL  HILLSBOROUGH               14.0%
+  157  HOLY INNOCENTS EPISCOPAL CHURCH                                   VALRICO                   FL  HILLSBOROUGH               14.0%
+  158  ST CHADS EPISCOPAL CHURCH                                         TAMPA                     FL  HILLSBOROUGH               14.0%
+  159  ST CLEMENTS EPISCOPAL CHURCH                                      TAMPA                     FL  HILLSBOROUGH               14.0%
+  160  ST FRANCIS EPISCOPAL CHURCH                                       TAMPA                     FL  HILLSBOROUGH               14.0%
+  161  ST JOHN THE DIVINE EPISCOPAL CHURCH                               SUN CITY CTR              FL  HILLSBOROUGH               14.0%
+  162  ST MARYS EPISCOPAL CHURCH                                         TAMPA                     FL  HILLSBOROUGH               14.0%
+  163  ST PETERS EPISCOPAL CHURCH                                        PLANT CITY                FL  HILLSBOROUGH               14.0%
+  164  ST ELIZABETHS EPISCOPAL CHURCH INC                                SEBASTIAN                 FL  INDIAN RIVER               10.3%
+  165  CORPUS CHRISTI EPISCOPAL CHURCH                                   OKAHUMPKA                 FL  LAKE                       11.1%
+  166  SAINT THOMAS EPISCOPAL CHURCH                                     EUSTIS                    FL  LAKE                       11.1%
+  167  ST EDWARDS EPISCOPAL CHURCH                                       MOUNT DORA                FL  LAKE                       11.1%
+  168  ST GEORGE EPISCOPAL CHURCH                                        LADY LAKE                 FL  LAKE                       11.1%
+  169  ST JAMES EPISCOPAL CHURCH                                         LEESBURG                  FL  LAKE                       11.1%
+  170  ST MATTHIAS EPISCOPAL CHURCH                                      CLERMONT                  FL  LAKE                       11.1%
+  171  ALL SOULS EPISCOPAL CHURCH                                        N FT MYERS                FL  LEE                        11.8%
+  172  ST HILARYS EPISCOPAL CHURCH                                       FORT MYERS                FL  LEE                        11.8%
+  173  ST LUKES EPISCOPAL CHURCH                                         FORT MYERS                FL  LEE                        11.8%
+  174  ST MICHAEL AND ALL ANGELS EPISCOPAL CHURCH                        SANIBEL                   FL  LEE                        11.8%
+  175  ST ALBANS EPISCOPAL CHURCH INC                                    PARRISH                   FL  MANATEE                    11.0%
+  176  ST GEORGES EPISCOPAL CHURCH                                       BRADENTON                 FL  MANATEE                    11.0%
+  177  ST MARY EPISCOPAL CHURCH                                          PALMETTO                  FL  MANATEE                    11.0%
+  178  ST MARY MAGDALENE EPISCOPAL CHURCH                                LAKEWOOD RCH              FL  MANATEE                    11.0%
+  179  EPISCOPAL CHURCH OF ST MARY                                       BELLEVIEW                 FL  MARION                     15.5%
+  180  GRACE EPISCOPAL CHURCH                                            OCALA                     FL  MARION                     15.5%
+  181  HOLY FAITH EPISCOPAL CHURCH                                       DUNNELLON                 FL  MARION                     15.5%
+  182  ST PATRICK EPISCOPAL CHURCH                                       OCALA                     FL  MARION                     15.5%
+  183  ALL ANGELS EPISCOPAL CHURCH INC DIOCESE OF SOUTHEAST FLORIDA INC  MIAMI SPRINGS             FL  MIAMI-DADE                 16.0%
+  184  DIOCESE OF SOUTHEAST FLORIDA INC ALL SOULS EPISCOPAL CHURCH       MIAMI BEACH               FL  MIAMI-DADE                 16.0%
+  185  DIOCESE OF SOUTHEAST FLORIDA INC EPISCOPAL CHURCH OF THE HOLY FAM MIAMI GARDENS             FL  MIAMI-DADE                 16.0%
+  186  DIOCESE OF SOUTHEAST FLORIDA INC HOLY COMFORTER EPISCOPAL CHURCH  MIAMI                     FL  MIAMI-DADE                 16.0%
+  187  DIOCESE OF SOUTHEAST FLORIDA INC ST JOHNS EPISCOPAL CHURCH        HOMESTEAD                 FL  MIAMI-DADE                 16.0%
+  188  DIOCESE OF SOUTHEAST FLORIDA INC ST PHILIPS EPISCOPAL CHURCH      CORAL GABLES              FL  MIAMI-DADE                 16.0%
+  189  DIOCESE OF SOUTHEAST FLORIDA INC ST STEPHENS EPISCOPAL CHURCH     MIAMI                     FL  MIAMI-DADE                 16.0%
+  190  ST AGNES EPISCOPAL CHURCH                                         MIAMI                     FL  MIAMI-DADE                 16.0%
+  191  ST ANDREWS EPISCOPAL CHURCH                                       PALMETTO BAY              FL  MIAMI-DADE                 16.0%
+  192  ST BERNARD DE CLAIRVAUX EPISCOPAL CHURCH                          N MIAMI BEACH             FL  MIAMI-DADE                 16.0%
+  193  ST JOHNS EPISCOPAL CHURCH                                         MIAMI                     FL  MIAMI-DADE                 16.0%
+  194  TRINITY EPISCOPAL CATHEDRAL                                       MIAMI                     FL  MIAMI-DADE                 16.0%
+  195  ST PETERS EPISCOPAL CHURCH OF KEY WEST FLORIDA INC                KEY WEST                  FL  MONROE                     10.6%
+  196  THE CHURCH OF OUR SAVIOUR EPISCOPAL INC                           OKEECHOBEE                FL  OKEECHOBEE                 17.8%
+  197  CHURCH OF THE HOLY SPIRIT EPISCOPAL                               APOPKA                    FL  ORANGE                     14.2%
+  198  CHURCH OF THE MESSIAH EPISCOPAL                                   WINTER GARDEN             FL  ORANGE                     14.2%
+  199  EPISCOPAL CHURCH OF THE ASCENSION                                 WINDERMERE                FL  ORANGE                     14.2%
+  200  EPISCOPAL CHURCH OF THE GOOD SHEPHERD INC                         MAITLAND                  FL  ORANGE                     14.2%
+  201  ST RICHARDS EPISCOPAL CHURCH                                      WINTER PARK               FL  ORANGE                     14.2%
+  202  DIOCESE OF SOUTHEAST FLORIDA INC ST CUTHBERTS EPISCOPAL CHURCH    LANTANA                   FL  PALM BEACH                 11.6%
+  203  DIOCESE OF SOUTHEAST FLORIDA INC ST MATTHEWS EPISCOPAL CHURCH     DELRAY BEACH              FL  PALM BEACH                 11.6%
+  204  DIOCESE OF SOUTHEAST FLORIDA ST LUKE EPISCOPAL CHURCH AIA AT COVE BELLE GLADE               FL  PALM BEACH                 11.6%
+  205  EPISCOPAL CHURCH OF THE GOOD SHEPHERD OF TEQUESTA INC             TEQUESTA                  FL  PALM BEACH                 11.6%
+  206  HOLY SPIRIT EPISCOPAL CHURCH                                      WEST PALM BCH             FL  PALM BEACH                 11.6%
+  207  HOLY TRINITY EPISCOPAL CHURCH                                     WEST PALM BCH             FL  PALM BEACH                 11.6%
+  208  ST CHRISTOPHER EPISCOPAL CHURCH                                   WEST PALM BCH             FL  PALM BEACH                 11.6%
+  209  ST DAVID IN THE PINES EPISCOPAL CHURCH                            WELLINGTON                FL  PALM BEACH                 11.6%
+  210  ST GEORGES EPISCOPAL CHURCH                                       RIVIERA BEACH             FL  PALM BEACH                 11.6%
+  211  ST JOSEPHS EPISCOPAL CHURCH                                       BOYNTON BEACH             FL  PALM BEACH                 11.6%
+  212  ST PATRICKS EPISCOPAL CHURCH                                      WEST PALM BCH             FL  PALM BEACH                 11.6%
+  213  ST ELIZABETHS EPISCOPAL CHURCH OF ZEPHYRHILLS INC                 ZEPHYRHILLS               FL  PASCO                      12.3%
+  214  ST STEPHENS EPISCOPAL CHURCH                                      NEW PRT RCHY              FL  PASCO                      12.3%
+  215  CALVARY EPISCOPAL CHURCH                                          INDIAN RK BCH             FL  PINELLAS                   11.6%
+  216  HOLY TRINITY EPISCOPAL CHURCH IN COUNTRYSIDE INC                  CLEARWATER                FL  PINELLAS                   11.6%
+  217  RESURRECTION EPISCOPAL CHURCH                                     LARGO                     FL  PINELLAS                   11.6%
+  218  ST ALFREDS EPISCOPAL CHURCH                                       PALM HARBOR               FL  PINELLAS                   11.6%
+  219  ST AUGUSTINES EPISCOPAL CHURCH                                    ST PETERSBURG             FL  PINELLAS                   11.6%
+  220  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  ST PETERSBURG             FL  PINELLAS                   11.6%
+  221  ST MATTHEWS EPISCOPAL CHURCH                                      ST PETERSBURG             FL  PINELLAS                   11.6%
+  222  ST THOMAS EPISCOPAL CHURCH                                        ST PETERSBURG             FL  PINELLAS                   11.6%
+  223  ST VINCENTS EPISCOPAL CHURCH                                      ST PETERSBURG             FL  PINELLAS                   11.6%
+  224  THE TRADITIONAL EPISCOPAL CHURCH INC                              PALM HARBOR               FL  PINELLAS                   11.6%
+  225  ALL SAINTS EPISCOPAL CHURCH                                       LAKELAND                  FL  POLK                       15.1%
+  226  CHRIST CHURCH EPISCOPAL                                           FT MEADE                  FL  POLK                       15.1%
+  227  CHRIST THE KING EPISCOPAL CHURCH                                  LAKELAND                  FL  POLK                       15.1%
+  228  ST DAVIDS EPISCOPAL CHURCH OF LAKELAND INC                        LAKELAND                  FL  POLK                       15.1%
+  229  ST LUKE EPISCOPAL CHURCH                                          MULBERRY                  FL  POLK                       15.1%
+  230  ST STEPHENS EPISCOPAL CHURCH HWY 540 A                            LAKELAND                  FL  POLK                       15.1%
+  231  ST DAVIDS EPISCOPAL CHURCH                                        ENGLEWOOD                 FL  SARASOTA                    8.7%
+  232  ST MARKS EPISCOPAL CHURCH                                         VENICE                    FL  SARASOTA                    8.7%
+  233  ST NATHANIELS EPISCOPAL CHURCH                                    NORTH PORT                FL  SARASOTA                    8.7%
+  234  ST WILFREDS EPISCOPAL CHURCH                                      SARASOTA                  FL  SARASOTA                    8.7%
+  235  CHRIST EPISCOPAL CHURCH INC                                       LONGWOOD                  FL  SEMINOLE                    9.8%
+  236  EPISCOPAL CHURCH OF THE RESURRECTION                              LONGWOOD                  FL  SEMINOLE                    9.8%
+  237  HOLY CROSS EPISCOPAL CHURCH                                       SANFORD                   FL  SEMINOLE                    9.8%
+  238  ST PETERS EPISCOPAL CHURCH INC                                    LAKE MARY                 FL  SEMINOLE                    9.8%
+  239  COMMUNION OF EPISCOPAL CONVERGENCE CHURCHES USA INC               PONTE VEDRA               FL  ST. JOHNS                   7.7%
+  240  ALL SAINTS EPISCOPAL CHURCH OF ENTERPRISE INC                     ENTERPRISE                FL  VOLUSIA                    13.2%
+  241  SAINT PAULS EPISCOPAL CHURCH                                      NEW SMYRNA                FL  VOLUSIA                    13.2%
+  242  ST BARNABAS EPISCOPAL CHURCH                                      DELAND                    FL  VOLUSIA                    13.2%
+  243  ST JUDES EPISCOPAL CHURCH                                         ORANGE CITY               FL  VOLUSIA                    13.2%
+  244  ST PETER THE FISHERMAN EPISCOPAL CHURCH INC                       NEW SMYRNA                FL  VOLUSIA                    13.2%
+  245  ST ANTHONYS EPISCOPAL CHURCH                                      WINDER                    GA  BARROW                     11.2%
+  246  SAINT FRANCIS EPISCOPAL CHURCH                                    MACON                     GA  BIBB                       25.0%
+  247  SAINT JAMES EPISCOPAL CHURCH                                      MACON                     GA  BIBB                       25.0%
+  248  SAINT PAULS EPISCOPAL CHURCH                                      MACON                     GA  BIBB                       25.0%
+  249  CHRIST EPISCOPAL CHURCH                                           SAINT MARYS               GA  CAMDEN                     14.9%
+  250  ST MARGARETS EPISCOPAL CHURCH                                     CARROLLTON                GA  CARROLL                    16.3%
+  251  ST CLEMENT EPISCOPAL CHURCH INC                                   CANTON                    GA  CHEROKEE                    6.9%
+  252  EMMANUEL EPISCOPAL CHURCH                                         ATHENS                    GA  CLARKE                     26.5%
+  253  ST GREGORY THE GREAT EPISCOPAL CHURCH                             ATHENS                    GA  CLARKE                     26.5%
+  254  ST GREGORYS EPISCOPAL CHURCH INC                                  ATHENS                    GA  CLARKE                     26.5%
+  255  EPISCOPAL CHURCH OF ST PETER AND ST PAUL                          MARIETTA                  GA  COBB                        8.6%
+  256  ST BENEDICTS EPISCOPAL CHURCH LLC                                 SMYRNA                    GA  COBB                        8.6%
+  257  ST CATHERINE EPISCOPAL CHURCH INC                                 MARIETTA                  GA  COBB                        8.6%
+  258  ST JAMES EPISCOPAL CHURCH MARIETTA                                MARIETTA                  GA  COBB                        8.6%
+  259  ST TERESAS EPISCOPAL CHURCH                                       ACWORTH                   GA  COBB                        8.6%
+  260  ST BEDES EPISCOPAL CHURCH                                         ATLANTA                   GA  DEKALB                     14.4%
+  261  ST MARTIN IN THE FIELDS EPISCOPAL CHURCH                          ATLANTA                   GA  DEKALB                     14.4%
+  262  ST MICHAEL ALL ANGELS EPISCOPAL CHURCH                            STONE MOUNTAIN            GA  DEKALB                     14.4%
+  263  ST PATRICKS EPISCOPAL CHURCH                                      ATLANTA                   GA  DEKALB                     14.4%
+  264  ST TIMOTHYS EPISCOPAL CHURCH INC                                  DECATUR                   GA  DEKALB                     14.4%
+  265  ST JULIANS EPISCOPAL CHURCH                                       DOUGLASVILLE              GA  DOUGLAS                    11.5%
+  266  ST LUKES EPISCOPAL CHURCH                                         RINCON                    GA  EFFINGHAM                   7.4%
+  267  ST ALBANS EPISCOPAL CHURCH                                        ELBERTON                  GA  ELBERT                     24.5%
+  268  E C W THE EPISCOPAL CHURCH OF THE NATIVITY                        FAYETTEVILLE              GA  FAYETTE                     4.7%
+  269  ST ANDREWS IN THE PINES EPISCOPAL CHURCH                          PEACHTREE CTY             GA  FAYETTE                     4.7%
+  270  EPISCOPAL CHURCH OF THE HOLY SPIRIT PILGRIM MILL RD               CUMMING                   GA  FORSYTH                     5.2%
+  271  ANGLICAN EPISCOPAL CHURCH OF NA INC                               ATLANTA                   GA  FULTON                     13.4%
+  272  HOLY INNOCENTS EPISCOPAL CHURCH                                   ATLANTA                   GA  FULTON                     13.4%
+  273  ST ANNES EPISCOPAL CHURCH INC                                     ATLANTA                   GA  FULTON                     13.4%
+  274  ST DAVIDS EPISCOPAL CHURCH                                        ROSWELL                   GA  FULTON                     13.4%
+  275  ST DUNSTANS EPISCOPAL CHURCH                                      ATLANTA                   GA  FULTON                     13.4%
+  276  ST JOHNS EPISCOPAL CHURCH                                         COLLEGE PARK              GA  FULTON                     13.4%
+  277  ST PAULS EPISCOPAL CHURCH                                         ATLANTA                   GA  FULTON                     13.4%
+  278  CHRIST EPISCOPAL CHURCH OF FREDERICA                              ST SIMONS IS              GA  GLYNN                      17.1%
+  279  SAINT TIMOTHYS EPISCOPAL CHURCH                                   CALHOUN                   GA  GORDON                     15.9%
+  280  CHRIST THE KING EPISCOPAL CHURCH                                  DULUTH                    GA  GWINNETT                   10.5%
+  281  EPISCOPAL CHURCH OF ST MARY ST MARTHA OF BETHANY                  BUFORD                    GA  GWINNETT                   10.5%
+  282  ST COLUMBAS EPISCOPAL CHURCH                                      SUWANEE                   GA  GWINNETT                   10.5%
+  283  ST EDWARDS EPISCOPAL CHURCH                                       LAWRENCEVILLE             GA  GWINNETT                   10.5%
+  284  ST MATTHEWS EPISCOPAL CHURCH                                      SNELLVILLE                GA  GWINNETT                   10.5%
+  285  GRACE CALVARY EPISCOPAL CHURCH INC CORNER WILSON GREEN STREETS    CLARKESVILLE              GA  HABERSHAM                  13.6%
+  286  GRACE EPISCOPAL CHURCH                                            GAINESVILLE               GA  HALL                       14.0%
+  287  ST NICHOLAS EPISCOPAL CHURCH INC                                  HAMILTON                  GA  HARRIS                      5.8%
+  288  ST JOSEPHS EPISCOPAL CHURCH                                       MCDONOUGH                 GA  HENRY                       9.1%
+  289  ALL SAINTS EPISCOPAL CHURCH                                       WARNER ROBINS             GA  HOUSTON                    11.6%
+  290  ST CHRISTOPHERS AT THE CROSSROADS EPISCOPAL CHURCH                PERRY                     GA  HOUSTON                    11.6%
+  291  ST ELIZABETHS EPISCOPAL CHURCH INC                                DAHLONEGA                 GA  LUMPKIN                    14.1%
+  292  ST MARYS EPISCOPAL CHURCH                                         MONTEZUMA                 GA  MACON                      28.6%
+  293  ST PAUL AFRICIAN MEDETHODIST EPISCOPAL CHURCH                     MADISON                   GA  MORGAN                      7.7%
+  294  ST MARY MAGDALENE EPISCOPAL CHURCH                                COLUMBUS                  GA  MUSCOGEE                   20.0%
+  295  ST THOMAS EPISCOPAL CHURCH                                        COLUMBUS                  GA  MUSCOGEE                   20.0%
+  296  TRINITY EPISCOPAL CHURCH                                          COLUMBUS                  GA  MUSCOGEE                   20.0%
+  297  SAINT ANDREWS EPISCOPAL CHURCH                                    FORT VALLEY               GA  PEACH                      20.9%
+  298  EPISCOPAL CHURCH OF THE HOLY FAMILY                               JASPER                    GA  PICKENS                    11.7%
+  299  ST JAMES EPISCOPAL CHURCH                                         CEDARTOWN                 GA  POLK                       18.3%
+  300  ALL ANGELS EPISCOPAL CHURCH                                       EATONTON                  GA  PUTNAM                     18.7%
+  301  ST GEORGES EPISCOPAL CHURCH                                       GRIFFIN                   GA  SPALDING                   17.5%
+  302  SAINT MATTHIAS EPISCOPAL CHURCH INCORPORATED                      TOCCOA                    GA  STEPHENS                   13.9%
+  303  ST MARKS EPISCOPAL CHURCH                                         LAGRANGE                  GA  TROUP                      19.6%
+  304  ST CLARES EPISCOPAL CHURCH INC                                    BLAIRSVILLE               GA  UNION                      15.8%
+  305  ST THOMAS OF CANTERBURY EPISCOPAL CHURCH                          THOMASTON                 GA  UPSON                      20.4%
+  306  SAINT MARKS EPISCOPAL CHURCH OF DALTON INC                        DALTON                    GA  WHITFIELD                  16.2%
+  307  CHRIST CHURCH EPISCOPAL                                           KEALAKEKUA                HI  HAWAII                     14.0%
+  308  EPISCOPAL CHURCH OF ST JUDE                                       OCEANVIEW                 HI  HAWAII                     14.0%
+  309  ST JAMES EPISCOPAL CHURCH                                         KAMUELA                   HI  HAWAII                     14.0%
+  310  CALVARY EPISCOPAL CHURCH                                          KANEOHE                   HI  HONOLULU                    8.4%
+  311  EMMANUEL EPISCOPAL CHURCH                                         KAILUA                    HI  HONOLULU                    8.4%
+  312  EPISCOPAL CHURCH IN HAWAII                                        HONOLULU                  HI  HONOLULU                    8.4%
+  313  ST ELIZABETHS EPISCOPAL CHURCH                                    HONOLULU                  HI  HONOLULU                    8.4%
+  314  ST GEORGES EPISCOPAL CHURCH                                       HONOLULU                  HI  HONOLULU                    8.4%
+  315  ST LUKES EPISCOPAL CHURCH                                         HONOLULU                  HI  HONOLULU                    8.4%
+  316  ST MARKS EPISCOPAL CHURCH                                         HONOLULU                  HI  HONOLULU                    8.4%
+  317  ST MARYS EPISCOPAL CHURCH                                         HONOLULU                  HI  HONOLULU                    8.4%
+  318  ST MATTHEWS EPISCOPAL CHURCH WAIMANALO                            WAIMANALO                 HI  HONOLULU                    8.4%
+  319  ST PETERS EPISCOPAL CHURCH                                        HONOLULU                  HI  HONOLULU                    8.4%
+  320  ST STEPHENS EPISCOPAL CHURCH                                      WAHIAWA                   HI  HONOLULU                    8.4%
+  321  WAIKIKI EPISCOPAL CHAPEL                                          HONOLULU                  HI  HONOLULU                    8.4%
+  322  CHRIST MEMORIAL EPISCOPAL CHURCH                                  KILAUEA                   HI  KAUAI                       7.9%
+  323  EPISCOPAL CHURCH ON WEST KAUAI                                    ELEELE                    HI  KAUAI                       7.9%
+  324  ST THOMAS EPISCOPAL CHURCH                                        HANALEI                   HI  KAUAI                       7.9%
+  325  GRACE EPISCOPAL CHURCH                                            HOOLEHUA                  HI  MAUI                        9.0%
+  326  PARISH OF GOOD SHEPHERD EPISCOPAL CHURCH                          WAILUKU                   HI  MAUI                        9.0%
+  327  ST JOHNS EPISCOPAL CHURCH                                         KULA                      HI  MAUI                        9.0%
+  328  TRINITY EPISCOPAL CHURCH BY THE SEA                               KIHEI                     HI  MAUI                        9.0%
+  329  TRINITY EPISCOPAL CHURCH                                          IOWA CITY                 IA  JOHNSON                    17.2%
+  330  CHRIST EPISCOPAL CHURCH                                           CEDAR RAPIDS              IA  LINN                        9.4%
+  331  ST LUKES EPISCOPAL CHURCH                                         DES MOINES                IA  POLK                       10.4%
+  332  ST PETERS EPISCOPAL CHURCH                                        BETTENDORF                IA  SCOTT                      11.9%
+  333  EPISCOPAL CHURCH IN IDAHO INC                                     BOISE                     ID  ADA                         9.3%
+  334  EPISCOPAL PARISH OF THE HOLY TRINITY ST ANDREW                    POCATELLO                 ID  BANNOCK                    14.0%
+  335  INDEPENDNET EPISCOPAL CHURCH OF NORTH AMERICA                     POST FALLS                ID  KOOTENAI                   10.3%
+  336  EPISCOPAL CHURCH COUNCIL AT THE UNIVERSITY OF CHICAGO             CHICAGO                   IL  COOK                       13.7%
+  337  EPISCOPAL CHURCH OF THE PENTECOST                                 CHICAGO                   IL  COOK                       13.7%
+  338  ORDER OF THE MAGI ANCIENT EPISCOPAL CHURCH                        CHICAGO                   IL  COOK                       13.7%
+  339  ST GILES EPISCOPAL CHURCH                                         NORTHBROOK                IL  COOK                       13.7%
+  340  TRINITY EPISCOPAL CHURCH                                          MT VERNON                 IL  JEFFERSON                  15.2%
+  341  EPISCOPAL CHURCH OF THE REDEEMER                                  ELGIN                     IL  KANE                        8.5%
+  342  ST MARKS EPISCOPAL CHURCH                                         BARRINGTON                IL  LAKE                        7.6%
+  343  ST PAULS EPISCOPAL CHURCH                                         ALTON                     IL  MADISON                    12.4%
+  344  ST JOHNS EPISCOPAL CHURCH                                         BRISTOL                   IN  ELKHART                    11.7%
+  345  ST TIMOTHYS EPISCOPAL CHURCH                                      GRIFFITH                  IN  LAKE                       15.4%
+  346  ST PAULS EPISCOPAL CHURCH                                         INDIANAPOLIS              IN  MARION                     16.4%
+  347  ST PHILIPS EPISCOPAL CHURCH                                       INDIANAPOLIS              IN  MARION                     16.4%
+  348  PEACE EPISCOPAL CHURCH                                            ROCKPORT                  IN  SPENCER                     8.1%
+  349  ST JOHNS PARISH OF THE PROTESTANT EPISCOPAL CHURCH                GREAT BEND                KS  BARTON                     13.8%
+  350  RECTOR WARDENS VESTRY OF TRINITY EPISCOPAL CHURCH OF EL DORADO KS EL DORADO                 KS  BUTLER                      9.5%
+  351  TRINITY AMERICAN EPISCOPAL CHURCH                                 PRAIRIE VLG               KS  JOHNSON                     4.9%
+  352  GOOD SHEPHERD EPISCOPAL CHURCH                                    WICHITA                   KS  SEDGWICK                   13.4%
+  353  ST MATTHIAS EPISCOPAL CHURCH INC                                  WICHITA                   KS  SEDGWICK                   13.4%
+  354  ST JUDES EPISCOPAL CHURCH INC                                     WELLINGTON                KS  SUMNER                     12.2%
+  355  ST PAULS EPISCOPAL CHURCH                                         KANSAS CITY               KS  WYANDOTTE                  18.0%
+  356  ST MARYS EPISCOPAL CHURCH                                         MIDDLESBORO               KY  BELL                       31.3%
+  357  EPISCOPAL CHURCH OF THE HOLY SPIRIT                               BATON ROUGE               LA  EAST BATON ROUGE           17.4%
+  358  ST ALBANS CHAPEL EPISCOPAL UNIVERSITY CENTER                      BATON ROUGE               LA  EAST BATON ROUGE           17.4%
+  359  ST JAMES EPISCOPAL CHURCH                                         BATON ROUGE               LA  EAST BATON ROUGE           17.4%
+  360  ST LUKES EPISCOPAL CHURCH                                         BATON ROUGE               LA  EAST BATON ROUGE           17.4%
+  361  ST MARGARETS EPISCOPAL CHURCH                                     BATON ROUGE               LA  EAST BATON ROUGE           17.4%
+  362  ST MICHAELS AND ALL ANGELS EPISCOPAL CHURCH                       BATON ROUGE               LA  EAST BATON ROUGE           17.4%
+  363  ST PATRICKS EPISCOPAL CHURCH                                      ZACHARY                   LA  EAST BATON ROUGE           17.4%
+  364  ALL SAINTS EPISCOPAL CHURCH                                       RIVER RIDGE               LA  JEFFERSON                  15.2%
+  365  ST MARKS EPISCOPAL CHURCH                                         HARVEY                    LA  JEFFERSON                  15.2%
+  366  ST MARTINS EPISCOPAL CHURCH                                       METAIRIE                  LA  JEFFERSON                  15.2%
+  367  ST JOHNS EPISCOPAL CHURCH                                         THIBODAUX                 LA  LAFOURCHE                  17.4%
+  368  ST FRANCIS EPISCOPAL CHURCH                                       DENHAM SPGS               LA  LIVINGSTON                 11.2%
+  369  ALL SOULS EPISCOPAL CHURCH AND COMMUNITY CENTER                   NEW ORLEANS               LA  ORLEANS                    23.0%
+  370  GRACE EPISCOPAL CHURCH                                            NEW ORLEANS               LA  ORLEANS                    23.0%
+  371  MOUNT OLIVET EPISCOPAL CHURCH                                     NEW ORLEANS               LA  ORLEANS                    23.0%
+  372  ST ANDREWS EPISCOPAL CHURCH                                       NEW ORLEANS               LA  ORLEANS                    23.0%
+  373  ST ANNAS EPISCOPAL CHURCH                                         NEW ORLEANS               LA  ORLEANS                    23.0%
+  374  ST GEORGES EPISCOPAL CHURCH                                       NEW ORLEANS               LA  ORLEANS                    23.0%
+  375  ST PAULS EPISCOPAL CHURCH                                         NEW ORLEANS               LA  ORLEANS                    23.0%
+  376  ST PHILIPS EPISCOPAL CHURCH                                       NEW ORLEANS               LA  ORLEANS                    23.0%
+  377  ST THOMAS AMERICAN EPISCOPAL CHURCH OF LOUISIANA INC              NEW ORLEANS               LA  ORLEANS                    23.0%
+  378  TRINITY EPISCOPAL CHURCH                                          NEW ORLEANS               LA  ORLEANS                    23.0%
+  379  ST MARYS EPISCOPAL CHURCH                                         MORGANZA                  LA  POINTE COUPEE              20.6%
+  380  ST PAULS HOLY TRINITY EPISCOPAL CHURCH                            NEW ROADS                 LA  POINTE COUPEE              20.6%
+  381  ST STEPHENS EPISCOPAL CHURCH                                      INNIS                     LA  POINTE COUPEE              20.6%
+  382  ST TIMOTHYS EPISCOPAL CHURCH                                      LAPLACE                   LA  ST. JOHN THE BAPTIST       15.4%
+  383  CHRIST EPISCOPAL CHURCH                                           COVINGTON                 LA  ST. TAMMANY                11.0%
+  384  ST MICHAELS EPISCOPAL CHURCH                                      MANDEVILLE                LA  ST. TAMMANY                11.0%
+  385  GRACE MEMORIAL EPISCOPAL CHURCH                                   HAMMOND                   LA  TANGIPAHOA                 20.2%
+  386  ST MATTHEWS EPISCOPAL CHURCH                                      HOUMA                     LA  TERREBONNE                 18.8%
+  387  BRASSEAUX FUND FOR GRACE EPISCOPAL CHURCH LLC                     ST FRANCISVLE             LA  WEST FELICIANA             12.7%
+  388  GRACE EPISCOPAL CHURCH                                            ST FRANCISVLE             LA  WEST FELICIANA             12.7%
+  389  LAVERGNE FUND FOR GRACE EPISCOPAL CHURCH LLC                      ST FRANCISVLE             LA  WEST FELICIANA             12.7%
+  390  MACKIE FUND FOR GRACE EPISCOPAL CHURCH LLC                        ST FRANCISVLE             LA  WEST FELICIANA             12.7%
+  391  YOUTH MINISTRY FUND OF GRACE EPISCOPAL CHURCH LLC                 ST FRANCISVLE             LA  WEST FELICIANA             12.7%
+  392  CHURCH OF THE ASCENSION                                           FALL RIVER                MA  BRISTOL                    10.7%
+  393  EPISCOPAL CHURCH OF ST THOMAS                                     TAUNTON                   MA  BRISTOL                    10.7%
+  394  ST JOHNS EPISCOPAL CHURCH                                         N ATTLEBORO               MA  BRISTOL                    10.7%
+  395  ST PETERS EPISCOPAL CHURCH                                        S DARTMOUTH               MA  BRISTOL                    10.7%
+  396  PROPRIETORS OF ST PAULS EPISCOPAL CHURCH                          NEWBURYPORT               MA  ESSEX                      10.1%
+  397  PROTESTANT EPISCOPAL CHURCH IN THE US OF AMERICAN EPISCOPAL CHURC NEWTON                    MA  MIDDLESEX                   7.2%
+  398  TRADITIONAL EPISCOPAL PARISH OF SAINT ANDREWS INC                 MIDDLEBORO                MA  PLYMOUTH                    6.7%
+  399  SOUTH END NEIGHBORHOOD CHURCH OF EMMANUEL                         BOSTON                    MA  SUFFOLK                    17.4%
+  400  ST JOHNS CHURCH EPISCOPAL                                         BOSTON                    MA  SUFFOLK                    17.4%
+  401  EMMANUEL EPISCOPAL CHURCH                                         CUMBERLAND                MD  ALLEGANY                   15.6%
+  402  SAINT GEORGES EPISCOPAL CHURCH                                    MOUNT SAVAGE              MD  ALLEGANY                   15.6%
+  403  ALL HALLOWS EPISCOPAL CHURCH                                      EDGEWATER                 MD  ANNE ARUNDEL                5.7%
+  404  MT CALVERY SOUTHERN EPISCOPAL CHURCH INC                          ANNAPOLIS                 MD  ANNE ARUNDEL                5.7%
+  405  ST ALBANS EPISCOPAL PARISH                                        GLEN BURNIE               MD  ANNE ARUNDEL                5.7%
+  406  ST ANNES EPISCOPAL PARISH                                         ANNAPOLIS                 MD  ANNE ARUNDEL                5.7%
+  407  ST CHRISTOPHERS EPISCOPAL CHURCH                                  LINTHICUM HTS             MD  ANNE ARUNDEL                5.7%
+  408  ST MARGARETS EPISCOPAL CHURCH                                     ANNAPOLIS                 MD  ANNE ARUNDEL                5.7%
+  409  ST MARTINS IN THE FIELD EPISCOPAL CHURCH                          SEVERNA PARK              MD  ANNE ARUNDEL                5.7%
+  410  CHRIST THE KING EPISCOPAL CHURCH                                  WINDSOR MILL              MD  BALTIMORE                   9.3%
+  411  HOLY TRINITY EPISCOPAL CHURCH                                     BALTIMORE                 MD  BALTIMORE                   9.3%
+  412  IMMANUEL EPISCOPAL CHURCH                                         SPARKS GLENCO             MD  BALTIMORE                   9.3%
+  413  SHERWOOD EPISCOPAL CHURCH                                         COCKEYSVILLE              MD  BALTIMORE                   9.3%
+  414  ST FRANCIS EPISCOPAL PARISH AND COMMUNITY CENTER                  LUTHVLE TIMON             MD  BALTIMORE                   9.3%
+  415  ST JAMES EPISCOPAL CHURCH                                         MONKTON                   MD  BALTIMORE                   9.3%
+  416  ST JOHNS EPISCOPAL CHURCH                                         BALTIMORE                 MD  BALTIMORE                   9.3%
+  417  ST JOHNS EPISCOPAL CHURCH                                         KINGSVILLE                MD  BALTIMORE                   9.3%
+  418  ST MARGARETS EPISCOPAL CHURCH                                     BALTIMORE                 MD  BALTIMORE                   9.3%
+  419  ST MARY EPISCOPAL CHURCH                                          WOODLAWN                  MD  BALTIMORE                   9.3%
+  420  ST THOMAS EPISCOPAL CHURCH                                        OWINGS MILLS              MD  BALTIMORE                   9.3%
+  421  ST TIMOTHYS EPISCOPAL CHURCH                                      BALTIMORE                 MD  BALTIMORE                   9.3%
+  422  THE HOLY EPISCOPAL CHURCH INC                                     CATONSVILLE               MD  BALTIMORE                   9.3%
+  423  TRINITY EPISCOPAL CHURCH                                          TOWSON                    MD  BALTIMORE                   9.3%
+  424  ALL SAINTS EPISCOPAL CHURCH                                       BALTIMORE                 MD  BALTIMORE CITY             20.0%
+  425  MEMORIAL EPISCOPAL CHURCH                                         BALTIMORE                 MD  BALTIMORE CITY             20.0%
+  426  SAINT ANDREWS EPISCOPAL CHURCH                                    BALTIMORE                 MD  BALTIMORE CITY             20.0%
+  427  SAINT JOHNS PROTESTANT EPISCOPAL CHURCH                           BALTIMORE                 MD  BALTIMORE CITY             20.0%
+  428  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  BALTIMORE                 MD  BALTIMORE CITY             20.0%
+  429  ALL SAINTS EPISCOPAL PARISH                                       SUNDERLAND                MD  CALVERT                     4.4%
+  430  ST PAULS EPISCOPAL CHURCH                                         PRNC FREDERCK             MD  CALVERT                     4.4%
+  431  ST BARNABAS EPISCOPAL CHURCH                                      SYKESVILLE                MD  CARROLL                     4.8%
+  432  ST GEORGES EPISCOPAL CHURCH                                       HAMPSTEAD                 MD  CARROLL                     4.8%
+  433  ST MARKS EPISCOPAL CHURCH                                         PERRYVILLE                MD  CECIL                       9.5%
+  434  ALL FAITH EPISCOPAL CHURCH                                        CHARLOTT HALL             MD  CHARLES                     6.8%
+  435  ST PAULS EPISCOPAL CHURCH                                         MOUNT AIRY                MD  FREDERICK                   6.8%
+  436  ST PAULS EPISCOPAL CHURCH                                         PT OF ROCKS               MD  FREDERICK                   6.8%
+  437  ST TIMOTHY EPISCOPAL CHURCH                                       FREDERICK                 MD  FREDERICK                   6.8%
+  438  HOLY CROSS EPISCOPAL CHURCH                                       STREET                    MD  HARFORD                     6.8%
+  439  ST MARYS EPISCOPAL CHURCH                                         ABINGDON                  MD  HARFORD                     6.8%
+  440  CHRIST EPISCOPAL CHURCH                                           COLUMBIA                  MD  HOWARD                      5.1%
+  441  GRACE EPISCOPAL CHURCH                                            ELKRIDGE                  MD  HOWARD                      5.1%
+  442  SAINT MARKS EPISCOPAL CHURCH                                      HIGHLAND                  MD  HOWARD                      5.1%
+  443  ST ANDREWS EPISCOPAL CHURCH                                       GLENWOOD                  MD  HOWARD                      5.1%
+  444  ST JOHNS EPISCOPAL CHURCH                                         ELLICOTT CITY             MD  HOWARD                      5.1%
+  445  EMMANUEL CHURCH OF MARYLAND INC                                   SILVER SPRING             MD  MONTGOMERY                  6.6%
+  446  EPISCOPAL CHURCH OF OUR SAVIOUR HILLANDALE                        SILVER SPRING             MD  MONTGOMERY                  6.6%
+  447  EPISCOPAL CHURCH OF THE TRANSFIGURATION                           SILVER SPRING             MD  MONTGOMERY                  6.6%
+  448  EPISCOPAL PARISH OF ST DUNSTAN                                    BETHESDA                  MD  MONTGOMERY                  6.6%
+  449  GOOD SHEPHERD EPISCOPAL CHURCH                                    SILVER SPRING             MD  MONTGOMERY                  6.6%
+  450  SAINT JAMES EPISCOPAL CHURCH                                      POTOMAC                   MD  MONTGOMERY                  6.6%
+  451  SAINT LUKES EPISCOPAL CHURCH TRINITY PARISH                       BETHESDA                  MD  MONTGOMERY                  6.6%
+  452  ST ANNES EPISCOPAL CHURCH                                         DAMASCUS                  MD  MONTGOMERY                  6.6%
+  453  ST FRANCIS EPISCOPAL CHURCH                                       POTOMAC                   MD  MONTGOMERY                  6.6%
+  454  THE CHURCH OF ST MATTHIAS AMERICAN EPISCOPAL                      POTOMAC                   MD  MONTGOMERY                  6.6%
+  455  EPIPHANY EPISCOPAL CHURCH                                         DISTRICT HTS              MD  PRINCE GEORGE'S             8.6%
+  456  EPISCOPAL CHURCH OF THE NATIVITY                                  CAMP SPRINGS              MD  PRINCE GEORGE'S             8.6%
+  457  SAINT JOHNS EPISCOPAL CHURCH                                      MOUNT RAINIER             MD  PRINCE GEORGE'S             8.6%
+  458  ST CHRISTOPHERS EPISCOPAL CHURCH                                  NEW CARROLLTN             MD  PRINCE GEORGE'S             8.6%
+  459  ST LUKES EPISCOPAL CHURCH                                         BLADENSBURG               MD  PRINCE GEORGE'S             8.6%
+  460  ST PHILIPS EPISCOPAL CHURCH                                       LAUREL                    MD  PRINCE GEORGE'S             8.6%
+  461  TRINITY EPISCOPAL CHURCH ST MARYS PARISH                          ST MARYS CITY             MD  ST. MARY'S                  8.0%
+  462  ST ANDREWS EPISCOPAL CHURCH                                       CLEAR SPRING              MD  WASHINGTON                 12.0%
+  463  ST ANNS EPISCOPAL CHURCH                                          SMITHSBURG                MD  WASHINGTON                 12.0%
+  464  ST JOHNS PARISH EPISCOPAL                                         HAGERSTOWN                MD  WASHINGTON                 12.0%
+  465  ST MATTHEWS EPISCOPAL CHURCH                                      LISBON                    ME  ANDROSCOGGIN               11.3%
+  466  ST PAULS EPISCOPAL CHURCH                                         CARIBOU                   ME  AROOSTOOK                  14.3%
+  467  SAINT ALBANS EPISCOPAL CHURCH                                     CAPE ELIZ                 ME  CUMBERLAND                  8.3%
+  468  ST ANNS EPISCOPAL CHURCH OF WINDHAM                               WINDHAM                   ME  CUMBERLAND                  8.3%
+  469  ST PETERS EPISCOPAL CHURCH                                        BRIDGTON                  ME  CUMBERLAND                  8.3%
+  470  TRINITY EPISCOPAL CHURCH                                          PORTLAND                  ME  CUMBERLAND                  8.3%
+  471  SAINT FRANCIS BY THE SEA EPISCOPAL CHURCH                         BLUE HILL                 ME  HANCOCK                    10.1%
+  472  ST DUNSTANS EPISCOPAL CHURCH                                      ELLSWORTH                 ME  HANCOCK                    10.1%
+  473  TRINITY EPISCOPAL CHURCH                                          CASTINE                   ME  HANCOCK                    10.1%
+  474  EPISCOPAL CHURCH OF ST JOHN BAPTIST                               THOMASTON                 ME  KNOX                        9.2%
+  475  ST ANDREWS EPISCOPAL CHURCH                                       NEWCASTLE                 ME  LINCOLN                    10.6%
+  476  ST COLUMBAS EPISCOPAL CHURCH                                      BOOTHBAY HBR              ME  LINCOLN                    10.6%
+  477  ST GILES EPISCOPAL CHURCH                                         JEFFERSON                 ME  LINCOLN                    10.6%
+  478  ST PHILIPS EPISCOPAL CHURCH HODGE ST                              WISCASSET                 ME  LINCOLN                    10.6%
+  479  CHRIST EPISCOPAL CHURCH                                           NORWAY                    ME  OXFORD                     13.4%
+  480  ST BARNABAS EPISCOPAL CHURCH                                      RUMFORD                   ME  OXFORD                     13.4%
+  481  ST JOHNS EPISCOPAL CHURCH                                         BANGOR                    ME  PENOBSCOT                  13.4%
+  482  ST PATRICKS EPISCOPAL CHURCH                                      BREWER                    ME  PENOBSCOT                  13.4%
+  483  ST AUGUSTINES EPISCOPAL CHURCH                                    DOVERFOXCROFT             ME  PISCATAQUIS                17.3%
+  484  GRACE EPISCOPAL CHURCH                                            BATH                      ME  SAGADAHOC                  10.5%
+  485  ST ANNES EPISCOPAL CHURCH                                         CALAIS                    ME  WASHINGTON                 18.1%
+  486  ST ANNS EPISCOPAL CHURCH                                          KENNEBUNKPORT             ME  YORK                        7.4%
+  487  ST DAVIDS EPISCOPAL CHURCH                                        KENNEBUNK                 ME  YORK                        7.4%
+  488  ST GEORGES EPISCOPAL CHURCH                                       YORK HARBOR               ME  YORK                        7.4%
+  489  ALL SAINTS EPISCOPAL CHURCH OF SAUGATUCK                          SAUGATUCK                 MI  ALLEGAN                     8.8%
+  490  ST AUGUSTINE OF CANTERBURY EPISCOPAL CHURCH                       BENTON HARBOR             MI  BERRIEN                    16.3%
+  491  EPISCOPAL CHURCH OF THE RESURRECTION                              BATTLE CREEK              MI  CALHOUN                    16.7%
+  492  ST JAMES EPISCOPAL CHURCH                                         ALBION                    MI  CALHOUN                    16.7%
+  493  ST THOMAS EPISCOPAL CHURCH                                        BATTLE CREEK              MI  CALHOUN                    16.7%
+  494  ST DAVIDS EPISCOPAL CHURCH                                        LANSING                   MI  EATON                       8.6%
+  495  ST ELISABETHS INTERFAITH EPISCOPAL CHURCH                         CHARLOTTE                 MI  EATON                       8.6%
+  496  ST JOHNS EPISCOPAL CHURCH                                         CHARLOTTE                 MI  EATON                       8.6%
+  497  TRINITY EPISCOPAL CHURCH                                          GRAND LEDGE               MI  EATON                       8.6%
+  498  EMMANUEL EPISCOPAL CHURCH                                         PETOSKEY                  MI  EMMET                       8.9%
+  499  ST JOHN THE APOSTLE EPISCOPAL CHURCH                              IONIA                     MI  IONIA                      10.5%
+  500  ST JOHNS EPISCOPAL CHURCH                                         MT PLEASANT               MI  ISABELLA                   24.6%
+  501  ST ALBANS EPISCOPAL CHURCH                                        KALAMAZOO                 MI  KALAMAZOO                  14.4%
+  502  ST BARNABAS EPISCOPAL CHURCH                                      PORTAGE                   MI  KALAMAZOO                  14.4%
+  503  ST LUKES EPISCOPAL CHURCH                                         KALAMAZOO                 MI  KALAMAZOO                  14.4%
+  504  ST MARTIN OF TOURS EPISCOPAL CHURCH                               KALAMAZOO                 MI  KALAMAZOO                  14.4%
+  505  ST MICHAELS EPISCOPAL CHURCH                                      KALAMAZOO                 MI  KALAMAZOO                  14.4%
+  506  ST PAULS EPISCOPAL CHURCH                                         PORTAGE                   MI  KALAMAZOO                  14.4%
+  507  GRACE EPISCOPAL CHURCH                                            GRAND RAPIDS              MI  KENT                       11.1%
+  508  HOLY CROSS EPISCOPAL CHURCH                                       GRAND RAPIDS              MI  KENT                       11.1%
+  509  HOLY TRINITY EPISCOPAL CHURCH                                     WYOMING                   MI  KENT                       11.1%
+  510  ST ANDREWS EPISCOPAL CHURCH OF GRAND RAPIDS                       GRAND RAPIDS              MI  KENT                       11.1%
+  511  ST MARKS EPISCOPAL CHURCH                                         GRAND RAPIDS              MI  KENT                       11.1%
+  512  ST PHILIPS EPISCOPAL CHURCH                                       GRAND RAPIDS              MI  KENT                       11.1%
+  513  ST CHRISTOPHERS EPISCOPAL CHURCH                                  NORTHPORT                 MI  LEELANAU                    6.4%
+  514  ST ANDREWS EPISCOPAL CHURCH                                       BIG RAPIDS                MI  MECOSTA                    19.5%
+  515  GRACE PROTESTANT EPISCOPAL CATHEDRAL                              MENOMINEE                 MI  MENOMINEE                  11.1%
+  516  ST GREGORYS EPISCOPAL CHURCH                                      NORTON SHORES             MI  MUSKEGON                   14.1%
+  517  ST PETERS EPISCOPAL CHURCH                                        MONTAGUE                  MI  MUSKEGON                   14.1%
+  518  SAINT MARKS EPISCOPAL CHURCH                                      NEWAYGO                   MI  NEWAYGO                    15.9%
+  519  ST ANDREWS EPISCOPAL CHURCH CLAWSON                               CLAWSON                   MI  OAKLAND                     7.8%
+  520  ST JAMES PROTESTANT EPISCOPAL CHURCH                              BIRMINGHAM                MI  OAKLAND                     7.8%
+  521  GRACE EPISCOPAL CHURCH                                            PORT HURON                MI  ST. CLAIR                  12.4%
+  522  ST MARYS EPISCOPAL CHURCH                                         CADILLAC                  MI  WEXFORD                    13.7%
+  523  TRINITY EPISCOPAL CHURCH                                          ANOKA                     MN  ANOKA                       5.8%
+  524  ST ANTIPAS EPISCOPAL CHURCH                                       REDBY                     MN  BELTRAMI                   18.3%
+  525  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  BEMIDJI                   MN  BELTRAMI                   18.3%
+  526  ST JOHNS EPISCOPAL CHURCH                                         RED LAKE                  MN  BELTRAMI                   18.3%
+  527  ST PHILIPS EPISCOPAL CHURCH                                       RICE LAKE                 MN  CLEARWATER                 14.2%
+  528  EPISCOPAL CHURCH OF THE NATIVITY                                  BURNSVILLE                MN  DAKOTA                      5.8%
+  529  SS MARTHA AND MARY EPISCOPAL CHURCH                               EAGAN                     MN  DAKOTA                      5.8%
+  530  ST ANNES EPISCOPAL CHURCH                                         SUNFISH LAKE              MN  DAKOTA                      5.8%
+  531  EMMANUEL EPISCOPAL CHURCH                                         ALEXANDRIA                MN  DOUGLAS                     7.9%
+  532  CHRIST EPISCOPAL CHURCH                                           ALBERT LEA                MN  FREEBORN                    9.8%
+  533  CHRIST EPISCOPAL CHURCH                                           RED WING                  MN  GOODHUE                     8.6%
+  534  HOLY TRINITY ST ANSKAR EPISCOPAL CHURCH                           MINNEAPOLIS               MN  HENNEPIN                   10.2%
+  535  ST ALBANS EPISCOPAL CHURCH                                        EDINA                     MN  HENNEPIN                   10.2%
+  536  ST COLUMBAS EPISCOPAL CHURCH                                      MINNEAPOLIS               MN  HENNEPIN                   10.2%
+  537  ST DAVIDS EPISCOPAL CHURCH                                        MINNETONKA                MN  HENNEPIN                   10.2%
+  538  ST GEORGES EPISCOPAL CHURCH                                       MINNEAPOLIS               MN  HENNEPIN                   10.2%
+  539  ST LUKES EPISCOPAL CHURCH                                         MINNEAPOLIS               MN  HENNEPIN                   10.2%
+  540  ST NICHOLAS EPISCOPAL CHURCH                                      RICHFIELD                 MN  HENNEPIN                   10.2%
+  541  ST PAULS EPISCOPAL CHURCH                                         MINNEAPOLIS               MN  HENNEPIN                   10.2%
+  542  ST PETERS EPISCOPAL CHURCH                                        MINNEAPOLIS               MN  HENNEPIN                   10.2%
+  543  CHRIST EPISCOPAL CHURCH                                           GRAND RAPIDS              MN  ITASCA                     12.3%
+  544  ST ANDREWS EPISCOPAL CHURCH                                       WATERVILLE                MN  LE SUEUR                    8.1%
+  545  ST MARTINS EPISCOPAL CHURCH                                       FAIRMONT                  MN  MARTIN                     12.9%
+  546  CALVARY EPISCOPAL CHURCH                                          ROCHESTER                 MN  OLMSTED                     8.0%
+  547  ST LUKES EPISCOPAL CHURCH                                         ROCHESTER                 MN  OLMSTED                     8.0%
+  548  EPIPHANY EPISCOPAL CHURCH                                         ST PAUL                   MN  RAMSEY                     13.4%
+  549  HOLY TRINITY EPISCOPAL CHURCH                                     SAINT PAUL                MN  RAMSEY                     13.4%
+  550  ST CLEMENTS EPISCOPAL CHURCH                                      SAINT PAUL                MN  RAMSEY                     13.4%
+  551  ST MARYS EPISCOPAL CHURCH                                         SAINT PAUL                MN  RAMSEY                     13.4%
+  552  ST MATTHEWS EPISCOPAL CHURCH                                      SAINT PAUL                MN  RAMSEY                     13.4%
+  553  ALL SAINTS EPISCOPAL CHURCH                                       NORTHFIELD                MN  RICE                       10.1%
+  554  ST JAMES EPISCOPAL CHURCH                                         HIBBING                   MN  SAINT LOUIS                13.8%
+  555  STS JOHN AND PAUL EPISCOPAL CHURCH                                VIRGINIA                  MN  SAINT LOUIS                13.8%
+  556  GOOD SAMARITAN EPISCOPAL CHURCH                                   SAUK CENTRE               MN  STEARNS                    12.1%
+  557  GRACE EPISCOPAL CHURCH                                            WABASHA                   MN  WABASHA                     7.6%
+  558  ST HELENS EPISCOPAL CHURCH                                        WADENA                    MN  WADENA                     14.6%
+  559  ASCENSION EPISCOPAL CHURCH                                        STILLWATER                MN  WASHINGTON                  4.4%
+  560  ST PAULS EPISCOPAL CHURCH                                         WINONA                    MN  WINONA                     13.3%
+  561  ST MARKS EPISCOPAL CHURCH                                         ANNANDALE                 MN  WRIGHT                      5.1%
+  562  ST MARYS EPISCOPAL CHURCH SAVANNAH                                SAVANNAH                  MO  ANDREW                      7.8%
+  563  ST MATTHEWS EPISCOPAL CHURCH                                      MEXICO                    MO  AUDRAIN                    14.8%
+  564  ST STEPHENS EPISCOPAL CHURCH MONETT                               MONETT                    MO  BARRY                      18.2%
+  565  CALVARY EPISCOPAL CHURCH                                          COLUMBIA                  MO  BOONE                      16.9%
+  566  CHRIST EPISCOPAL CHURCH ST JOSEPH                                 SAINT JOSEPH              MO  BUCHANAN                   15.7%
+  567  HOLY CROSS EPISCOPAL CHURCH                                       POPLAR BLUFF              MO  BUTLER                     21.9%
+  568  SAINT MARKS EPISCOPAL CHURCH                                      PORTLAND                  MO  CALLAWAY                    9.7%
+  569  ST ALBANS EPISCOPAL CHURCH                                        FULTON                    MO  CALLAWAY                    9.7%
+  570  ST GEORGE EPISCOPAL CHURCH CAMDENTON                              CAMDENTON                 MO  CAMDEN                     14.5%
+  571  CHRIST EPISCOPAL CHURCH                                           CPE GIRARDEAU             MO  CAPE GIRARDEAU             15.8%
+  572  ST PETERS EPISCOPAL CHURCH HARRISONVILLE                          HARRISONVILLE             MO  CASS                        8.3%
+  573  SAINT MATTHEWS EPISCOPAL CHURCH OZARK                             OZARK                     MO  CHRISTIAN                  10.0%
+  574  ST LUKES EPISCOPAL CHURCH EXCELSIOR SPRINGS                       EXCELSIOR SPG             MO  CLAY                        8.2%
+  575  CHRIST CHURCH EPISCOPAL BOONVILLE                                 BOONVILLE                 MO  COOPER                     12.6%
+  576  CHRIST EPISCOPAL CHURCH SPRINGFIELD                               SPRINGFIELD               MO  GREENE                     15.3%
+  577  ST JAMES EPISCOPAL CHURCH SPRINGFIELD                             SPRINGFIELD               MO  GREENE                     15.3%
+  578  ST JOHNS EPISCOPAL CHURCH SPRINGFIELD                             SPRINGFIELD               MO  GREENE                     15.3%
+  579  ST PAULS EPISCOPAL CHURCH CLINTON                                 CLINTON                   MO  HENRY                      17.6%
+  580  ST PAULS EPISCOPAL CHURCH                                         IRONTON                   MO  IRON                       22.1%
+  581  ST MATTHEWS EPISCOPAL CHURCH RAYTOWN                              RAYTOWN                   MO  JACKSON                    13.6%
+  582  ST MICHAELS EPISCOPAL CHURCH INC INDEPENDENCE                     INDEPENDENCE              MO  JACKSON                    13.6%
+  583  ST PETER AND ALL SAINTS EPISCOPAL CHURCH                          KANSAS CITY               MO  JACKSON                    13.6%
+  584  TRINITY EPISCOPAL CHURCH INDEPENDENCE                             INDEPENDNECE              MO  JACKSON                    13.6%
+  585  GRACE EPISCOPAL CHURCH CARTHAGE                                   CARTHAGE                  MO  JASPER                     17.7%
+  586  ST PHILIPS EPISCOPAL CHURCH                                       JOPLIN                    MO  JASPER                     17.7%
+  587  CHRIST EPISCOPAL CHURCH WARRENSBURG                               WARRENSBURG               MO  JOHNSON                    13.4%
+  588  GRACE EPISCOPAL CHURCH CHILLICOTHE                                CHILLICOTHE               MO  LIVINGSTON                 12.1%
+  589  ST NICHOLAS EPISCOPAL CHURCH NOEL                                 NOEL                      MO  MCDONALD                   19.3%
+  590  ST OSWALDS IN THE FIELDS EPISCOPAL CHURCH SKIDMORE                SKIDMORE                  MO  NODAWAY                    20.7%
+  591  CALVARY EPISCOPAL CHURCH SEDALIA                                  SEDALIA                   MO  PETTIS                     15.3%
+  592  CHRIST CHURCH EPISCOPAL                                           ROLLA                     MO  PHELPS                     19.6%
+  593  ST JOHNS EPISCOPAL CHURCH                                         LOUISIANA                 MO  PIKE                       16.4%
+  594  ALL SAINTS EPISCOPAL CHURCH                                       FARMINGTON                MO  ST. FRANCOIS               16.1%
+  595  ST JOHN EPISCOPAL CHURCH                                          SAINT LOUIS               MO  ST. LOUIS CITY             20.4%
+  596  ST MARKS EPISCOPAL CHURCH                                         SAINT LOUIS               MO  ST. LOUIS CITY             20.4%
+  597  TRINITY EPISCOPAL CHURCH                                          SAINT LOUIS               MO  ST. LOUIS CITY             20.4%
+  598  EMMANUEL EPISCOPAL CHURCH                                         SAINT LOUIS               MO  ST. LOUIS COUNTY            9.3%
+  599  EPISCOPAL CHURCH OF ALL SAINTS AND ASCENSION                      SAINT LOUIS               MO  ST. LOUIS COUNTY            9.3%
+  600  GRACE EPISCOPAL CHURCH                                            SAINT LOUIS               MO  ST. LOUIS COUNTY            9.3%
+  601  HOPE EPISCOPAL CHURCH                                             SAINT LOUIS               MO  ST. LOUIS COUNTY            9.3%
+  602  ST BARNABAS EPISCOPAL CHURCH                                      FLORISSANT                MO  ST. LOUIS COUNTY            9.3%
+  603  ST FRANCIS EPISCOPAL CHURCH                                       EUREKA                    MO  ST. LOUIS COUNTY            9.3%
+  604  ST LUKES EPISCOPAL CHURCH                                         MANCHESTER                MO  ST. LOUIS COUNTY            9.3%
+  605  ST MARTINS EPISCOPAL CHURCH                                       BALLWIN                   MO  ST. LOUIS COUNTY            9.3%
+  606  ST PETERS EPISCOPAL CHURCH                                        SAINT LOUIS               MO  ST. LOUIS COUNTY            9.3%
+  607  ST TIMOTHYS EPISCOPAL CHURCH                                      SAINT LOUIS               MO  ST. LOUIS COUNTY            9.3%
+  608  SHEPHERD OF THE HILLS EPISCOPAL CHURCH BRANSON                    BRANSON                   MO  TANEY                      15.7%
+  609  SAINT PHILLIPS EPISCOPAL CHURCH JACKSON MISSISSIPPI               JACKSON                   MS  HINDS                      20.4%
+  610  ST JAMES EPISCOPAL CHURCH                                         DILLON                    MT  BEAVERHEAD                 16.1%
+  611  CALVARY EPISCOPAL CHURCH OF RED LODGE                             RED LODGE                 MT  CARBON                     10.8%
+  612  ALL SAINTS EPISCOPAL CHURCH                                       COLUMBIA FLS              MT  FLATHEAD                   10.3%
+  613  CHRIST CHURCH EPISCOPAL                                           KALISPELL                 MT  FLATHEAD                   10.3%
+  614  ST PATRICKS EPISCOPAL CHURCH                                      BIGFORK                   MT  FLATHEAD                   10.3%
+  615  GETHSEMANE EPISCOPAL CHURCH                                       MANHATTAN                 MT  GALLATIN                   11.0%
+  616  HOLY TRINITY EPISCOPAL CHURCH                                     TROY                      MT  LINCOLN                    17.0%
+  617  ST MICHAEL AND ALL ANGELS EPISCOPAL CHURCH                        EUREKA                    MT  LINCOLN                    17.0%
+  618  ST PAULS EPISCOPAL CHURCH VIRGINIA CITY MT                        VIRGINIA CITY             MT  MADISON                     8.1%
+  619  TRINITY EPISCOPAL CHURCH                                          ENNIS                     MT  MADISON                     8.1%
+  620  ST ANDREWS EPISCOPAL CHURCH                                       LIVINGSTON                MT  PARK                       12.0%
+  621  ST JOHNS EPISCOPAL CHURCH                                         EMIGRANT                  MT  PARK                       12.0%
+  622  ST JOHNS EPISCOPAL CHURCH                                         BUTTE                     MT  SILVER BOW                 16.3%
+  623  ST MARKS EPISCOPAL CHURCH                                         BIG TIMBER                MT  SWEET GRASS                 4.6%
+  624  ST LUKES EPISCOPAL CHURCH                                         BILLINGS                  MT  YELLOWSTONE                 9.6%
+  625  EPISCOPAL CHURCH OF THE HOLY COMFORTER                            BURLINGTON                NC  ALAMANCE                   15.4%
+  626  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ANDREWS EPISCOPAL CHURCH   HAW RIVER                 NC  ALAMANCE                   15.4%
+  627  EPISCOPAL DIOCESE OF NORTH CAROLINA ALL SOULS EPISCOPAL CHURCH    ANSONVILLE                NC  ANSON                      18.8%
+  628  EPISCOPAL DIOCESE OF NORTH CAROLINA CALVARY EPISCOPAL CHURCH      WADESBORO                 NC  ANSON                      18.8%
+  629  ALL SAINTS ANGLICAN EPISCOPAL CHURCH INC                          ASHEVILLE                 NC  BUNCOMBE                   11.5%
+  630  ALL SAINTS EPISCOPAL CHURCH                                       CONCORD                   NC  CABARRUS                    9.6%
+  631  EPISCOPAL DIOCESE OF NORTH CAROLINA ALL SAINTS EPISCOPAL CHURCH   CONCORD                   NC  CABARRUS                    9.6%
+  632  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  PITTSBORO                 NC  CHATHAM                    10.7%
+  633  EPISCOPAL DIOCESE OF NORTH CAROLINA GRACE EPISCOPAL CHURCH        LEXINGTON                 NC  DAVIDSON                   15.2%
+  634  GRACE EPISCOPAL CHURCH                                            LEXINGTON                 NC  DAVIDSON                   15.2%
+  635  EPISCOPAL CHURCH OF THE ASCENSION                                 ADVANCE                   NC  DAVIE                      13.7%
+  636  EPISCOPAL DIOCESE OF NORTH CAROLINA GOOD SHEPHERD EPISCOPAL CHURC COOLEEMEE                 NC  DAVIE                      13.7%
+  637  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ANDREWS EPISCOPAL CHURCH   DURHAM                    NC  DURHAM                     13.5%
+  638  EPISCOPAL DIOCESE OF NORTH CAROLINA ST LUKES EPISCOPAL CHURCH     DURHAM                    NC  DURHAM                     13.5%
+  639  EPISCOPAL DIOCESE OF NORTH CAROLINA ST TITUS EPISCOPAL CHURCH     DURHAM                    NC  DURHAM                     13.5%
+  640  SAINT LUKES EPISCOPAL CHURCH                                      DURHAM                    NC  DURHAM                     13.5%
+  641  ST JOSEPHS EPISCOPAL CHURCH                                       DURHAM                    NC  DURHAM                     13.5%
+  642  ST PHILIPS EPISCOPAL CHURCH                                       DURHAM                    NC  DURHAM                     13.5%
+  643  ST STEPHENS EPISCOPAL CHURCH                                      DURHAM                    NC  DURHAM                     13.5%
+  644  ST TITUS EPISCOPAL CHURCH                                         DURHAM                    NC  DURHAM                     13.5%
+  645  CALVARY EPISCOPAL CHURCH                                          TARBORO                   NC  EDGECOMBE                  22.3%
+  646  EPIPHANY EPISCOPAL CHURCH                                         ROCKY MOUNT               NC  EDGECOMBE                  22.3%
+  647  EPISCOPAL DIOCESE OF NORTH CAROLINA EPIPHANY EPISCOPAL CHURCH     ROCK MOUNT                NC  EDGECOMBE                  22.3%
+  648  EPISCOPAL DIOCESE OF NORTH CAROLINA ST LUKES EPISCOPAL CHURCH     TARBORO                   NC  EDGECOMBE                  22.3%
+  649  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARYS EPISCOPAL CHURCH     SPEED                     NC  EDGECOMBE                  22.3%
+  650  EPISCOPAL DIOCESES OF NORTH CAROLINA CALVARY EPISCOPAL CHURCH     TARBORO                   NC  EDGECOMBE                  22.3%
+  651  ST MICHAELS EPISCOPAL CHURCH                                      TARBORO                   NC  EDGECOMBE                  22.3%
+  652  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ANNES EPISCOPAL CHURCH     WINSTON SALEM             NC  FORSYTH                    15.8%
+  653  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MATTHEWS EPISCOPAL CHURCH  KERNERSVILLE              NC  FORSYTH                    15.8%
+  654  EPISCOPAL DIOCESE OF NORTH CAROLINA ST STEPHEN EPISCOPAL CHURCH   WINSTON SALEM             NC  FORSYTH                    15.8%
+  655  EPISCOPAL DIOCESE OF NORTH CAROLINA ST TIMOTHYS EPISCOPAL CHURCH  WINSTON SALEM             NC  FORSYTH                    15.8%
+  656  SAINT STEPHENS EPISCOPAL CHURCH                                   WINSTON-SALEM             NC  FORSYTH                    15.8%
+  657  ST CLEMENTS EPISCOPAL CHURCH                                      CLEMMONS                  NC  FORSYTH                    15.8%
+  658  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MATTHIAS EPISCOPAL CHURCH  LOUISBURG                 NC  FRANKLIN                   11.4%
+  659  EPISCOPAL DIOCESE OF NORTH CAROLINA ST PAULS EPISCOPAL CHURCH     LOUISBURG                 NC  FRANKLIN                   11.4%
+  660  ST PAULS EPISCOPAL CHURCH                                         LOUISBURG                 NC  FRANKLIN                   11.4%
+  661  EPISCOPAL DIOCESE OF NORTH CAROLINA ST CYPRIANS EPISCOPAL CHURCH  OXFORD                    NC  GRANVILLE                  14.2%
+  662  EPISCOPAL DIOCESE OF NORTH CAROLINA ST STEPHENS EPISCOPAL CHURCH  OXFORD                    NC  GRANVILLE                  14.2%
+  663  ST CYPRIANS EPISCOPAL CHURCH                                      OXFORD                    NC  GRANVILLE                  14.2%
+  664  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ANDREWS EPISCOPAL CHURCH   GREENSBORO                NC  GUILFORD                   15.3%
+  665  EPISCOPAL DIOCESE OF NORTH CAROLINA ST BARNABAS EPISCOPAL CHURCH  GREENSBORO                NC  GUILFORD                   15.3%
+  666  EPISCOPAL DIOCESE OF NORTH CAROLINA ST CHRISTOPHERS EPISCOPAL CHU HIGH POINT                NC  GUILFORD                   15.3%
+  667  EPISCOPAL DIOCESE OF NORTH CAROLINA ST FRANCIS EPISCOPAL CHURCH   GREENSBORO                NC  GUILFORD                   15.3%
+  668  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARYS EPISCOPAL CHURCH     HIGH POINT                NC  GUILFORD                   15.3%
+  669  HOLY TRINITY EPISCOPAL CHURCH                                     GREENSBORO                NC  GUILFORD                   15.3%
+  670  SAINT FRANCIS EPISCOPAL CHURCH                                    GREENSBORO                NC  GUILFORD                   15.3%
+  671  SAINT MARYS EPISCOPAL CHURCH                                      HIGH POINT                NC  GUILFORD                   15.3%
+  672  ALL SAINTS EPISCOPAL CHURCH                                       ROANOKE RAPID             NC  HALIFAX                    25.6%
+  673  EPISCOPAL DIOCESE OF NORTH CAROLINA ALL SAINTS EPISCOPAL CHURCH   ROANOKE RAPID             NC  HALIFAX                    25.6%
+  674  EPISCOPAL DIOCESE OF NORTH CAROLINA GRACE CHURCH                  WELDON                    NC  HALIFAX                    25.6%
+  675  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ALBANS EPISCOPAL CHURCH    LITTLETON                 NC  HALIFAX                    25.6%
+  676  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ANNAS EPISCOPAL CHURCH     LITTLETON                 NC  HALIFAX                    25.6%
+  677  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARKS EPISCOPAL CHURCH     HALIFAX                   NC  HALIFAX                    25.6%
+  678  EPISCOPAL DIOCESE OF NORTH CAROLINA TRINITY EPISCOPAL CHURCH      SCOTLAND NECK             NC  HALIFAX                    25.6%
+  679  TRINITY EPISCOPAL CHURCH                                          SCOTLAND NECK             NC  HALIFAX                    25.6%
+  680  CALVARY EPISCOPAL CHURCH                                          FLETCHER                  NC  HENDERSON                  10.5%
+  681  EPISCOPAL DIOCESE OF NORTH CAROLINA ST JAMES EPISCOPAL CHURCH     MOOREVILLE                NC  IREDELL                     9.8%
+  682  EPISCOPAL DIOCESE OF NORTH CAROLINA TRINITY EPISCOPAL CHURCH      STATESVILLE               NC  IREDELL                     9.8%
+  683  SAINT PATRICKS EPISCOPAL CHURCH                                   MOORESVILLE               NC  IREDELL                     9.8%
+  684  TRINITY EPISCOPAL CHURCH                                          STATESVILLE               NC  IREDELL                     9.8%
+  685  EPISCOPAL DIOCESE OF NORTH CAROLINA ST PAULS EPISCOPAL CHURCH     SMITHFIELD                NC  JOHNSTON                   12.2%
+  686  ST THOMAS EPISCOPAL CHURCH                                        SANFORD                   NC  LEE                        16.3%
+  687  CHRIST EPISCOPAL CHURCH                                           CHARLOTTE                 NC  MECKLENBURG                10.9%
+  688  EPISCOPAL DIOCESE OF NORTH CAROLINA HOLY COMFORTER EPISCOPAL CHUR CHARLOTTE                 NC  MECKLENBURG                10.9%
+  689  EPISCOPAL DIOCESE OF NORTH CAROLINA ST JOHNS EPISCOPAL CHURCH     CHARLOTTE                 NC  MECKLENBURG                10.9%
+  690  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARKS EPISCOPAL CHURCH     HUNTERSVILLE              NC  MECKLENBURG                10.9%
+  691  EPISCOPAL DIOCESE OF NORTH CAROLINA ST PETERS EPISCOPAL CHURCH    CHARLOTTE                 NC  MECKLENBURG                10.9%
+  692  HOLY COMFORTER EPISCOPAL CHURCH                                   CHARLOTTE                 NC  MECKLENBURG                10.9%
+  693  ST ALBANS EPISCOPAL CHURCH                                        DAVIDSON                  NC  MECKLENBURG                10.9%
+  694  ST MARKS EPISCOPAL CHURCH                                         HUNTERSVILLE              NC  MECKLENBURG                10.9%
+  695  ST MARTINS EPISCOPAL CHURCH                                       CHARLOTTE                 NC  MECKLENBURG                10.9%
+  696  ST PETERS EPISCOPAL CHURCH                                        CHARLOTTE                 NC  MECKLENBURG                10.9%
+  697  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARY MAGDALENE EPISCOPAL C TROY                      NC  MONTGOMERY                 16.9%
+  698  EMMANUEL EPISCOPAL CHURCH                                         SOUTHERN PNES             NC  MOORE                      10.5%
+  699  EPISCOPAL DIOCESE OF NORTH CAROLINA EMMANUEL EPISCOPAL CHURCH     SOUTHERN PNES             NC  MOORE                      10.5%
+  700  ST MARY MAGDALENE EPISCOPAL CHURCH                                WEST END                  NC  MOORE                      10.5%
+  701  EPISCOPAL DIOCESE OF NORTH CAROLINA GOOD SHEPHERD EPISCOPAL CHURC ROCKY MOUNT               NC  NASH                       15.8%
+  702  EPISCOPAL DIOCESE OF NORTH CAROLINA ST ANDREWS EPISCOPAL CHURCH   ROCKY MOUNT               NC  NASH                       15.8%
+  703  EPISCOPAL DIOCESE OF NORTH CAROLINA ST JOHNS EPISCOPAL CHURCH     BATTLEBORO                NC  NASH                       15.8%
+  704  GOOD SHEPHERD EPISCOPAL CHURCH                                    ROCKY MOUNT               NC  NASH                       15.8%
+  705  ST ANDREWS EPISCOPAL CHURCH                                       ROCKY MOUNT               NC  NASH                       15.8%
+  706  EPISCOPAL DIOCESE OF NORTH CAROLINA ST LUKES EPISCOPAL CHURCH     GASTON                    NC  NORTHAMPTON                20.1%
+  707  EPISCOPAL DIOCESE OF NORTH CAROLINA HOLY FAMILY EPISCOPAL CHURCH  CHAPEL HILL               NC  ORANGE                     12.4%
+  708  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MATTHEWS EPISCOPAL CHURCH  HILLSBOROUGH              NC  ORANGE                     12.4%
+  709  HOLY FAMILY EPISCOPAL CHURCH                                      CHAPEL HILL               NC  ORANGE                     12.4%
+  710  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARKS EPISCOPAL CHURCH     ROXBORO                   NC  PERSON                     16.3%
+  711  EPISCOPAL DIOCESE OF NORTH CAROLINA CHURCH OF THE GOOD SHEPHERD   ASHEBORO                  NC  RANDOLPH                   14.6%
+  712  EPISCOPAL DIOCESE OF NORTH CAROLINA ALL SAINTS EPISCOPAL CHURCH   HAMLET                    NC  RICHMOND                   22.4%
+  713  MESSSIAH EPISCOPAL CHURCH                                         ROCKINGHAM                NC  RICHMOND                   22.4%
+  714  EPISCOPAL DIOCESE OF NORTH CAROLINA MESSIAH EPISCOPAL CHURCH      MAYODAN                   NC  ROCKINGHAM                 17.9%
+  715  EPISCOPAL DIOCESE OF NORTH CAROLINA ST LUKES EPISCOPAL CHURCH     EDEN                      NC  ROCKINGHAM                 17.9%
+  716  ST LUKES EPISCOPAL CHURCH                                         EDEN                      NC  ROCKINGHAM                 17.9%
+  717  ST MARYS EPISCOPAL CHURCH                                         EDEN                      NC  ROCKINGHAM                 17.9%
+  718  ST THOMAS EPISCOPAL CHURCH                                        REIDSVILLE                NC  ROCKINGHAM                 17.9%
+  719  EPISCOPAL DIOCESE OF NORTH CAROLINA CHRIST CHURCH                 CLEVELAND                 NC  ROWAN                      16.2%
+  720  EPISCOPAL DIOCESE OF NORTH CAROLINA ST GEORGES EPISCOPAL CHURCH   WOODLEAF                  NC  ROWAN                      16.2%
+  721  EPISCOPAL DIOCESE OF NORTH CAROLINA ST LUKES EPISCOPAL CHURCH     SLISBURY                  NC  ROWAN                      16.2%
+  722  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MATTHEWS EPISCOPAL CHURCH  SALISBURY                 NC  ROWAN                      16.2%
+  723  EPISCOPAL DIOCESE OF NORTH CAROLINA ST PAULS EPISCOPAL CHURCH     SALISBURY                 NC  ROWAN                      16.2%
+  724  ST LUKE EPISCOPAL CHURCH                                          SALISBURY                 NC  ROWAN                      16.2%
+  725  EPISCOPAL DIOCESE OF NORTH CAROLINA ST DAVIDS EPISCOPAL CHURCH    LAURINBURG                NC  SCOTLAND                   27.3%
+  726  EPISCOPAL DIOCESE OF NORTH CAROLINA CHRIST CHURCH                 WALNUT GROVE              NC  STOKES                     13.6%
+  727  EPISCOPAL DIOCESE OF NORTH CAROLINA TRINITY EPISCOPAL CHURCH      MOUNT AIRY                NC  SURRY                      16.4%
+  728  ST MARGARETS EPISCOPAL CHURCH                                     WAXHAW                    NC  UNION                       7.4%
+  729  EPISCOPAL DIOCESE OF NORTH CAROLINA ST JOHNS EPISCOPAL CHURCH WIG HENDERSON                 NC  VANCE                      20.0%
+  730  ST JAMES EPISCOPAL CHURCH OF KITTRELL NC MRS R B PEARCE JR        HENDERSON                 NC  VANCE                      20.0%
+  731  EPISCOPAL DIOCESE OF NORTH CAROLINA CHRIST CHURCH                 RALEIGH                   NC  WAKE                        8.5%
+  732  EPISCOPAL DIOCESE OF NORTH CAROLINA ST AMBROSE EPISCOPAL CHURCH   RALEIGH                   NC  WAKE                        8.5%
+  733  EPISCOPAL DIOCESE OF NORTH CAROLINA ST AUGUSTINES EPISCOPAL CHURC RALEIGH                   NC  WAKE                        8.5%
+  734  EPISCOPAL DIOCESE OF NORTH CAROLINA ST CHRISTOPHERS EPISCOPAL CHU GARNER                    NC  WAKE                        8.5%
+  735  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MICHAELS EPISCOPAL CHURCH  RALEIGH                   NC  WAKE                        8.5%
+  736  EPISCOPAL DIOCESE OF NORTH CAROLINA ST TIMOTHYS EPISCOPAL CHURCH  RALEIGH                   NC  WAKE                        8.5%
+  737  EPISCOPAL DIOCESE OF NORTH CAROLINA TRINITY EPISCOPAL CHURCH      FUQUAY-VARINA             NC  WAKE                        8.5%
+  738  EPISCOPAL DIOCESES OF NORTH ST JOHN BAPTIST EPISCOPAL CHURCH      WAKE FOREST               NC  WAKE                        8.5%
+  739  SAINT TIMOTHYS EPISCOPAL CHURCH                                   RALEIGH                   NC  WAKE                        8.5%
+  740  ST AMBROSE EPISCOPAL CHURCH                                       RALEIGH                   NC  WAKE                        8.5%
+  741  ST CHRISTOPHERS EPISCOPAL CHURCH 1101 VANDORA SPRINGS RD          GARNER                    NC  WAKE                        8.5%
+  742  ST JOHNS EPISCOPAL CHURCH                                         WAKE FOREST               NC  WAKE                        8.5%
+  743  ST MARKS EPISCOPAL CHURCH                                         RALEIGH                   NC  WAKE                        8.5%
+  744  EMMANUEL EPISCOPAL CHURCH                                         WARRENTON                 NC  WARREN                     20.9%
+  745  EPISCOPAL DIOCESE OF NORTH CAROLINA ALL SAINTS EPISCOPAL CHURCH   WARRENTON                 NC  WARREN                     20.9%
+  746  EPISCOPAL DIOCESE OF NORTH CAROLINA EMMANUEL EPISCOPAL CHURCH     WARRENTON                 NC  WARREN                     20.9%
+  747  EPISCOPAL DIOCESE OF NORTH CAROLINA ST MARKS EPISCOPAL CHURCH     WILSON                    NC  WILSON                     19.9%
+  748  EPISCOPAL DIOCESE OF NORTH CAROLINA ST TIMOTHYS EPISCOPAL CHURCH  WILSON                    NC  WILSON                     19.9%
+  749  ST AUGUSTINE EPISCOPAL CHURCH                                     ATLANTIC CITY             NJ  ATLANTIC                   13.5%
+  750  CHRIST EPISCOPAL CHURCH                                           TEANECK                   NJ  BERGEN                      6.4%
+  751  RECTOR WARDENS VESTRYMEN OF ST ALBANS EPISCOPAL CHURCH IN OFL     OAKLAND                   NJ  BERGEN                      6.4%
+  752  TRINITY C S I CHURCH                                              PARK RIDGE                NJ  BERGEN                      6.4%
+  753  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  CHERRY HILL               NJ  CAMDEN                     12.3%
+  754  ST THOMAS EPISCOPAL CHURCH                                        GLASSBORO                 NJ  GLOUCESTER                  7.0%
+  755  FRIENDS OF EPISCOPAL CHURCH AT PRINCETON INC                      PRINCETON                 NJ  MERCER                     11.1%
+  756  ST MATTHEWS EPISCOPAL CHURCH                                      PENNINGTON                NJ  MERCER                     11.1%
+  757  SAINT JOHNS EPISCOPAL CHURCH                                      SEWAREN                   NJ  MIDDLESEX                   8.7%
+  758  ST PETERS EPISCOPAL CHURCH                                        PERTH AMBOY               NJ  MIDDLESEX                   8.7%
+  759  TRINITY CHURCH                                                    WOODBRIDGE                NJ  MIDDLESEX                   8.7%
+  760  ST MICHAELS EPISCOPAL CHURCH                                      WALL TOWNSHIP             NJ  MONMOUTH                    6.5%
+  761  GRACE EPISCOPAL CHURCH                                            MADISON                   NJ  MORRIS                      4.8%
+  762  SAINT PETERS EPISCOPAL CHURCH                                     MORRISTOWN                NJ  MORRIS                      4.8%
+  763  ST DUNSTANS EPISCOPAL CHURCH                                      SUCCASUNNA                NJ  MORRIS                      4.8%
+  764  ST JOHNS EPISCOPAL CHURCH                                         DOVER                     NJ  MORRIS                      4.8%
+  765  ST MARYS BY THE SEA EPISCOPAL CHURCH                              PT PLEAS BCH              NJ  OCEAN                       9.9%
+  766  ST STEPHENS EPISCOPAL CHURCH OF WHITING NEW JERSEY                WHITING                   NJ  OCEAN                       9.9%
+  767  ST PAULS EPISCOPAL CHURCH                                         PATERSON                  NJ  PASSAIC                    14.8%
+  768  CHURCH OF ST JOHN ON THE MOUNTAIN EPISCOPAL                       BERNARDSVILLE             NJ  SOMERSET                    5.1%
+  769  SAINT BENARDS PROTESTANT EPISCOPAL CHURCH                         BERNARDSVILLE             NJ  SOMERSET                    5.1%
+  770  ST PAULS EPISCOPAL CHURCH                                         BOUND BROOK               NJ  SOMERSET                    5.1%
+  771  ST LUKES EPISCOPAL CHURCH                                         PHILLIPSBURG              NJ  WARREN                      7.4%
+  772  ST MARKS ON THE MESA EPISCOPAL CHURCH                             ALBUQUERQUE               NM  BERNALILLO                 15.9%
+  773  ST MICHAELS EPISCOPAL CHURCH                                      ALBANY                    NY  ALBANY                     12.1%
+  774  SAINT SIMEONS EPISCOPAL CHURCH                                    BRONX                     NY  BRONX                      27.0%
+  775  ST LUKES EPISCOPAL CHURCH                                         BRONX                     NY  BRONX                      27.0%
+  776  TRINITY EPISCOPAL CHURCH                                          HAMBURG                   NY  ERIE                       13.7%
+  777  BAPTIST CHURCH OF JESUS CHRIST THE MEDIATOR                       BROOKLYN                  NY  KINGS                      19.2%
+  778  CALVARY ST CYPRIANS EPISCOPAL CHURCH                              BROOKLYN                  NY  KINGS                      19.2%
+  779  CHURCH OF HOLY APOSTLES                                           BROOKLYN                  NY  KINGS                      19.2%
+  780  ZION EPISCOPAL CHURCH                                             AVON                      NY  LIVINGSTON                 12.6%
+  781  CHURCH OF ST LUKE AND ST SIMON CYRENE EPISCOPAL                   ROCHESTER                 NY  MONROE                     14.1%
+  782  ST PETERS EPISCOPAL CHURCH                                        HENRIETTA                 NY  MONROE                     14.1%
+  783  ALL SAINTS CHURCH                                                 GREAT NECK                NY  NASSAU                      5.4%
+  784  CATHEDRAL OF THE INCARNATION                                      GARDEN CITY               NY  NASSAU                      5.4%
+  785  ST FRANCIS EPISCOPAL CHURCH                                       N BELLMORE                NY  NASSAU                      5.4%
+  786  ST PAULS CHURCH                                                   GLEN COVE                 NY  NASSAU                      5.4%
+  787  ST STEPHENS CHURCH                                                PRT WASHINGTN             NY  NASSAU                      5.4%
+  788  ST THOMAS EPISCOPAL CHURCH                                        MALVERNE                  NY  NASSAU                      5.4%
+  789  THE PROTESTANT EPISCOPAL CHURCH IN THE USA                        GARDEN CITY               NY  NASSAU                      5.4%
+  790  TRINITY CHURCH                                                    ROSLYN                    NY  NASSAU                      5.4%
+  791  CHURCH OF ST IGNATIUS LOYOLA                                      NEW YORK                  NY  NEW YORK                   15.6%
+  792  ST MICHAELS PROTESTANT EPISCOPAL CHURCH                           NEW YORK                  NY  NEW YORK                   15.6%
+  793  TRAVELERS REST BAPTIST CHURCH                                     NEW YORK                  NY  NEW YORK                   15.6%
+  794  GRACE CHURCH                                                      JAMAICA                   NY  QUEENS                     11.6%
+  795  ST DAVIDS CHURCH                                                  CAMBRIA HTS               NY  QUEENS                     11.6%
+  796  PROTESTANT EPISCOPAL CHURCH IN THE USA                            TROY                      NY  RENSSELAER                 10.8%
+  797  ST PAULS EPISCOPAL CHURCH                                         SPRING VALLEY             NY  ROCKLAND                   14.5%
+  798  CHRIST CHURCH EPISCOPAL                                           SCHENECTADY               NY  SCHENECTADY                11.4%
+  799  CHURCH OF THE HOLY TRINITY                                        GREENPORT                 NY  SUFFOLK                     6.5%
+  800  ST LUKES CHURCH                                                   EAST HAMPTON              NY  SUFFOLK                     6.5%
+  801  ST MARYS EPISCOPAL CHURCH                                         LK RONKONKOMA             NY  SUFFOLK                     6.5%
+  802  TRINITY CHURCH                                                    NORTHPORT                 NY  SUFFOLK                     6.5%
+  803  ST PAULS EPISCOPAL EVANGELICAL CHURCH                             MOUNT VERNON              NY  WESTCHESTER                 8.4%
+  804  ALL SAINTS EPISCOPAL CHURCH                                       CLEVELAND                 OH  CUYAHOGA                   17.1%
+  805  ST THOMAS EPISCOPAL CHURCH OF BEREA                               BEREA                     OH  CUYAHOGA                   17.1%
+  806  ST NICHOLAS OF MYRA EPISCOPAL CHURCH                              HILLIARD                  OH  FRANKLIN                   15.1%
+  807  ST CHRISTOPHER EPISCOPAL CHURCH                                   FAIRBORN                  OH  GREENE                     10.9%
+  808  TRINITY EPISCOPAL CHURCH                                          FINDLAY                   OH  HANCOCK                    10.4%
+  809  ST PAULS EPISCOPAL CHURCH                                         MOUNT VERNON              OH  KNOX                       12.1%
+  810  ST JAMES EPISCOPAL CHURCH                                         PAINESVILLE               OH  LAKE                        8.2%
+  811  ST ANDREWS EPISCOPAL CHURCH                                       ELYRIA                    OH  LORAIN                     13.4%
+  812  ST JOHNS EPISCOPAL CHURCH                                         YOUNGSTOWN                OH  MAHONING                   17.6%
+  813  CHRIST EPISCOPAL CHURCH OF KENT                                   KENT                      OH  PORTAGE                    11.3%
+  814  GRACE EPISCOPAL CHURCH                                            RAVENNA                   OH  PORTAGE                    11.3%
+  815  NEW LIFE EPISCOPAL CHURCH                                         UNIONTOWN                 OH  SUMMIT                     12.8%
+  816  ST JOHNS EPISCOPAL CHURCH                                         CUYAHOGA FLS              OH  SUMMIT                     12.8%
+  817  ST PATRICKS EPISCOPAL CHURCH                                      LEBANON                   OH  WARREN                      4.9%
+  818  GRACE CHURCH EPISCOPAL OF YUKON                                   YUKON                     OK  CANADIAN                    7.4%
+  819  ST MICHAELS EPISCOPAL CHURCH OF NORMAN OKLAHOMA                   NORMAN                    OK  CLEVELAND                  12.0%
+  820  ST LAWRENCE EPISCOPAL CHURCH OF MUSKOGEE OKLA                     MUSKOGEE                  OK  MUSKOGEE                   20.3%
+  821  EVANGELICAL WESLEYAN EPISCOPAL CHURCH                             TULSA                     OK  TULSA                      14.3%
+  822  ST DUNSTANS EPISCOPAL CHURCH                                      TULSA                     OK  TULSA                      14.3%
+  823  ST DUNSTANS EPISCOPAL CHURCH OF TULSA INC                         TULSA                     OK  TULSA                      14.3%
+  824  ST JOHNS EPISCOPAL CHURCH                                         TULSA                     OK  TULSA                      14.3%
+  825  ST FRANCIS OF ASSISI EPISCOPAL PARISH                             WILSONVILLE               OR  CLACKAMAS                   7.5%
+  826  CALVARY PARISH EPISCOPAL                                          SEASIDE                   OR  CLATSOP                     9.6%
+  827  GRACE EPISCOPAL CHURCH                                            ASTORIA                   OR  CLATSOP                     9.6%
+  828  ST GEORGES EPISCOPAL CHURCH                                       ROSEBERG                  OR  DOUGLAS                    13.0%
+  829  ST MARKS EPISCOPAL CHURCH                                         MEDFORD                   OR  JACKSON                    13.7%
+  830  ST LUKES EPISCOPAL CHURCH                                         GRANTS PASS               OR  JOSEPHINE                  16.0%
+  831  ST MARYS EPISCOPAL CHURCH                                         EUGENE                    OR  LANE                       17.2%
+  832  ST THOMAS EPISCOPAL CHURCH                                        EUGENE                    OR  LANE                       17.2%
+  833  ST MARTIN EPISCOPAL CHURCH                                        LEBANON                   OR  LINN                       12.3%
+  834  ST PAULS EPISCOPAL CHURCH OF SALEM                                SALEM                     OR  MARION                     13.4%
+  835  ST TIMOTHYS EPISCOPAL CHURCH                                      SALEM                     OR  MARION                     13.4%
+  836  ALL SAINTS EPISCOPAL CHURCH                                       PORTLAND                  OR  MULTNOMAH                  13.2%
+  837  SAINTS PETER PAUL EPISCOPAL CHURCH                                PORTLAND                  OR  MULTNOMAH                  13.2%
+  838  ST AIDANS EPISCOPAL CHURCH                                        PORTLAND                  OR  MULTNOMAH                  13.2%
+  839  ST LUKES EPISCOPAL CHURCH                                         GRESHAM                   OR  MULTNOMAH                  13.2%
+  840  ST PHILIP THE DEACON EPISCOPAL CHURCH                             PORTLAND                  OR  MULTNOMAH                  13.2%
+  841  ST STEPHENS EPISCOPAL PARISH                                      PORTLAND                  OR  MULTNOMAH                  13.2%
+  842  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  BEAVERTON                 OR  WASHINGTON                  8.5%
+  843  ST BEDES EPISCOPAL CHURCH FOREST GROVE                            FOREST GROVE              OR  WASHINGTON                  8.5%
+  844  ST JAMES EPISCOPAL CHURCH                                         TIGARD                    OR  WASHINGTON                  8.5%
+  845  ST BARNABAS EPISCOPAL CHURCH                                      MCMINNVILLE               OR  YAMHILL                    11.8%
+  846  ST STEPHENS EPISCOPAL CHURCH                                      SEWICKLEY                 PA  ALLEGHENY                  11.3%
+  847  PRINCE OF PEACE EPISCOPAL CHURCH                                  ALIQUIPPA                 PA  BEAVER                      9.8%
+  848  EMMANUEL EPISCOPAL CHURCH                                         QUAKERTOWN                PA  BUCKS                       5.6%
+  849  PROTESTANT EPISCOPAL CHURCH OF THE                                YARDLEY                   PA  BUCKS                       5.6%
+  850  REDEEMER EPISCOPAL CHURCH                                         ANDALUSIA                 PA  BUCKS                       5.6%
+  851  ST PAULS EPISCOPAL CHURCH                                         DOYLESTOWN                PA  BUCKS                       5.6%
+  852  ST PHILIPS EPISCOPAL CHURCH                                       NEW HOPE                  PA  BUCKS                       5.6%
+  853  ALL SAINTS EPISCOPAL CHURCH                                       LEHIGHTON                 PA  CARBON                     11.9%
+  854  CALVARY EPISCOPAL CHURCH                                          ELVERSON                  PA  CHESTER                     6.3%
+  855  EPISCOPAL CHURCH OF THE ADVENT                                    KENNETT SQ                PA  CHESTER                     6.3%
+  856  EPISCOPAL CHURCH OF THE TRINITY                                   COATESVILLE               PA  CHESTER                     6.3%
+  857  ST ANDREWS EPISCOPAL CHURCH                                       GLENMOORE                 PA  CHESTER                     6.3%
+  858  ST PAULS EPISCOPAL CHURCH WEST WHITELAND                          EXTON                     PA  CHESTER                     6.3%
+  859  ST PETERS EPISCOPAL CHURCH                                        PHOENIXVILLE              PA  CHESTER                     6.3%
+  860  ALL SAINTS CHURCH EPISCOPAL                                       DARBY                     PA  DELAWARE                    9.9%
+  861  CHRIST EPISCOPAL CHURCH                                           MEDIA                     PA  DELAWARE                    9.9%
+  862  SAINT ALBANS EPISCOPAL CHURCH                                     NEWTOWN SQ                PA  DELAWARE                    9.9%
+  863  SAINT JAMES EPISCOPAL CHURCH                                      PROSPECT PARK             PA  DELAWARE                    9.9%
+  864  ST JAMES EPISCOPAL CHURCH                                         ASTON                     PA  DELAWARE                    9.9%
+  865  ST JOHNS EPISCOPAL CHURCH CONCORD                                 GLEN MILLS                PA  DELAWARE                    9.9%
+  866  ST MICHAELS EPISCOPAL CHURCH                                      YEADON                    PA  DELAWARE                    9.9%
+  867  STFAITH EPISCOPAL CHURCH                                          HAVERTOWN                 PA  DELAWARE                    9.9%
+  868  TRINITY EPISCOPAL CHURCH                                          SWARTHMORE                PA  DELAWARE                    9.9%
+  869  ST EDWARDS EPISCOPAL CHURCH                                       LANCASTER                 PA  LANCASTER                   9.1%
+  870  GRACE EPISCOPAL CHURCH                                            ALLENTOWN                 PA  LEHIGH                     12.6%
+  871  ALL HALLOWS EPISCOPAL CHURCH                                      WYNCOTE                   PA  MONTGOMERY                  5.8%
+  872  ST DUNSTANS EPISCOPAL CHURCH                                      NORRISTOWN                PA  MONTGOMERY                  5.8%
+  873  ST JOHNS EPISCOPAL CHURCH                                         HUNTINGDON VALLEY         PA  MONTGOMERY                  5.8%
+  874  ST MARYS EPISCOPAL CHURCH                                         ARDMORE                   PA  MONTGOMERY                  5.8%
+  875  ST MATTHEWS EPISCOPAL CHURCH                                      MAPLE GLEN                PA  MONTGOMERY                  5.8%
+  876  ST PAULS MEMORIAL EPISCOPAL CHURCH                                OAKS                      PA  MONTGOMERY                  5.8%
+  877  ST PAULS PROTESTANT EPISCOPAL CHURCH                              ELKINS PARK               PA  MONTGOMERY                  5.8%
+  878  STPETERS EPISCOPAL CHURCH                                         GLENSIDE                  PA  MONTGOMERY                  5.8%
+  879  ADVOCATE EPISCOPAL CHURCH                                         PHILADELPHIA              PA  PHILADELPHIA               23.1%
+  880  CALVARY ST AUGUSTINE EPISCOPAL CHURCH                             PHILADELPHIA              PA  PHILADELPHIA               23.1%
+  881  ST DAVIDS EPISCOPAL CHURCH                                        PHILADELPHIA              PA  PHILADELPHIA               23.1%
+  882  ST GABRIELS EPISCOPAL CHURCH                                      PHILADELPHIA              PA  PHILADELPHIA               23.1%
+  883  ST FRANCIS EPISCOPAL CHURCH                                       COVENTRY                  RI  KENT                        8.1%
+  884  ST LUKES EPISCOPAL CHURCH                                         E GREENWICH               RI  KENT                        8.1%
+  885  ST MARYS CHURCH                                                   PORTSMOUTH                RI  NEWPORT                     7.7%
+  886  TRINITY CHURCH                                                    NEWPORT                   RI  NEWPORT                     7.7%
+  887  EMMANUEL EPISCOPAL CHURCH                                         CUMBERLAND                RI  PROVIDENCE                 14.0%
+  888  GRACE CHURCH PROVIDENCE                                           PROVIDENCE                RI  PROVIDENCE                 14.0%
+  889  SAINT MARKS EPISCOPAL CHURCH                                      RIVERSIDE                 RI  PROVIDENCE                 14.0%
+  890  ST LUKES EPISCOPAL CHURCH                                         PAWTUCKET                 RI  PROVIDENCE                 14.0%
+  891  ST MARTINS EPISCOPAL CHURCH                                       PAWTUCKET                 RI  PROVIDENCE                 14.0%
+  892  ST PAULS EPISCOPAL CHURCH                                         PAWTUCKET                 RI  PROVIDENCE                 14.0%
+  893  ST STEPHENS CHURCH                                                PROVIDENCE                RI  PROVIDENCE                 14.0%
+  894  TRINITY EPISCOPAL CHURCH                                          N SCITUATE                RI  PROVIDENCE                 14.0%
+  895  ST ELIZABETHS CHURCH                                              HOPE VALLEY               RI  WASHINGTON                  8.2%
+  896  ST PAULS EPISCOPAL CHURCH                                         N KINGSTOWN               RI  WASHINGTON                  8.2%
+  897  ST THOMAS EPISCOPAL CHURCH                                        WOOD RIVER JT             RI  WASHINGTON                  8.2%
+  898  TRINITY EPISCOPAL CHURCH                                          ABBEVILLE                 SC  ABBEVILLE                  17.7%
+  899  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  NORTH AUGUSTA             SC  AIKEN                      13.8%
+  900  GRACE EPISCOPAL CHURCH                                            ANDERSON                  SC  ANDERSON                   13.6%
+  901  CHRIST EPISCOPAL CHURCH SOUTH PALMETTO ST                         DENMARK                   SC  BAMBERG                    21.0%
+  902  ST ALBANS EPISCOPAL CHURCH                                        BLACKVILLE                SC  BARNWELL                   27.8%
+  903  ST STEPHEN EPISCOPAL CHURCH                                       SAINT STEPHEN             SC  BERKELEY                   11.9%
+  904  SAINT STEPHENS EPISCOPAL CHURCH                                   CHARLESTON                SC  CHARLESTON                 12.8%
+  905  ST ANDREWS EPISCOPAL CHURCH                                       CHARLESTON                SC  CHARLESTON                 12.8%
+  906  ST JAMES EPISCOPAL CHURCH                                         CHARLESTON                SC  CHARLESTON                 12.8%
+  907  ST THOMAS EPISCOPAL CHURCH                                        N CHARLESTON              SC  CHARLESTON                 12.8%
+  908  ST MARK EPISCOPAL CHURCH                                          CHESTER                   SC  CHESTER                    18.5%
+  909  ST PETERS EPISCOPAL CHURCH                                        GREAT FALLS               SC  CHESTER                    18.5%
+  910  ST DAVIDS EPISCOPAL CHURCH                                        CHERAW                    SC  CHESTERFIELD               21.2%
+  911  ST MATTHIAS EPISCOPAL CHURCH                                      SUMMERTON                 SC  CLARENDON                  21.7%
+  912  ST BARNABAS EPISCOPAL CHURCH                                      DILLON                    SC  DILLON                     30.2%
+  913  ST GEORGES EPISCOPAL CHURCH                                       SUMMERVILLE               SC  DORCHESTER                 12.0%
+  914  ST PAULS EPISCOPAL CHURCH                                         SUMMERVILLE               SC  DORCHESTER                 12.0%
+  915  EPISCOPAL CHURCH OF THE RIDGE                                     EDGEFIELD                 SC  EDGEFIELD                  15.2%
+  916  ST STEPHENS EPISCOPAL CHURCH                                      RIDGEWAY                  SC  FAIRFIELD                  18.5%
+  917  SAINT CATHERINES EPISCOPAL CHURCH                                 FLORENCE                  SC  FLORENCE                   17.4%
+  918  ALL SAINTS PARISH WACCAMAW EPISCOPAL CHURCH                       PAWLEYS ISL               SC  GEORGETOWN                 16.1%
+  919  HOLY CROSS FAITH MEMORIAL EPISCOPAL CHURCH                        PAWLEYS ISL               SC  GEORGETOWN                 16.1%
+  920  HOLY CROSS EPISCOPAL CHURCH                                       SIMPSONVILLE              SC  GREENVILLE                 11.2%
+  921  ST ANDREWS EPISCOPAL CHURCH                                       GREENVILLE                SC  GREENVILLE                 11.2%
+  922  ST FRANCIS EPISCOPAL CHURCH                                       GREENVILLE                SC  GREENVILLE                 11.2%
+  923  ST PHILIPS EPISCOPAL CHURCH                                       GREENVILLE                SC  GREENVILLE                 11.2%
+  924  GRACE EPISCOPAL CHURCH                                            CAMDEN                    SC  KERSHAW                    15.3%
+  925  ALL SAINTS EPISCOPAL CHURCH                                       CAYCE                     SC  LEXINGTON                  11.8%
+  926  ST PAULS EPISCOPAL CHURCH                                         BENNETTSVILLE             SC  MARLBORO                   29.4%
+  927  ST LUKES EPISCOPAL CHURCH                                         NEWBERRY                  SC  NEWBERRY                   17.5%
+  928  ST MICHAELS EPISCOPAL CHURCH                                      EASLEY                    SC  PICKENS                    16.4%
+  929  EPISCOPAL CHURCH OF ST SIMON OF ST JUDE                           IRMO                      SC  RICHLAND                   16.5%
+  930  EPISCOPAL CHURCH OF THE CROSS                                     COLUMBIA                  SC  RICHLAND                   16.5%
+  931  PARISH CHURCH OF ST MARTINS IN THE FIELDS                         COLUMBIA                  SC  RICHLAND                   16.5%
+  932  ST JOHNS EPISCOPAL CHURCH                                         COLUMBIA                  SC  RICHLAND                   16.5%
+  933  ST MARYS EPISCOPAL CHURCH                                         IRMO                      SC  RICHLAND                   16.5%
+  934  ST MICHAEL AND ALL ANGELS EPISCOPAL CHURCH                        COLUMBIA                  SC  RICHLAND                   16.5%
+  935  ST TIMOTHYS EPISCOPAL CHURCH                                      COLUMBIA                  SC  RICHLAND                   16.5%
+  936  EPISCOPAL CHURCH OF THE EPIPHANY                                  SPARTANBURG               SC  SPARTANBURG                14.4%
+  937  SAINT CHRISTOPHERS EPISCOPAL CHURCH                               SPARTANBURG               SC  SPARTANBURG                14.4%
+  938  ST MARGARETS EPISCOPAL CHURCH                                     BOILING SPGS              SC  SPARTANBURG                14.4%
+  939  ST AUGUSTINES EPISCOPAL CHURCH                                    WEDGEFIELD                SC  SUMTER                     18.1%
+  940  EPISCOPAL CHURCH OF OUR SAVIOUR                                   ROCK HILL                 SC  YORK                        9.5%
+  941  EPISCOPAL CHURCH OF THE GOOD SHEPHERD                             YORK                      SC  YORK                        9.5%
+  942  SAINT MATTHIAS EPISCOPAL CHURCH                                   ROCK HILL                 SC  YORK                        9.5%
+  943  EVANGELICAL EPISCOPAL CHURCH INC                                  MEMPHIS                   TN  SHELBY                     19.0%
+  944  CROSSROADS EPISCOPAL CHURCH                                       SPARTA                    TN  WHITE                      14.8%
+  945  ST CYPRIANS EPISCOPAL CHURCH                                      LUFKIN                    TX  ANGELINA                   17.3%
+  946  ALL SAINTS MISSION EPISCOPAL CHURCH                               PLEASANTON                TX  ATASCOSA                   11.0%
+  947  ST MARYS EPISCOPAL CHURCH                                         BELLVILLE                 TX  AUSTIN                     11.7%
+  948  CHRIST EPISCOPAL CHURCH                                           TEMPLE                    TX  BELL                       14.2%
+  949  ST FRANCIS EPISCOPAL CHURCH GIFT SHOP                             TEMPLE                    TX  BELL                       14.2%
+  950  ST JOSEPHS EPISCOPAL CHURCH                                       BELTON                    TX  BELL                       14.2%
+  951  CHRIST EPISCOPAL CHURCH                                           SAN ANTONIO               TX  BEXAR                      15.6%
+  952  CHURCH OF THE RESURRECTION EPISCOPAL                              WINDCREST                 TX  BEXAR                      15.6%
+  953  EPISCOPAL CHURCH CORPORATION IN WEST TEXAS                        SAN ANTONIO               TX  BEXAR                      15.6%
+  954  SAINT ANDREWS EPISCOPAL CHURCH OF SAN ANTONIO                     SAN ANTONIO               TX  BEXAR                      15.6%
+  955  SAINT LUKES EPISCOPAL CHURCH                                      SAN ANTONIO               TX  BEXAR                      15.6%
+  956  SANTA FE EPISCOPAL CHURCH                                         SAN ANTONIO               TX  BEXAR                      15.6%
+  957  ST DAVIDS EPISCOPAL CHURCH                                        SAN ANTONIO               TX  BEXAR                      15.6%
+  958  ST GEORGES EPISCOPAL CHURCH                                       SAN ANTONIO               TX  BEXAR                      15.6%
+  959  ST LUKES EPISCOPAL CHURCH                                         SAN ANTONIO               TX  BEXAR                      15.6%
+  960  ST LUKES EPISCOPAL CHURCH PERMANENT ENDOWNMENT TR                 SAN ANTONIO               TX  BEXAR                      15.6%
+  961  ST MARGARETS EPISCOPAL CHURCH                                     SAN ANTONIO               TX  BEXAR                      15.6%
+  962  ST MARKS EPISCOPAL CHURCH                                         SAN ANTONIO               TX  BEXAR                      15.6%
+  963  ST PAULS EPISCOPAL CHURCH                                         SAN ANTONIO               TX  BEXAR                      15.6%
+  964  ST PHILIPS EPISCOPAL CHURCH                                       SAN ANTONIO               TX  BEXAR                      15.6%
+  965  GRACE EPISCOPAL CHURCH                                            ALVIN                     TX  BRAZORIA                    7.9%
+  966  ST PAULS EPISCOPAL CHURCH GIFT SHOP                               FREEPORT                  TX  BRAZORIA                    7.9%
+  967  ST TIMOTHYS EPISCOPAL CHURCH                                      LAKE JACKSON              TX  BRAZORIA                    7.9%
+  968  ST THOMAS EPISCOPAL CHURCH                                        COLLEGE STA               TX  BRAZOS                     23.9%
+  969  EMMANUEL EPISCOPAL CHURCH                                         LOCKHART                  TX  CALDWELL                   15.8%
+  970  CHURCH OF THE ADVENT EPISCOPAL                                    BROWNSVILLE               TX  CAMERON                    26.7%
+  971  ST ANDREWS BY THE SEA EPISCOPAL CHURCH                            PORT ISABEL               TX  CAMERON                    26.7%
+  972  EPISCOPAL CHURCH OF THE HOLY NATIVITY                             PLANO                     TX  COLLIN                      6.3%
+  973  FAITH EPISCOPAL CHURCH                                            ALLEN                     TX  COLLIN                      6.3%
+  974  HOLY FAMILY EPISCOPAL CHURCH                                      MCKINNEY                  TX  COLLIN                      6.3%
+  975  ST FRANCIS BY THE LAKE EPISCOPAL CHURCH                           CANYON LAKE               TX  COMAL                       7.7%
+  976  ST JOHNS EPISCOPAL CHURCH                                         NEW BRAUNFELS             TX  COMAL                       7.7%
+  977  EPISCOPAL CHURCH OF THE GOOD SHEPHERD OF DALLAS                   DALLAS                    TX  DALLAS                     14.6%
+  978  GOOD SAMARITAN EPISCOPAL CHURCH                                   DALLAS                    TX  DALLAS                     14.6%
+  979  OUR SAVIOUR EPISCOPAL CHURCH                                      DALLAS                    TX  DALLAS                     14.6%
+  980  RESURRECTION EPISCOPAL CHURCH                                     DALLAS                    TX  DALLAS                     14.6%
+  981  SAINT ANNE EPISCOPAL CHURCH                                       DESOTO                    TX  DALLAS                     14.6%
+  982  SAINT MATTHIAS EPISCOPAL CHURCH                                   DALLAS                    TX  DALLAS                     14.6%
+  983  THE EPISCOPAL CHURCH OF ST THOMAS THE APOSTLE                     DALLAS                    TX  DALLAS                     14.6%
+  984  SAINT BARNABAS EPISCOPAL CHURCH OF DENTON INC                     DENTON                    TX  DENTON                      7.4%
+  985  ST NICHOLAS EPISCOPAL CHURCH                                      FLOWER MOUND              TX  DENTON                      7.4%
+  986  ST PETERS BY THE LAKE EPISCOPAL CHURCH                            THE COLONY                TX  DENTON                      7.4%
+  987  GRACE EPISCOPAL CHURCH OF CUERO                                   CUERO                     TX  DEWITT                     17.9%
+  988  ST CHRISTOPHERS BY THE SEA EPISCOPAL CHURCH                       PORTLAND                  TX  DUVAL                      19.1%
+  989  ALL SAINTS EPISCOPAL CHURCH OF EL PASO                            EL PASO                   TX  EL PASO                    19.5%
+  990  ST ALBANS EPISCOPAL CHURCH OF EL PASO TEXAS                       EL PASO                   TX  EL PASO                    19.5%
+  991  CALVARY EPISCOPAL CHURCH                                          RICHMOND                  TX  FORT BEND                   7.5%
+  992  EPISCOPAL CHURCH OF THE HOLY APOSTLES                             KATY                      TX  FORT BEND                   7.5%
+  993  HOLY CROSS EPISCOPAL CHURCH                                       SUGAR LAND                TX  FORT BEND                   7.5%
+  994  ST MARKS EPISCOPAL CHURCH YOUTH OUTREACH CENTER                   RICHMOND                  TX  FORT BEND                   7.5%
+  995  GOOD SHEPHERD EPISCOPAL CHURCH                                    FRIENDSWOOD               TX  GALVESTON                  10.9%
+  996  HOLY TRINITY EPISCOPAL CHURCH                                     DICKINSON                 TX  GALVESTON                  10.9%
+  997  ST AUGUSTINE OF HIPPO EPISCOPAL CHURCH                            GALVESTON                 TX  GALVESTON                  10.9%
+  998  ST CHRISTOPHER EPISCOPAL CHURCH                                   LEAGUE CITY               TX  GALVESTON                  10.9%
+  999  ST GEORGE EPISCOPAL CHURCH                                        TEXAS CITY                TX  GALVESTON                  10.9%
+ 1000  TRINITY EPISCOPAL CHURCH                                          GALVESTON                 TX  GALVESTON                  10.9%
+ 1001  ST BARNABAS EPISCOPAL CHURCH                                      FREDERICKSBRG             TX  GILLESPIE                  10.8%
+ 1002  EPISCOPAL CHURCH OF THE MESSIAH                                   GONZALES                  TX  GONZALES                   13.1%
+ 1003  ST JOHN EPISCOPAL CHURCH                                          POTTSBORO                 TX  GRAYSON                    12.0%
+ 1004  ST MICHAEL AND ALL ANGELS EPISCOPAL CHURCH                        LONGVIEW                  TX  GREGG                      17.6%
+ 1005  ST ANDREWS EPISCOPAL CHURCH OF SEGUIN TEXAS INC                   SEGUIN                    TX  GUADALUPE                   9.0%
+ 1006  CHRIST THE KING EPISCOPAL CHURCH                                  HUMBLE                    TX  HARRIS                     15.6%
+ 1007  CHRIST THE KING EPISCOPAL CHURCH                                  HOUSTON                   TX  HARRIS                     15.6%
+ 1008  EPISCOPAL CHURCH OF THE ASCENSION                                 HOUSTON                   TX  HARRIS                     15.6%
+ 1009  EPISCOPAL CHURCH OF THE GOOD SHEPHERD                             TOMBALL                   TX  HARRIS                     15.6%
+ 1010  EPISCOPAL CHURCH OF THE REDEEMER                                  HOUSTON                   TX  HARRIS                     15.6%
+ 1011  HOLY COMFORTER EPISCOPAL CHURCH                                   SPRING                    TX  HARRIS                     15.6%
+ 1012  HOLY SPIRIT EPISCOPAL CHURCH                                      HOUSTON                   TX  HARRIS                     15.6%
+ 1013  HOPE EPISCOPAL CHURCH                                             HOUSTON                   TX  HARRIS                     15.6%
+ 1014  INCARNATION EPISCOPAL CHURCH                                      HOUSTON                   TX  HARRIS                     15.6%
+ 1015  LORD OF THE STREETS EPISCOPAL CHURCH                              HOUSTON                   TX  HARRIS                     15.6%
+ 1016  MISSION DE LA SANTA CRUZ EPISCOPAL CHURCH                         HOUSTON                   TX  HARRIS                     15.6%
+ 1017  PALMER MEMORIAL EPISCOPAL CHURCH                                  HOUSTON                   TX  HARRIS                     15.6%
+ 1018  PAYNE CHAPEL AFRICAN MEDTHODIST EPISCOPAL CHURCH                  HOUSTON                   TX  HARRIS                     15.6%
+ 1019  PROTESTANT EPISCOPAL CHURCH COUNCIL OF THE DIOCESE OF TEXAS       HOUSTON                   TX  HARRIS                     15.6%
+ 1020  SAINT ANDREWS EPISCOPAL CHURCH                                    HOUSTON                   TX  HARRIS                     15.6%
+ 1021  SAINT ANDREWS EPISCOPAL CHURCH OF HOUSTON TEXAS                   HOUSTON                   TX  HARRIS                     15.6%
+ 1022  SAINT PAULS EPISCOPAL CHURCH OF HOUSTON                           HOUSTON                   TX  HARRIS                     15.6%
+ 1023  SAN MATEO EPISCOPAL CHURCH                                        HOUSTON                   TX  HARRIS                     15.6%
+ 1024  SANTA MARIA VIRGEN EPISCOPAL CHURCH                               HOUSTON                   TX  HARRIS                     15.6%
+ 1025  ST AIDANS EPISCOPAL CHURCH                                        CYPRESS                   TX  HARRIS                     15.6%
+ 1026  ST ALBANS EPISCOPAL CHURCH                                        HOUSTON                   TX  HARRIS                     15.6%
+ 1027  ST CHRISTOPHERS EPISCOPAL CHURCH                                  HOUSTON                   TX  HARRIS                     15.6%
+ 1028  ST CUTHBERTS EPISCOPAL CHURCH                                     HOUSTON                   TX  HARRIS                     15.6%
+ 1029  ST DUNSTANS EPISCOPAL CHURCH                                      HOUSTON                   TX  HARRIS                     15.6%
+ 1030  ST FRANCIS EPISCOPAL CHURCH                                       HOUSTON                   TX  HARRIS                     15.6%
+ 1031  ST JAMES EPISCOPAL CHURCH                                         HOUSTON                   TX  HARRIS                     15.6%
+ 1032  ST MARTINS EPISCOPAL CHURCH                                       HOUSTON                   TX  HARRIS                     15.6%
+ 1033  ST MICHAELS EPISCOPAL CHURCH                                      GALENA PARK               TX  HARRIS                     15.6%
+ 1034  ST PETERS EPISCOPAL CHURCH                                        PASADENA                  TX  HARRIS                     15.6%
+ 1035  ST THOMAS THE APOSTLE EPISCOPAL CHURCH                            HOUSTON                   TX  HARRIS                     15.6%
+ 1036  ST STEPHENS EPISCOPAL CHURCH                                      WIMBERLEY                 TX  HAYS                       12.7%
+ 1037  ST JOHNS EPISCOPAL CHURCH                                         MCALLEN                   TX  HIDALGO                    28.4%
+ 1038  ST MATTHEWS EPISCOPAL CHURCH                                      EDINBURG                  TX  HIDALGO                    28.4%
+ 1039  TRINITY MISSION EPISCOPAL CHURCH                                  EDNA                      TX  JACKSON                    13.8%
+ 1040  TRINITY EPISCOPAL CHURCH                                          JASPER                    TX  JASPER                     20.3%
+ 1041  ST GEORGES EPISCOPAL CHURCH                                       PORT ARTHUR               TX  JEFFERSON                  18.0%
+ 1042  ST MARKS EPISCOPAL CHURCH                                         BEAUMONT                  TX  JEFFERSON                  18.0%
+ 1043  SAINT JAMES EPISCOPAL CHURCH                                      HEBBRONVILLE              TX  JIM HOGG                   31.3%
+ 1044  ALICE EPISCOPAL CHURCH OF THE ADVENT                              ALICE                     TX  JIM WELLS                  21.6%
+ 1045  ST MICHAELS EPISCOPAL CHURCH MISSION                              SANDIA                    TX  JIM WELLS                  21.6%
+ 1046  EPISCOPAL CHURCH OF GOOD SHEPHERD                                 TERRELL                   TX  KAUFMAN                    10.7%
+ 1047  OUR MERCIFUL SAVIOUR EPISCOPAL CHURCH                             KAUFMAN                   TX  KAUFMAN                    10.7%
+ 1048  ST BONIFACE EPISCOPAL CHURCH                                      COMFORT                   TX  KENDALL                     4.8%
+ 1049  ST HELENAS EPISCOPAL CHURCH                                       BOERNE                    TX  KENDALL                     4.8%
+ 1050  ST PETERS EPISCOPAL CHURCH                                        KERRVILLE                 TX  KERR                       12.5%
+ 1051  CHURCH OF THE EPIPHANY EPISCOPAL CHURCH                           KINGSVILLE                TX  KLEBERG                    27.2%
+ 1052  ST TIMOTHYS EPISCOPAL CHURCH MISSION                              COTULLA                   TX  LA SALLE                   18.5%
+ 1053  CHRIST EPISCOPAL CHURCH MEXIA                                     MEXIA                     TX  LIMESTONE                  19.3%
+ 1054  HOLY INNOCENTS EPISCOPAL CHURCH                                   MADISONVILLE              TX  MADISON                    10.6%
+ 1055  ST MARKS EPISCOPAL CHURCH                                         BAY CITY                  TX  MATAGORDA                  17.9%
+ 1056  ST PAULS EPISCOPAL CHURCH                                         BRADY                     TX  MCCULLOCH                  15.2%
+ 1057  HOLY SPIRIT EPISCOPAL CHURCH                                      WACO                      TX  MCLENNAN                   18.5%
+ 1058  ST ALBANS EPISCOPAL CHURCH                                        WACO                      TX  MCLENNAN                   18.5%
+ 1059  ST PAULS EPISCOPAL CHURCH                                         WACO                      TX  MCLENNAN                   18.5%
+ 1060  ST MATTHIAS EPISCOPAL CHURCH                                      DEVINE                    TX  MEDINA                     10.5%
+ 1061  CALVARY EPISCOPAL CHURCH MISSION                                  MENARD                    TX  MENARD                     13.9%
+ 1062  SAINT JOHNS EPISCOPAL CHURCH                                      CORSICANA                 TX  NAVARRO                    15.5%
+ 1063  ALL SAINTS EPISCOPAL CHURCH                                       CORP CHRISTI              TX  NUECES                     16.2%
+ 1064  ST ANDREWS EPISCOPAL CHURCH                                       CORP CHRISTI              TX  NUECES                     16.2%
+ 1065  ST BARTHOLOMEWS EPISCOPAL CHURCH                                  CORP CHRISTI              TX  NUECES                     16.2%
+ 1066  TRINITY BY THE SEA EPISCOPAL CHURCH                               PORT ARANSAS              TX  NUECES                     16.2%
+ 1067  EPIPHANY EPISCOPAL CHURCH                                         CALVERT                   TX  ROBERTSON                  14.6%
+ 1068  HOLY TRINITY BY THE LAKE EPISCOPAL CHURCH                         HEATH                     TX  ROCKWALL                    3.8%
+ 1069  ST LUKES EPISCOPAL CHURCH MISSION                                 SAN SABA                  TX  SAN SABA                   13.3%
+ 1070  ST JOHN THE BAPTIST EPISCOPAL CHURCH                              TYLER                     TX  SMITH                      14.0%
+ 1071  EPISCOPAL CHURCH IN NORTH TEXAS                                   FORT WORTH                TX  TARRANT                    11.4%
+ 1072  ST LAURENCE EPISCOPAL CHURCH                                      SOUTHLAKE                 TX  TARRANT                    11.4%
+ 1073  ALL SAINTS EPISCOPAL CHURCH                                       AUSTIN                    TX  TRAVIS                     11.4%
+ 1074  SAN FRANCISCO DE ASIS EPISCOPAL CHURCH                            AUSTIN                    TX  TRAVIS                     11.4%
+ 1075  ST DAVIDS EPISCOPAL CHURCH                                        AUSTIN                    TX  TRAVIS                     11.4%
+ 1076  ST FRANCIS EPISCOPAL CHURCH OF AUSTIN                             AUSTIN                    TX  TRAVIS                     11.4%
+ 1077  ST JOHNS EPISCOPAL CHURCH AUSTIN                                  AUSTIN                    TX  TRAVIS                     11.4%
+ 1078  ST PAULS EPISCOPAL CHURCH THRIFT SHOP                             WOODVILLE                 TX  TYLER                      18.5%
+ 1079  EPISCOPAL CHURCH OF THE ASCENSION MISSION                         UVALDE                    TX  UVALDE                     21.0%
+ 1080  ST JUSTIN MARTYR EPISCOPAL CHURCH                                 CANTON                    TX  VAN ZANDT                  12.7%
+ 1081  ST STEPHENS EPISCOPAL CHURCH                                      HUNTSVILLE                TX  WALKER                     20.7%
+ 1082  ST FRANCIS OF ASSISI EPISCOPAL CHURCH                             PRAIRIE VIEW              TX  WALLER                     14.7%
+ 1083  CHRIST CHURCH EPISCOPAL                                           LAREDO                    TX  WEBB                       24.6%
+ 1084  ST THOMAS EPISCOPAL CHURCH THRIFT SHOP                            WHARTON                   TX  WHARTON                    15.1%
+ 1085  SAINT JULIAN OF NORWICH EPISCOPAL CHURCH                          CEDAR PARK                TX  WILLIAMSON                  6.1%
+ 1086  ST RICHARDS EPISCOPAL CHURCH MOTHERS DAY OUT                      ROUND ROCK                TX  WILLIAMSON                  6.1%
+ 1087  ST MICHAELS EPISCOPAL CHURCH                                      BRIGHAM CITY              UT  BOX ELDER                   7.9%
+ 1088  EPISCOPAL CHURCH OF THE RESURRECTION                              CENTERVILLE               UT  DAVIS                       5.3%
+ 1089  ALL SAINTS EPISCOPAL CHURCH                                       SALT LAKE CTY             UT  SALT LAKE                   8.6%
+ 1090  ST JAMES EPISCOPAL CHURCH                                         COTTONWOOD HEIGHTS        UT  SALT LAKE                   8.6%
+ 1091  ST PAULS EPISCOPAL CHURCH INC                                     SALT LAKE CTY             UT  SALT LAKE                   8.6%
+ 1092  ST STEPHENS EPISCOPAL CHURCH                                      W VALLEY CITY             UT  SALT LAKE                   8.6%
+ 1093  ST BARNABS EPISCOPAL CHURCH                                       TOOELE                    UT  TOOELE                      5.9%
+ 1094  ST PAUL EPISCOPAL CHURCH                                          VERNAL                    UT  UINTAH                     13.2%
+ 1095  ST MARYS EPISCOPAL CHURCH                                         PROVO                     UT  UTAH                       10.0%
+ 1096  GRACE EPISCOPAL CHURCH                                            ST GEORGE                 UT  WASHINGTON                 10.0%
+ 1097  EPISCOPAL CHURCH OF THE GOOD SHEPHERD                             OGDEN                     UT  WEBER                       8.6%
+ 1098  EMMANUEL EPISCOPAL CHURCH                                         ALEXANDRIA                VA  ALEXANDRIA                  9.4%
+ 1099  SAINT MICHAEL THE ARCHANGEL CHURCH INC                            ARLINGTON                 VA  ARLINGTON                   6.4%
+ 1100  ST MICHAELS EPISCOPAL CHURCH                                      ARLINGTON                 VA  ARLINGTON                   6.4%
+ 1101  MANAKIN EPISCOPAL CHURCH                                          MIDLOTHIAN                VA  CHESTERFIELD                6.6%
+ 1102  ST MICHAELS EPISCOPAL CHURCH                                      COLONIAL HGTS             VA  COLONIAL HEIGHTS            9.9%
+ 1103  SAINT BARNABAS EPISCOPAL CHURCH                                   ANNANDALE                 VA  FAIRFAX                     6.0%
+ 1104  ST ALBANS EPISCOPAL CHURCH                                        ANNANDALE                 VA  FAIRFAX                     6.0%
+ 1105  ST ANNES EPISCOPAL CHURCH                                         RESTON                    VA  FAIRFAX                     6.0%
+ 1106  ST JOHNS EPISCOPAL CHURCH OF CENTREVILLE VIRGINIA CHARITABLE TR   FX STA                    VA  FAIRFAX                     6.0%
+ 1107  ST LUKES EPISCOPAL CHURCH                                         ALEXANDRIA                VA  FAIRFAX                     6.0%
+ 1108  ST GEORGES EPISCOPAL CHURCH                                       FREDERICKSBRG             VA  FREDERICKSBURG             13.9%
+ 1109  ST FRANCIS EPISCOPAL CHURCH                                       MANAKIN SABOT             VA  GOOCHLAND                   4.4%
+ 1110  ALL SOULS EPISCOPAL CHURCH                                        MECHANICSVLLE             VA  HANOVER                     4.9%
+ 1111  EPISCOPAL CHURCH OF THE CREATOR                                   MECHANICSVLLE             VA  HANOVER                     4.9%
+ 1112  CHRIST CHURCH EPISCOPAL                                           GLEN ALLEN                VA  HENRICO                     8.8%
+ 1113  ST MARYS EPISCOPAL CHURCH                                         RICHMOND                  VA  HENRICO                     8.8%
+ 1114  ST PAULS EPISCOPAL CHURCH                                         NEWPORT NEWS              VA  NEWPORT NEWS               14.8%
+ 1115  SAINT PAULS EPISCOPAL CHURCH                                      HAYMARKET                 VA  PRINCE WILLIAM              6.1%
+ 1116  GRACE PROTESTANT EPISCOPAL CHURCH OF RADFORD VA                   RADFORD                   VA  RADFORD                    39.3%
+ 1117  ST CLARES EPISCOPAL CHURCH                                        RICHMOND                  VA  RICHMOND                   20.9%
+ 1118  TRINITY CHURCH                                                    VIRGINIA BCH              VA  VIRGINIA BEACH              7.2%
+ 1119  ST PAULS CHURCH EPISCOPAL                                         VERGENNES                 VT  ADDISON                     7.1%
+ 1120  ZION EPISCOPAL CHURCH                                             MANCHESTR CTR             VT  BENNINGTON                 11.3%
+ 1121  PROTESTANT EPISCOPAL CHURCH                                       S BURLINGTON              VT  CHITTENDEN                 11.2%
+ 1122  ST MARYS EPISCOPAL CHURCH                                         NORTHFIELD                VT  WASHINGTON                 10.2%
+ 1123  ST MICHAELS EPISCOPAL CHURCH                                      BRATTLEBORO               VT  WINDHAM                    13.4%
+ 1124  ST JAMES EPISCOPAL CHURCH                                         WOODSTOCK                 VT  WINDSOR                     9.4%
+ 1125  ST STEPHENS EPISCOPAL CHURCH                                      LONGVIEW                  WA  COWLITZ                    13.3%
+ 1126  CHRIST EPISCOPAL CHURCH                                           SEATTLE                   WA  KING                        8.4%
+ 1127  SAINT JOHNS SOUTH SUDANESE EPISCOPAL CHURCH                       KENT                      WA  KING                        8.4%
+ 1128  ST COLUMBAS EPISCOPAL CHURCH                                      FEDERAL WAY               WA  KING                        8.4%
+ 1129  ST LUKES EPISCOPAL CHURCH                                         SEATTLE                   WA  KING                        8.4%
+ 1130  ST MARGARETS EPISCOPAL CHURCH                                     BELLEVUE                  WA  KING                        8.4%
+ 1131  ST PETERS EPISCOPAL CHURCH                                        SEATTLE                   WA  KING                        8.4%
+ 1132  ST ALBANS EPISCOPAL CHURCH EDMONDS WA                             EDMONDS                   WA  SNOHOMISH                   7.2%
+ 1133  ST BENEDICTS EPISCOPAL CHURCH                                     LACEY                     WA  THURSTON                    9.8%
+ 1134  ST PAULS EPISCOPAL CHURCH                                         WALLA WALLA               WA  WALLA WALLA                11.4%
+ 1135  HOLY TRINITY EPISCOPAL CHURCH                                     SUNNYSIDE                 WA  YAKIMA                     16.5%
+ 1136  FREE EPISCOPAL CHURCH                                             OREGON                    WI  DANE                       11.0%
+ 1137  CHRIST PROTESTANT EPISCOPAL CHURCH                                MILWAUKEE                 WI  MILWAUKEE                  18.3%
+ 1138  ST JAMES EPISCOPAL CHURCH                                         MILWAUKEE                 WI  MILWAUKEE                  18.3%
+ 1139  ST MARKS EPISCOPAL CHURCH                                         MILWAUKEE                 WI  MILWAUKEE                  18.3%
+ 1140  TRINITY EPISCOPAL CHURCH                                          BARABOO                   WI  SAUK                        8.9%
+ 1141  ST THOMAS EPISCOPAL CHURCH                                        MENASHA                   WI  WINNEBAGO                  11.0%
+ 1142  ST JOHNS EPISCOPAL CHURCH                                         HUNTINGTON                WV  CABELL                     22.3%
+ 1143  ST JAMES EPISCOPAL CHURCH                                         LEWISBURG                 WV  GREENBRIER                 17.5%
+ 1144  CHRIST EPISCOPAL CHURCH                                           BLUEFIELD                 WV  MERCER                     18.3%
+ 1145  ST MATTHEWS PROTESTANT EPISCOPAL CHURCH                           WHEELING                  WV  OHIO                       14.4%
+ 1146  ST THOMAS EPISCOPAL CHURCH                                        DUBOIS                    WY  FREMONT                    14.2%
+ 1147  SOCIETY OF THE EPISCOPAL CHURCH FOR THE ADVANCEMENT OF CHRISTIANI JACKSON                   WY  TETON                       6.5%

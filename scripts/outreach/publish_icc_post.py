@@ -79,27 +79,54 @@ def make_charts(img_dir: Path) -> dict:
     images = {}
     conn = sqlite3.connect(str(DB_PATH))
 
-    # ICC by state (US)
+    # Three Restoration Movement branches by state (US):
+    #   324 = Independent Christian Churches (red)
+    #   320 = Churches of Christ (blue)
+    #   318 = Christian Church (Disciples of Christ) (green)
     df = pd.read_sql_query(
-        """SELECT l.state as state, COUNT(*) as n
+        """SELECT l.state as state,
+                  SUM(CASE WHEN c.taxonomy_id = 324 THEN 1 ELSE 0 END) as icc,
+                  SUM(CASE WHEN c.taxonomy_id = 320 THEN 1 ELSE 0 END) as coc,
+                  SUM(CASE WHEN c.taxonomy_id = 318 THEN 1 ELSE 0 END) as doc
            FROM churches c
            LEFT JOIN church_location l ON c.id = l.church_id
-           WHERE c.taxonomy_id = 324 AND l.country = 'US'
+           WHERE c.taxonomy_id IN (324, 320, 318) AND l.country = 'US'
              AND l.state IS NOT NULL AND l.state != ''
-           GROUP BY l.state ORDER BY n DESC""",
+           GROUP BY l.state ORDER BY (icc + coc + doc) DESC""",
         conn
     )
     conn.close()
 
     if not df.empty:
-        fig = px.choropleth(df, locations="state", locationmode="USA-states",
-                            color="n", scope="usa", color_continuous_scale="Oranges",
-                            title=f"Independent Christian Churches by State ({df['n'].sum():,} total)",
-                            labels={"n": "Churches", "state": "State"})
-        fig.update_layout(margin=dict(l=0, r=0, t=40, b=0))
+        # Melt to long form for a grouped bar chart: one bar per branch per state.
+        long = df.melt(id_vars="state", value_vars=["icc", "coc", "doc"],
+                       var_name="branch", value_name="n")
+        branch_names = {"icc": "Independent Christian Churches",
+                        "coc": "Churches of Christ",
+                        "doc": "Christian Church (Disciples of Christ)"}
+        long["branch"] = long["branch"].map(branch_names)
+        # Fixed branch order so colors stay consistent
+        long["branch"] = pd.Categorical(long["branch"],
+                                        categories=[branch_names["icc"],
+                                                    branch_names["coc"],
+                                                    branch_names["doc"]],
+                                        ordered=True)
+
+        # Red / blue / green — one color per branch, combined into one heat map
+        colors = {branch_names["icc"]: "rgb(165, 0, 38)",   # red
+                  branch_names["coc"]: "rgb(49, 54, 149)",  # blue
+                  branch_names["doc"]: "rgb(0, 150, 0)"}    # green
+
+        fig = px.bar(long, x="state", y="n", color="branch",
+                     color_discrete_map=colors, barmode="group",
+                     title="The Three Branches of the Restoration Movement by State",
+                     labels={"n": "Churches", "state": "State", "branch": "Branch"})
+        fig.update_layout(margin=dict(l=0, r=0, t=50, b=0),
+                          legend_title_text="Branch",
+                          xaxis_tickangle=-60)
         path = img_dir / "icc_map.png"
-        fig.write_image(str(path), width=1200, height=700, scale=2)
-        images["icc_map"] = (path, 2400, 1400)
+        fig.write_image(str(path), width=1400, height=800, scale=2)
+        images["icc_map"] = (path, 2800, 1600)
 
     return images
 
@@ -252,6 +279,12 @@ def build_doc(imgs: dict) -> list:
 # ── Main ───────────────────────────────────────────────────────────────
 
 def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--draft-id", type=str, default=None,
+                    help="Update an existing draft instead of creating a new one")
+    args = ap.parse_args()
+
     cookie = os.environ.get("SUBSTACK_COOKIE", "")
     if not cookie:
         print("ERROR: Set SUBSTACK_COOKIE env var")
@@ -277,7 +310,7 @@ def main():
     images = make_charts(img_dir)
     imgs = upload(images, headers)
 
-    print("\n[3/3] Creating draft...")
+    print("\n[3/3] Building post...")
     doc = build_doc(imgs)
     title = "The Church That Refuses to Be a Denomination: Inside the Independent Christian Churches"
     body = {
@@ -287,13 +320,23 @@ def main():
         "type": "newsletter",
         "draft_bylines": [{"id": profile["id"], "publicationUserId": pub_user["id"]}],
     }
-    r = requests.post(f"https://{SUBDOMAIN}.substack.com/api/v1/drafts",
-                      headers=headers, json=body)
-    if r.status_code != 200:
-        print(f"   ERROR ({r.status_code}): {r.text[:300]}")
-        sys.exit(1)
-    draft = r.json()
-    print(f"\n[DONE] https://{SUBDOMAIN}.substack.com/publish/post/{draft['id']}")
+
+    if args.draft_id:
+        r = requests.put(f"https://{SUBDOMAIN}.substack.com/api/v1/drafts/{args.draft_id}",
+                         headers=headers, json=body)
+        if r.status_code != 200:
+            print(f"   ERROR ({r.status_code}): {r.text[:300]}")
+            sys.exit(1)
+        draft = r.json()
+        print(f"\n[DONE] Updated draft: https://{SUBDOMAIN}.substack.com/publish/post/{draft['id']}")
+    else:
+        r = requests.post(f"https://{SUBDOMAIN}.substack.com/api/v1/drafts",
+                          headers=headers, json=body)
+        if r.status_code != 200:
+            print(f"   ERROR ({r.status_code}): {r.text[:300]}")
+            sys.exit(1)
+        draft = r.json()
+        print(f"\n[DONE] https://{SUBDOMAIN}.substack.com/publish/post/{draft['id']}")
 
 
 if __name__ == "__main__":

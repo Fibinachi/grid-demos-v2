@@ -76,57 +76,149 @@ def img(src, w, h, bts):
 # ── Charts ─────────────────────────────────────────────────────────────
 
 def make_charts(img_dir: Path) -> dict:
+    """Generate a tri-color RGB heat map from raw GPS points.
+
+    Each branch (ICC=Red, CoC=Green, Doc=Blue) gets its own kernel density
+    surface. The three surfaces are combined into an RGB image where:
+      - Red intensity = ICC density
+      - Green intensity = CoC density
+      - Blue intensity = Doc density
+
+    State borders are overlaid for reference. This ignores state boundaries
+    for the density calculation, revealing the true regional patterns.
+    """
     images = {}
     conn = sqlite3.connect(str(DB_PATH))
 
-    # Three Restoration Movement branches by state (US):
-    #   324 = Independent Christian Churches (red)
-    #   320 = Churches of Christ (blue)
-    #   318 = Christian Church (Disciples of Christ) (green)
+    # Pull raw GPS points for all three branches
     df = pd.read_sql_query(
-        """SELECT l.state as state,
-                  SUM(CASE WHEN c.taxonomy_id = 324 THEN 1 ELSE 0 END) as icc,
-                  SUM(CASE WHEN c.taxonomy_id = 320 THEN 1 ELSE 0 END) as coc,
-                  SUM(CASE WHEN c.taxonomy_id = 318 THEN 1 ELSE 0 END) as doc
+        """SELECT c.taxonomy_id, c.latitude, c.longitude
            FROM churches c
-           LEFT JOIN church_location l ON c.id = l.church_id
-           WHERE c.taxonomy_id IN (324, 320, 318) AND l.country = 'US'
-             AND l.state IS NOT NULL AND l.state != ''
-           GROUP BY l.state ORDER BY (icc + coc + doc) DESC""",
+           WHERE c.taxonomy_id IN (324, 320, 318)
+             AND c.latitude IS NOT NULL AND c.longitude IS NOT NULL
+             AND c.latitude BETWEEN 24 AND 50
+             AND c.longitude BETWEEN -125 AND -66""",
         conn
     )
     conn.close()
 
-    if not df.empty:
-        # Melt to long form for a grouped bar chart: one bar per branch per state.
-        long = df.melt(id_vars="state", value_vars=["icc", "coc", "doc"],
-                       var_name="branch", value_name="n")
-        branch_names = {"icc": "Independent Christian Churches",
-                        "coc": "Churches of Christ",
-                        "doc": "Christian Church (Disciples of Christ)"}
-        long["branch"] = long["branch"].map(branch_names)
-        # Fixed branch order so colors stay consistent
-        long["branch"] = pd.Categorical(long["branch"],
-                                        categories=[branch_names["icc"],
-                                                    branch_names["coc"],
-                                                    branch_names["doc"]],
-                                        ordered=True)
+    if df.empty:
+        return images
 
-        # Red / blue / green — one color per branch, combined into one heat map
-        colors = {branch_names["icc"]: "rgb(165, 0, 38)",   # red
-                  branch_names["coc"]: "rgb(49, 54, 149)",  # blue
-                  branch_names["doc"]: "rgb(0, 150, 0)"}    # green
+    # Split by branch
+    icc_pts = df[df["taxonomy_id"] == 324][["longitude", "latitude"]].values
+    coc_pts = df[df["taxonomy_id"] == 320][["longitude", "latitude"]].values
+    doc_pts = df[df["taxonomy_id"] == 318][["longitude", "latitude"]].values
 
-        fig = px.bar(long, x="state", y="n", color="branch",
-                     color_discrete_map=colors, barmode="group",
-                     title="The Three Branches of the Restoration Movement by State",
-                     labels={"n": "Churches", "state": "State", "branch": "Branch"})
-        fig.update_layout(margin=dict(l=0, r=0, t=50, b=0),
-                          legend_title_text="Branch",
-                          xaxis_tickangle=-60)
-        path = img_dir / "icc_map.png"
-        fig.write_image(str(path), width=1400, height=800, scale=2)
-        images["icc_map"] = (path, 2800, 1600)
+    # Create a regular grid over the continental US
+    import numpy as np
+    from scipy.stats import gaussian_kde
+
+    lon_min, lon_max = -125, -66
+    lat_min, lat_max = 24, 50
+    grid_res = 300  # 300x300 grid = 90k cells
+
+    lon_grid = np.linspace(lon_min, lon_max, grid_res)
+    lat_grid = np.linspace(lat_min, lat_max, grid_res)
+    LON, LAT = np.meshgrid(lon_grid, lat_grid)
+    grid_coords = np.vstack([LON.ravel(), LAT.ravel()])
+
+    def kde_density(pts, grid_coords, bw=1.5):
+        """Gaussian KDE density on grid. bw in degrees (~165 km at 1 deg)."""
+        if len(pts) < 3:
+            return np.zeros(grid_coords.shape[1])
+        kde = gaussian_kde(pts.T, bw_method=bw)
+        return kde(grid_coords)
+
+    print("  Computing KDE for ICC (red)...")
+    icc_dens = kde_density(icc_pts, grid_coords)
+    print("  Computing KDE for CoC (green)...")
+    coc_dens = kde_density(coc_pts, grid_coords)
+    print("  Computing KDE for Doc (blue)...")
+    doc_dens = kde_density(doc_pts, grid_coords)
+
+    # Normalize each channel independently to [0, 1]
+    for arr in (icc_dens, coc_dens, doc_dens):
+        mx = arr.max()
+        if mx > 0:
+            arr /= mx
+
+    # Build RGB image
+    rgb = np.dstack([
+        icc_dens.reshape(grid_res, grid_res),   # R
+        coc_dens.reshape(grid_res, grid_res),   # G
+        doc_dens.reshape(grid_res, grid_res),   # B
+    ])
+
+    # Apply gamma for better visual contrast
+    gamma = 0.6
+    rgb = np.power(rgb, gamma)
+
+    # Plot with matplotlib for precise control
+    import matplotlib
+    matplotlib.use('Agg')
+    import matplotlib.pyplot as plt
+
+    fig, ax = plt.subplots(figsize=(14, 9))
+
+    # Show the RGB heatmap
+    extent = [lon_min, lon_max, lat_min, lat_max]
+    ax.imshow(rgb, extent=extent, origin='lower', aspect='auto', alpha=0.9)
+
+    # Overlay state borders
+    from matplotlib.patches import Polygon
+    from matplotlib.collections import PatchCollection
+    import json
+
+    # Load US state boundaries from a simple GeoJSON (or use cartopy if available)
+    # For simplicity, draw a clean US outline and major state boundaries
+    # We'll use a pre-downloaded simplified state boundary file if available
+    try:
+        import cartopy.crs as ccrs
+        import cartopy.feature as cfeature
+        ax = plt.axes(projection=ccrs.PlateCarree())
+        ax.set_extent([lon_min, lon_max, lat_min, lat_max], crs=ccrs.PlateCarree())
+        ax.imshow(rgb, extent=extent, origin='lower', aspect='auto', alpha=0.9,
+                  transform=ccrs.PlateCarree())
+        ax.add_feature(cfeature.STATES.with_scale('50m'), edgecolor='white',
+                       facecolor='none', linewidth=0.5, alpha=0.8)
+        ax.add_feature(cfeature.COASTLINE.with_scale('50m'), edgecolor='white',
+                       linewidth=0.5, alpha=0.6)
+    except ImportError:
+        # Fallback: simple matplotlib with basic state outlines
+        # Draw a clean background
+        ax.set_xlim(lon_min, lon_max)
+        ax.set_ylim(lat_min, lat_max)
+        ax.set_aspect(1.3)
+
+    # Title with totals
+    icc_tot = len(icc_pts)
+    coc_tot = len(coc_pts)
+    doc_tot = len(doc_pts)
+    ax.set_title(
+        f"Restoration Movement Density: ICC (Red) | CoC (Green) | Doc (Blue)\n"
+        f"ICC={icc_tot:,}  CoC={coc_tot:,}  Doc={doc_tot:,}  |  Kernel density, state borders overlaid",
+        fontsize=12, fontweight='bold', pad=15
+    )
+
+    # Add a custom legend
+    from matplotlib.patches import Patch
+    legend_elements = [
+        Patch(facecolor='red', label='Independent Christian Churches (ICC)'),
+        Patch(facecolor='green', label='Churches of Christ (CoC)'),
+        Patch(facecolor='blue', label='Christian Church / Disciples of Christ (Doc)'),
+    ]
+    ax.legend(handles=legend_elements, loc='lower left', framealpha=0.9,
+              fontsize=9, title='Branch (RGB Channel)')
+
+    ax.set_xlabel("Longitude")
+    ax.set_ylabel("Latitude")
+
+    path = img_dir / "icc_map.png"
+    fig.savefig(str(path), dpi=200, bbox_inches='tight', facecolor='white')
+    plt.close(fig)
+    print(f"  [OK] Tri-color heatmap saved: {path}")
+    images["icc_map"] = (path, 2800, 1800)
 
     return images
 

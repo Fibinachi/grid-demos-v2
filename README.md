@@ -8,7 +8,7 @@
 
 ## Overview
 
-GRID is an open census of religious infrastructure, assembled from Wikidata, OpenStreetMap, Overture Maps, government databases, and web scraping. **This public release covers Canada and India** — two nations chosen for their exceptional religious diversity and complementary geographic coverage. The full database (~3.29M records across 290 countries) remains in development; the Canada and India subsets are published under CC BY 4.0 with full provenance tracking.
+GRID is an open census of religious infrastructure, assembled from Wikidata, OpenStreetMap, Overture Maps, government databases, and web scraping. **This public release covers Canada and India** — two nations chosen for their exceptional religious diversity and complementary geographic coverage. The full database (~4.9M records across 244 countries, 96.7% geocoded) remains in development; the Canada and India subsets are published under CC BY 4.0 with full provenance tracking.
 
 ### ⚠️ Important Coverage Caveat
 
@@ -81,7 +81,7 @@ The canonical database is `E:\grid\churches.db` (~14.4 GB, SQLite 3.49+, WAL mod
 
 | Table | Rows | Description |
 |-------|------|-------------|
-| `churches` | 3.29M | Main table — filter `WHERE country IN ('CA','IN')` for public subset (292,785) |
+| `churches` | ~4.9M | Main table — filter `WHERE country IN ('CA','IN')` for public subset (292,785) |
 | `taxonomy` | 604 | CFTLM tree nodes with `id`, `parent_id`, `name`, `level` |
 | `provenance_log` | 720+ | Every data operation timestamped with source, script, counts, status |
 | `enrichment_change_log` | 211K+ | Per-field change tracking (old→new values, church_id, source) |
@@ -379,7 +379,7 @@ If you use GRID Canada & India in your research, please cite:
 
 ## Public Release Notes
 
-**Scope**: This public release covers **Canada (CA)** and **India (IN)** only. Filter queries by `WHERE country IN ('CA', 'IN')`. The full database of ~3.29M records across 290 countries remains under active development and is not included in this publication.
+**Scope**: This public release covers **Canada (CA)** and **India (IN)** only. Filter queries by `WHERE country IN ('CA', 'IN')`. The full database of ~4.9M records across 244 countries remains under active development and is not included in this publication.
 
 **Excluded**: United States (~1M records), Brazil (~205K), Japan (~158K), Indonesia (~152K), Germany (~106K), United Kingdom (~101K), and all other countries.
 
